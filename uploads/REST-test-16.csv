@@ -1,0 +1,4 @@
+﻿Contact Type,Organization,Client Name,Email,Street,Street2,City,Province/State,Country,Postal/Zip Code,Business Phone,Home Phone/Phone1,Mobile Phone/Phone2,Relationship Notes,Client Location,Invoice Profile Frequency,stripe_customer_id,stripe_source_id,card_last_4,"expiry_year	",expiry_month,card_type,subscription_total,invoice_id,next_payment_date,payer_email
+Primary,Adam King - 9331,Adam King,adam.brian.king@gmail.com,2803 Hemingway Drive,,Nashville,Tennessee,United States,37215,(214) 455-7187,,,"9331
+RRC-F2CMS
+RRC-F4CMS",Active,3m,cus_NEK1VDb3kVVgSV,src_1MTrN9KPS7KEOFbqfsUF8A7N,9540,2027,6,Visa,174,61277,5/1/2021,adam.brian.king@gmail.com

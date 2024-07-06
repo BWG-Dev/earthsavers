@@ -1,0 +1,3 @@
+Contact Type,Organization,Client Name,Email,Street,Street2,City,Province/State,Country,Postal/Zip Code,Business Phone,Home Phone/Phone1,Mobile Phone/Phone2,Relationship Notes,Client Location,user_billing_interval,stripe_customer_id,stripe_source_id,card_last_4,expiry_year	,expiry_month,card_type,subscription_total
+Primary,161 Rosa L Parks (Frost Bldg),Test Qa,test999qa@gmail.com,12770 El Camino Real,Ste 200,San Diego,California,United States,92130,,,202 020 2020,,Active,1,cus_MtLZGJa92KLqLn,card_1M9YtvAY47vxYGIAND3OZHzA,242,2025,04,visa,5.25
+Secondary,161 Rosa L Parks (Frost Bldg),Tester,peterpa9495@gmail.com,12770 El Camino Real,Ste 200,San Diego,California,United States,92130,,615 493 9254,404 401 0526,,Active,,,,,,,,

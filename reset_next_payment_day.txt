@@ -1,0 +1,114 @@
+
+<?php
+function es_write_log($message) {
+	if(is_array($message)) {
+		$message = json_encode($message);
+	}
+	$file = fopen(ES_PLUGIN_PATH . "/log/custom_log.log","a");
+	echo fwrite($file, "\n" . date('Y-m-d h:i:s') . " :: " . $message);
+	fclose($file);
+}
+
+if(isset($_POST['import_users'])){
+
+
+	$file_name = sanitize_file_name($_FILES['file_import']['name']);
+	$file_tmp = sanitize_text_field($_FILES['file_import']['tmp_name']);
+	move_uploaded_file($file_tmp, ES_PLUGIN_PATH . 'uploads/' . $file_name );
+
+	if (($handle = fopen(ES_PLUGIN_PATH . 'uploads/' . $file_name, "r")) !== FALSE) {
+		$cont=0;
+		$current_primary_account = 0;
+		while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
+
+			if($cont === 0){ $cont++; continue; }
+
+			$email = $data[0];
+			$interval = $data[1];
+			$invoice_id = $data[2];
+			$next_payment_day = $data[3];
+
+			$next_payment_sub = es_get_next_payment_day( $next_payment_day , $interval );
+
+		//	var_dump($next_payment_sub);
+			global $wpdb;
+
+			$order_ids = $wpdb->get_results( "SELECT * from wp_bxcl_postmeta where meta_key = 'es_invoice_id' AND meta_value = '$invoice_id' AND post_id > 27362 ORDER BY post_id"  );
+			if(count($order_ids) == 2){
+
+				if(wcs_get_subscription($order_ids[1]->post_id) && intval($order_ids[1]->post_id) ){
+
+					$sub = wcs_get_subscription($order_ids[1]->post_id);
+					$next_payment = date_create($next_payment_sub . ' 09:00:00');
+
+					$dates = array(
+						'next_payment' => date_format($next_payment, 'Y-m-d H:i:s'),
+						'end'          => 0,
+					);
+
+					es_change_next_payment_date($sub, $next_payment);
+
+					$sub->update_dates( $dates );
+					$sub->save();
+				}
+			}
+
+			$cont++;
+		}
+		fclose($handle);
+	}else{
+		echo "There was an error in your file.";
+	}
+
+	echo "<br><strong> Import Finished!</strong>";
+
+}
+
+function es_change_next_payment_date($subscription, $next_payment_date) {
+
+
+		$scheduled_actions_args = array(
+			'status'            => ActionScheduler_Store::STATUS_PENDING,
+			'claimed'           => null,
+			'hook' 				=> 'woocommerce_scheduled_subscription_payment',
+			'status'			=> 'pending',
+			'per_page'          => -1,
+			'args'   => array(
+				'subscription_id' => $subscription->get_id(),
+			)
+		);
+
+		$pending_actions_ids = as_get_scheduled_actions( $scheduled_actions_args, 'ids' );
+
+		// Change action schedule
+		foreach ( $pending_actions_ids as $action_id ) {
+			// We are careful to reschedule only 'woocommerce_scheduled_subscription_payment' actions
+				as_unschedule_action( $action_id );
+				as_schedule_single_action( strtotime( $next_payment_date ), 'woocommerce_scheduled_subscription_payment', array( 'subscription_id' => $subscription->get_id() ) );
+		}
+
+
+}
+
+function es_get_next_payment_day($next_payment_day, $interval){
+	$next_month = date('m', strtotime($next_payment_day));
+	$next_day = date('d', strtotime($next_payment_day));
+
+	$next_payment_sub = date('m/d/Y', strtotime($next_month . '/' . $next_day . '/2023'));
+	while(new DateTime($next_payment_sub . ' 23:50:50') < new DateTime('now')){
+
+		if($interval == '3m' || $interval == 'empty' || empty($interval)){
+			$next_payment_sub = date('m/d/Y', strtotime("+3 months", strtotime($next_payment_sub)));
+
+		}else if($interval == 'y'){
+			$next_payment_sub = date('m/d/Y', strtotime("+12 months", strtotime($next_payment_sub)));
+		}else{
+			$next_payment_sub = date('m/d/Y', strtotime("+1 months", strtotime($next_payment_sub)));
+		}
+
+	}
+
+	return $next_payment_sub;
+}
+
+?>

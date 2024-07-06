@@ -1,0 +1,140 @@
+﻿Contact Type,Organization,Client Name,Email,Street,Street2,City,Province/State,Country,Postal/Zip Code,Business Phone,Home Phone/Phone1,Mobile Phone/Phone2,Relationship Notes,Client Location,Invoice Profile Frequency,stripe_customer_id,stripe_source_id,card_last_4,"expiry_year	",expiry_month,card_type,subscription_total,invoice_id,next_payment_date,payer_email
+Primary,Crema - EAST,Rachel Lehman,rachel@crema-coffee.com,226 Duke Street,,Nashville,Tennessee,United States,37207,,(615) 255-8311,1,,Active,3m,cus_NEK1yfp34KQP1w,src_1MTrN3KPS7KEOFbqHdKusQoc,6024,2028,10,Visa,702,37890,12/1/2019,
+Primary,Crema - DOWNTOWN,Rachel Lehman,RACHEL@CREMA-COFFEE.COM,15  HERMITAGE AVE,,NASHVILLE,Tennessee,United States,37210,rcm01 week 1-4,615-255-8311,,rachellehman81@gmail.com,Active,3m,cus_NEK1g07SMDc8KZ,src_1MTrNJKPS7KEOFbqTYkUGoFQ,1309,2028,3,Visa,884,3133,6/1/2021,
+Primary,SB# 10172--COOL SPRINGS,Shawn Anthoney ,shawn.anthoney@engie.com,9175 CAROTHERS PKWY,,FRANKLIN,,United States,37067,mcm01 week 1-4,,na,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,776,3162,10/1/2021,
+Primary,SB# 10646--GALLATIN,Shawn Anthoney,shawn.anthoney@engie.com,875 NASHVILLE PK,,GALLATIN,Tennessee,United States,37066,Hville 1st&3rd Wed weekly,,na,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,764,3175,10/1/2021,
+Primary,SB# 11204-METRO CENTER,Shawn Anthoney ,shawn.anthoney@engie.com,515 DOMINICAN DR,,NASHVILLE,Tennessee,United States,37228,,,na,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2370,3292,10/1/2021,
+Primary,SB# 11294--HERMITAGE,Shawn Anthoney ,shawn.anthoney@engie.com,5008 OLD HICKORY BLVD,,HERMITAGE,Tennessee,United States,37076,,,na,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,294,3293,10/1/2021,
+Primary,SB# 8338-BRENTWOOD,Shawn Anthoney ,shawn.anthoney@engie.com,269 FRANKLIN RD,,BRENTWOOD,Tennessee,United States,37027,,,na,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,596,3302,10/1/2021,
+Primary,SB# 8349-COOL SPRINGS,Shawn Anthoney ,shawn.anthoney@engie.com,555 COOL SPRINGS BLVD,,FRANKLIN,Tennessee,United States,37067,,,na,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,890,3304,10/1/2021,
+Primary,SB# 8403-BELLE MEADE 2,Shawn Anthoney ,shawn.anthoney@engie.com,4512 HARDING RD,,NASHVILLE,Tennessee,United States,37205,,,na,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,672,3308,10/1/2021,
+Primary,SB# 8477-FRANKLIN HWY 96,Shawn Anthoney ,shawn.anthoney@engie.com,204 S ROYAL OAKS BLVD,,FRANKLIN,Tennessee,United States,37064,,,na,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,1026,3310,5/1/2023,
+Primary,SB# 9778-MARYLAND FARMS,Shawn Anthoney ,shawn.anthoney@engie.com,198 WESTPARK DR,,BRENTWOOD,Tennessee,United States,37027,,,na,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,984,3313,10/1/2021,
+Primary,SB# 9779-ANTIOCH,Shawn Anthoney ,Shawn.Anthoney@engie.com,2308 MURFREESBORO RD,,NASHVILLE,Tennessee,United States,37217,,,na,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2166,9121,10/1/2021,
+Primary,SB# 9781-WEST END AVE,Shawn Anthoney ,Shawn.Anthoney@engie.com,3003 WEST END AVE,,NASHVILLE,Tennessee,United States,37203,,509-324-5212,na,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,795,3317,10/1/2021,
+Primary,TOWNHOMES OF SHADOW GLEN,PARAGON MGMT GRP SHADOW GLEN,teresa@paragontn.com,5845 NOLENSVILLE RD.,,ANTIOCH,Tennessee,United States,37211,F2CMS,615-731-4767,615-731-4767,,Active,3m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,1872,4140,3/1/2016,
+Primary,THE LOFTS,PARAGON MGMT GRP ,teresa@paragontn.com,2201 8TH AVE S.,,NASHVILLE,Tennessee,United States,37204,rcm01 week 2,615-731-4767,615-731-4767,,Active,3m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,507,4256,3/1/2016,
+Primary,"Schneider Electric USA, INC",Accounts Payable,ap@wasteharmonics.com,Waste Harmonics,"7620 Omnitech Place, Suite 1",Victor,New York,United States,14564,,585-924-9640,,,Active,3m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,1749,38156,12/1/2019,
+Primary,Schneider Electric--TWO,Accounts Payable,ap@wasteharmonics.com,Waste Harmonics,"7620 Omnitech Place, Suite 1",Victor,New York,United States,14564,,585-924-9640,,,Active,3m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,1271,46363,6/1/2021,
+Primary,Schneider Electric--THREE,Accounts Payable,ap@wasteharmonics.com,Waste Harmonics,7620 Omnitech Place Suite 1,Victor,New York,United States,14564,,585-924-9640,,9369,Active,3m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,751,46365,6/1/2021,
+Primary,Bank of America,Accounts Payable,invoices@rubicon.com,"C/O RiverRoad Waste Solutions, Inc.","125 Half Mile Road, Suite 201",Red Bank,New Jersey,United States,7701,GV032-001 -008,732-275-3411,NA,"-	PDF invoices go to invoices@rubicon.com 
+-	Statements, aging reports, and general invoice inquiries go to rubiconpayables@rubicon.com 
+-	Questions about a particular payment you have received? Reach our Accounting Payables Dept at ap@rubicon.com",Active,3m,cus_NEK13gzSQlcf5m,src_1MTrNIKPS7KEOFbq1LH7xA6h,2613,2023,3,MasterCard,1560,46659,11/1/2021,
+Primary,5th/3rd Bank, ,invoices@rubicon.com,"Rubicon Global, LLC",P.O.Box 77587,Atlanta,,United States,30357-1587,GV035-001-009,678-906-2609,na,$20/wkly  1-96G @ EACH BANK;    380 West Main St-37075; 1044 Glenbrook Way- 37075; 2437 Old Fort Pkwy-37128; 1131 Nashville Pike-37066; 1713 Mallory Lane-37027; 1311 Bell Rd-37013; 2950 S. Church St.-37127; 6674 Nolensville Pike-37027; 2814 West End Ave-37203,Active,3m,cus_NEK13gzSQlcf5m,src_1MTrNIKPS7KEOFbq1LH7xA6h,2613,2023,3,MasterCard,3510,46662,11/1/2021,
+Primary,Wells Fargo Bank (River Road),Accounts Payable,invoices@rubicon.com,,,,,,,GV047,,na,FRIDAY BANK ROUTE; 1-96G,Active,3m,cus_NEK13gzSQlcf5m,src_1MTrNIKPS7KEOFbq1LH7xA6h,2613,2023,3,MasterCard,975,46674,11/1/2021,
+Secondary,JLL,James Bandy,office@earthsavers.org,"1801 West End Avenue, Suite 1100",,Nashville,Tennessee,United States,37203,rcm01 week 1-4,,,,Active,,,,,,,,,,,
+Secondary,Crema - DOWNTOWN,Accounts Payable,accounting@crema-coffee.com,15  HERMITAGE AVE,,NASHVILLE,Tennessee,United States,37210,rcm01 week 1-4,,,rachellehman81@gmail.com,Active,,,,,,,,,,,
+Secondary,SB# 10172--COOL SPRINGS, ,WEMBills.impact@engie.com,9175 CAROTHERS PKWY,,FRANKLIN,,United States,37067,mcm01 week 1-4,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,,,,,,,,,,,
+Secondary,SB# 10172--COOL SPRINGS,NULL,carisse.supan@engie.com,9175 CAROTHERS PKWY,,FRANKLIN,,United States,37067,mcm01 week 1-4,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,,,,,,,,,,,
+Secondary,SB# 10646--GALLATIN, ,WEMBills.impact@engie.com,875 NASHVILLE PK,,GALLATIN,Tennessee,United States,37066,Hville 1st&3rd Wed weekly,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,,,,,,,,,,,
+Secondary,SB# 10646--GALLATIN,NULL,carisse.supan@engie.com,875 NASHVILLE PK,,GALLATIN,Tennessee,United States,37066,Hville 1st&3rd Wed weekly,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,,,,,,,,,,,
+Secondary,REI000064 - BRENTWOOD,Amit Mehta,amehta1@wm.com,261 FRANKLIN RD,,BRENTWOOD,Tennessee,United States,37027,mcm01 week 1,,,"payment issues: VendorMgmt@wm.com 
+Phone 860 760-9401
+
+shannon porter - sr64@rei.com
+615-377-9809 or 615-376-4248
+
+OLD VENDOR: Mail PDFs to: rocktenninvoices@rocktenn.com
+ssccinvoices@rocktenn.com",Active,,,,,,,,,,,
+Secondary,SB# 11204-METRO CENTER, ,WEMBills.impact@engie.com,515 DOMINICAN DR,,NASHVILLE,Tennessee,United States,37228,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,,,,,,,,,,,
+Secondary,SB# 11204-METRO CENTER,NULL,carisse.supan@engie.com,515 DOMINICAN DR,,NASHVILLE,Tennessee,United States,37228,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,,,,,,,,,,,
+Secondary,SB# 11294--HERMITAGE, ,WEMBills.impact@engie.com,5008 OLD HICKORY BLVD,,HERMITAGE,Tennessee,United States,37076,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,,,,,,,,,,,
+Secondary,SB# 11294--HERMITAGE,NULL,carisse.supan@engie.com,5008 OLD HICKORY BLVD,,HERMITAGE,Tennessee,United States,37076,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,,,,,,,,,,,
+Secondary,SB# 8338-BRENTWOOD, ,WEMBills.impact@engie.com,269 FRANKLIN RD,,BRENTWOOD,Tennessee,United States,37027,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,,,,,,,,,,,
+Secondary,SB# 8338-BRENTWOOD,NULL,carisse.supan@engie.com,269 FRANKLIN RD,,BRENTWOOD,Tennessee,United States,37027,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,,,,,,,,,,,
+Secondary,SB# 8349-COOL SPRINGS, ,WEMBills.impact@engie.com,555 COOL SPRINGS BLVD,,FRANKLIN,Tennessee,United States,37067,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,,,,,,,,,,,
+Secondary,SB# 8349-COOL SPRINGS,NULL,carisse.supan@engie.com,555 COOL SPRINGS BLVD,,FRANKLIN,Tennessee,United States,37067,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,,,,,,,,,,,
+Secondary,SB# 8403-BELLE MEADE 2, ,WEMBills.impact@engie.com,4512 HARDING RD,,NASHVILLE,Tennessee,United States,37205,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,,,,,,,,,,,
+Secondary,SB# 8403-BELLE MEADE 2,NULL,carisse.supan@engie.com,4512 HARDING RD,,NASHVILLE,Tennessee,United States,37205,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,,,,,,,,,,,
+Secondary,SB# 8477-FRANKLIN HWY 96, ,WEMBills.impact@engie.com,204 S ROYAL OAKS BLVD,,FRANKLIN,Tennessee,United States,37064,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,,,,,,,,,,,
+Secondary,SB# 9778-MARYLAND FARMS, ,WEMBills.impact@engie.com,198 WESTPARK DR,,BRENTWOOD,Tennessee,United States,37027,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,,,,,,,,,,,
+Secondary,SB# 9778-MARYLAND FARMS,NULL,carisse.supan@engie.com,198 WESTPARK DR,,BRENTWOOD,Tennessee,United States,37027,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,,,,,,,,,,,
+Secondary,SB# 9779-ANTIOCH, ,WEMBills.impact@engie.com,2308 MURFREESBORO RD,,NASHVILLE,Tennessee,United States,37217,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,,,,,,,,,,,
+Secondary,SB# 9779-ANTIOCH,NULL,carisse.supan@engie.com,2308 MURFREESBORO RD,,NASHVILLE,Tennessee,United States,37217,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,,,,,,,,,,,
+Secondary,SB# 9781-WEST END AVE, ,WEMBills.impact@engie.com,3003 WEST END AVE,,NASHVILLE,Tennessee,United States,37203,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,,,,,,,,,,,
+Secondary,SB# 9781-WEST END AVE,NULL,carisse.supan@engie.com,3003 WEST END AVE,,NASHVILLE,Tennessee,United States,37203,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,Active,,,,,,,,,,,
+Secondary,RAMBOLL (OBG ENGINEERS),Send PDF ,office@earthsavers.org,201 SUMMIT VIEW DR,STE 300,NASHVILLE,Tennessee,United States,,rbz02 week 1,,,Formerly Environ,Active,,,,,,,,,,,
+Secondary,"KRAFT CPAS, PLLC (Freeman Webb - Triple Five)",PDF Upload ,office@earthsavers.org,555 Great Circle Rd,,NASHVILLE,Tennessee,United States,37228,tbz02 week 1,,,"vendorcafe.com
+UN:  bbandy@earthsavers.org
+PW: VC!esBB2021",Active,,,,,,,,,,,
+Secondary,SMS Holdings,NULL,swhipkey@avidxchange.com,7135 Charlotte Pike,,NASHVILLE,Tennessee,United States,37209,M5CMS,,,"SEND PDF INV:  invoices4sms@avidbill.com;
+
+APHelp@smsholdings.com (no invoices)",Active,,,,,,,,,,,
+Secondary,FREEMAN WEBB,PDF Upload ,office@earthsavers.org,3810 Bedford Ave,,Nashville,Tennessee,United States,37215,rcm01 week 1,,,"vendorcafe.com
+UN:  bbandy@earthsavers.org or v0001439
+PW: VC!esBB2021 or es!BB2002",Active,,,,,,,,,,,
+Secondary,Avant Underwriters (HUB INTERNATIONACORP),send PDF ,office@earthsavers.org,"155 Franklin Road, Suite 200",,BRENTWOOD,Tennessee,United States,37027,rbz02 week 1,,,"formerly: TIS NASHVILLE at 9020 OVERLOOK BLVD, SUITE 202",Active,,,,,,,,,,,
+Secondary,AEG Live,send PDF ,office@earthsavers.org,PO Box 3507,ATTN:  Accounts Payable,Little Rock,Arkansas,United States,72203-3507,,,,,Active,,,,,,,,,,,
+Secondary,"WSL:  Philips Plaza, LLC", ,office@earthsavers.org,"c/o Commonwealth Commercial Partners TN, LLC",PO Box 36774,Charlotte,North Carolina,United States,28236,,,,"Send PDF invoice to Avid  Bill
+building management company",Active,,,,,,,,,,,
+Secondary,"WSL:  Philips Plaza, LLC",NULL,csiri@avidxchange.com,"c/o Commonwealth Commercial Partners TN, LLC",PO Box 36774,Charlotte,North Carolina,United States,28236,,,,"Send PDF invoice to Avid  Bill
+building management company",Active,,,,,,,,,,,
+Secondary,Tennessee Orthopaedic Alliance, ,accountspayable@toa.com,608 Norris Ave,,Nashville,Tennessee,United States,37204,,,,,Active,,,,,,,,,,,
+Secondary,Tennessee Orthopaedic Alliance,Pearlie Williams,AccountsPayable@TOA.COM,608 Norris Ave,,Nashville,Tennessee,United States,37204,,,,,Active,,,,,,,,,,,
+Secondary,TWB Company LLC,Send PDF ,office@earthsavers.org,PO Box 1205,,Pico Rivers,California,United States,90660,,,,"OLD:  Apadvantage.twbus@WSS.PNC.COM
+         twbinvoices@iqbackoffice.com",Active,,,,,,,,,,,
+Secondary,JLL/Royal Philips,EMAIL PDF ,office@earthsavers.org,200 E RANDOLPH STREET STE 2200,,Chicago,Illinois,United States,606016433,,,,"Bank of America Payment:
+PW: BOFA!esBB2002
+Account Information:
+Name on Account: EARTHSAVERS LLC
+Account Number: 471 529267067 9134-589
+Exp Date: 11/2023
+
+Invoice submittal to CorrigoPro :
+PW RP!esBB2002
+ --Open current month work order
+--check-in
+--open invoice window
+--add invoice date and number
+--attached invoice
+--submit",Active,,,,,,,,,,,
+Secondary,Crema - EAST,Accounts Payable,accounting@crema-coffee.com,226 Duke Street,,Nashville,Tennessee,United States,37207,,,,,Active,,,,,,,,,,,
+Secondary,"Warner Music Group ONE, TWO, & THREE",INV PDF Bandy,office@earthsavers.org,20 & 21 Music Square East,511 Union Street,Nashville,Tennessee,United States,37203,,,,,Active,,,,,,,,,,,
+Secondary,"One Nashville Place, LLC  (Unico Properties)",NULL,aratliff@avidxchange.com,Unico Properties LLC:  Attn: One Nashville Place,"1215 Fourth Avenue, Suite 600",Seattle,Washington,United States,98161,6153131412,,,Alert client prior to any collection schedule change so they can alert tenants who place bins out in hall,Active,,,,,,,,,,,
+Secondary,"Gateway Plaza I Property Owner, LLC (Avison Young)",Cindy Gibbs,cindy.gibbs@avisonyoung.com,5409 Maryland Way,,Brentwood,Tennessee,United States,37027,1,615.727.7420,,,Active,,,,,,,,,,,
+Secondary,"Gateway Plaza I Property Owner, LLC (Avison Young)", ,emuniz@avidxchange.com,5409 Maryland Way,,Brentwood,Tennessee,United States,37027,1,,,,Active,,,,,,,,,,,
+Secondary,"Schneider Electric USA, INC",James Hebden,James.Hebden@am.jll.com,Waste Harmonics,"7620 Omnitech Place, Suite 1",Victor,New York,United States,14564,,615-821-8351,,,Active,,,,,,,,,,,
+Secondary,"Schneider Electric USA, INC",Nicholas Pope,Nicholas.Pope@am.jll.com,Waste Harmonics,"7620 Omnitech Place, Suite 1",Victor,New York,United States,14564,,,,,Active,,,,,,,,,,,
+Secondary,"Schneider Electric USA, INC",Kathleen DeBlois,Kathleen.DeBlois@am.jll.com,Waste Harmonics,"7620 Omnitech Place, Suite 1",Victor,New York,United States,14564,,,,,Active,,,,,,,,,,,
+Secondary,"Schneider Electric USA, INC",Beth Damelia,bdamelia@wasteharmonics.com,Waste Harmonics,"7620 Omnitech Place, Suite 1",Victor,New York,United States,14564,,386-960-4153,,,Active,,,,,,,,,,,
+Secondary,Community Healthcare Trust Incorporated,send PDF ,office@earthsavers.org,"3326 Aspen Grove Drive, Suite 150",,Franklin,Tennessee,United States,37067,,,,,Active,,,,,,,,,,,
+Secondary,USDA  (Avision Young),Cindy Gibbs,cindy.gibbs@avisonyoung.com,Point Place I -- c/o Avison Young,700 12th Ave South,Nashville,Tennessee,United States,37203,615-727-7420,615.727.7420,,,Active,,,,,,,,,,,
+Secondary,USDA  (Avision Young), ,emuniz@avidxchange.com,Point Place I -- c/o Avison Young,700 12th Ave South,Nashville,Tennessee,United States,37203,615-727-7420,,,,Active,,,,,,,,,,,
+Secondary,USDA  (Avision Young),NULL,aratliff@avidxchange.com,Point Place I -- c/o Avison Young,700 12th Ave South,Nashville,Tennessee,United States,37203,615-727-7420,,,,Active,,,,,,,,,,,
+Secondary,USDA  (Avision Young),NULL,csiri@avidxchange.com,Point Place I -- c/o Avison Young,700 12th Ave South,Nashville,Tennessee,United States,37203,615-727-7420,,,,Active,,,,,,,,,,,
+Secondary,USDA  (Avision Young),NULL,swhipkey@avidxchange.com,Point Place I -- c/o Avison Young,700 12th Ave South,Nashville,Tennessee,United States,37203,615-727-7420,,,,Active,,,,,,,,,,,
+Secondary,Schneider Electric--TWO,Nicholas Pope,Nicholas.Pope@am.jll.com,Waste Harmonics,"7620 Omnitech Place, Suite 1",Victor,New York,United States,14564,,,,,Active,,,,,,,,,,,
+Secondary,Schneider Electric--TWO,James Hebden,james.hebden@am.jll.com,Waste Harmonics,"7620 Omnitech Place, Suite 1",Victor,New York,United States,14564,,615-821-8351,,,Active,,,,,,,,,,,
+Secondary,Schneider Electric--TWO,Beth Damelia,bdamelia@wasteharmonics.com,Waste Harmonics,"7620 Omnitech Place, Suite 1",Victor,New York,United States,14564,,386-960-4153,,,Active,,,,,,,,,,,
+Secondary,Schneider Electric--THREE,Nicholas Pope,Nicholas.Pope@am.jll.com,Waste Harmonics,7620 Omnitech Place Suite 1,Victor,New York,United States,14564,,,,9369,Active,,,,,,,,,,,
+Secondary,Schneider Electric--THREE,Kathleen DeBlois,Kathleen.DeBlois@am.jll.com,Waste Harmonics,7620 Omnitech Place Suite 1,Victor,New York,United States,14564,,,,9369,Active,,,,,,,,,,,
+Secondary,Schneider Electric--THREE,James Hebden,james.hebden@am.jll.com,Waste Harmonics,7620 Omnitech Place Suite 1,Victor,New York,United States,14564,,615-821-8351,,9369,Active,,,,,,,,,,,
+Secondary,Schneider Electric--THREE,Beth Damelia,bdamelia@wasteharmonics.com,Waste Harmonics,7620 Omnitech Place Suite 1,Victor,New York,United States,14564,,386-960-4153,,9369,Active,,,,,,,,,,,
+Secondary,Olympus Midtown (bm333),Amit Mehta,amehta1@wm.com,PO BOX 4697,,Logan,Utah,United States,84323,GV026,,,"Service Location: 1700 State Street, 37203",Active,,,,,,,,,,,
+Secondary,Bank of America,Jesse Shannon,Jesse.Shannon@rubicon.com,"C/O RiverRoad Waste Solutions, Inc.","125 Half Mile Road, Suite 201",Red Bank,New Jersey,United States,7701,GV032-001 -008,732-275-3403,,"-	PDF invoices go to invoices@rubicon.com 
+-	Statements, aging reports, and general invoice inquiries go to rubiconpayables@rubicon.com 
+-	Questions about a particular payment you have received? Reach our Accounting Payables Dept at ap@rubicon.com",Active,,,,,,,,,,,
+Secondary,Bank of America, ,customer.service@rubicon.com,"C/O RiverRoad Waste Solutions, Inc.","125 Half Mile Road, Suite 201",Red Bank,New Jersey,United States,7701,GV032-001 -008,,,"-	PDF invoices go to invoices@rubicon.com 
+-	Statements, aging reports, and general invoice inquiries go to rubiconpayables@rubicon.com 
+-	Questions about a particular payment you have received? Reach our Accounting Payables Dept at ap@rubicon.com",Active,,,,,,,,,,,
+Secondary,Bank of America,Accounts Payable,ap@rubicon.com,"C/O RiverRoad Waste Solutions, Inc.","125 Half Mile Road, Suite 201",Red Bank,New Jersey,United States,7701,GV032-001 -008,,,"-	PDF invoices go to invoices@rubicon.com 
+-	Statements, aging reports, and general invoice inquiries go to rubiconpayables@rubicon.com 
+-	Questions about a particular payment you have received? Reach our Accounting Payables Dept at ap@rubicon.com",Active,,,,,,,,,,,
+Secondary,5th/3rd Bank, ,ap@rubicon.com,"Rubicon Global, LLC",P.O.Box 77587,Atlanta,,United States,30357-1587,GV035-001-009,Questions about payment,,$20/wkly  1-96G @ EACH BANK;    380 West Main St-37075; 1044 Glenbrook Way- 37075; 2437 Old Fort Pkwy-37128; 1131 Nashville Pike-37066; 1713 Mallory Lane-37027; 1311 Bell Rd-37013; 2950 S. Church St.-37127; 6674 Nolensville Pike-37027; 2814 West End Ave-37203,Active,,,,,,,,,,,
+Secondary,Summer Street Lofts - Freeman Webb,PDF Upload ,office@earthsavers.org,Jody Boles,500 Madiston St,Nashville,Tennessee,United States,37208,GV040,,,"cell:615-394-5676 ;   Weekly-Mon;  4-96G
+
+vendorcafe.com
+UN: bbandy@earthsavers.org
+PW: VC!jr1215b22
+AN:  v0001349",Active,,,,,,,,,,,
+Secondary,Wells Fargo Bank (River Road),Jesse Shannon,Jesse.Shannon@rubicon.com,,,,,,,GV047,732-275-3403,,FRIDAY BANK ROUTE; 1-96G,Active,,,,,,,,,,,
+Secondary,Wells Fargo Bank (River Road),Accounts Payable,ap@rubicon.com,,,,,,,GV047,,,FRIDAY BANK ROUTE; 1-96G,Active,,,,,,,,,,,
+Secondary,Wells Fargo Bank (River Road), ,customer.service@rubicon.com,,,,,,,GV047,,,FRIDAY BANK ROUTE; 1-96G,Active,,,,,,,,,,,
+Secondary,SWVP-NY P45 TOWER ONE LLC c/o CBRE,send PDF invoice,office@earthsavers.org,BB#P4-2618NYTW1,PO Box 2147,Warren,Michigan,United States,48090-2147,Amazon Operations Center,,,"cbre.vendorcafe.com
+
+UN: bbandy@earthsavers.org
+PW: es!BB2002",Active,,,,,,,,,,,
+Secondary,Alto Solutions,NULL,office@earthsavers.org,Capitol View Block E,"500 11th Ave N, suite 790",Nashville,Tennessee,United States,37203,9389,,,,Active,,,,,,,,,,,
+Secondary,Cardio Partners (DXE MEDICAL),NULL,office@earthsavers.org,1001 Flagpole Court,,Brentwood,Tennessee,United States,37027,9397,,,,Active,,,,,,,,,,,
+Secondary,Beech High School Environmental Club,Makenzie Neal Rankin,Makenzie.Rankin@sumnerschools.org,3126 Long Hollow Pike,,Hendersonville,Tennessee,United States,37075,,,old: Makenzie.Neal@sumner,,Active,,,,,,,,,,,
+Secondary,Beech High School Environmental Club,Makenzie Rankin Rankin,makenzie.rankin@sumnerschools.org,3126 Long Hollow Pike,,Hendersonville,Tennessee,United States,37075,,,,,Active,,,,,,,,,,,

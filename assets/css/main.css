@@ -1,0 +1,259 @@
+#es_service_list, .es_interval{
+    padding-left: 0 !important;
+}
+
+#es_service_list li, .es_interval li{
+    list-style: none !important;
+}
+
+#customer_details{
+    display: flex;
+    gap: 40px;
+}
+
+.referred_list{
+    padding-left: 0;
+}
+
+.es_user_list{
+    height: 500px;
+    overflow: scroll;
+}
+
+.referred_list li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.woocommerce-error a{
+    font-weight: bold !important;
+    color: #789101 !important;
+    text-decoration: underline !important;
+}
+
+
+.es_col_6{
+    width: 48%;
+}
+
+.woocommerce-MyAccount-navigation a, .woocommerce-account #main a{
+    color: #789101  !important;
+}
+
+.woocommerce-checkout .pill, .woocommerce-account .pill, .single-ticket .pill, .page-my-tickets .pill, .page-submit-ticket .pill{
+    display: none;
+}
+
+.woocommerce-account #main{
+    margin-top: 40px;
+}
+
+.woocommerce-billing-fields form-row label, .woocommerce-billing-fields .woocommerce-input-wrapper{
+    width: 100%;
+}
+
+@media screen and (max-width: 780px) {
+    #customer_details{
+        display: block;
+    }
+
+    .es_col_6{
+        width: 100%;
+    }
+}
+
+/*****Business Form********/
+.es_row{
+    margin-bottom: 30px;
+    justify-content: space-between;
+}
+
+.es_row, .es_col{
+    width: 100%;
+}
+
+#es_business_form{
+    position: relative;
+}
+
+#es_business_form .mask{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    opacity: 0.6;
+    background: #000000;
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+
+#es_business_form .mask p{
+    color: #FFFFFF;
+}
+
+.es_row, .es_col_50, .es_col{
+    display: flex;
+}
+
+.es_col_50{
+    width: 48%;
+}
+
+.es_label{
+    font-weight: bold;
+}
+
+.es_input{
+    height: 40px;
+}
+
+.es_col_50, .es_col{
+    flex-direction: column;
+}
+
+.toast.toast-warning{
+    background: brown;
+}
+
+
+.toast.toast-info{
+    background: #789101;
+}
+
+.mask{
+    display: none;
+}
+
+.woocommerce-order-details  a{
+    color: black !important;
+}
+
+.woocommerce-order-received .woocommerce-order-details header{
+    background-image: none !important;
+    color: black;
+    padding-bottom: 10px;
+}
+
+#wpas_ticketlist td a{
+    color: black !important;
+}
+
+
+a.ticket-link{
+    border: 1px #789101 solid !important;
+    padding: 5px !important;
+    margin-right: 10px !important;
+    float: right !important;
+}
+
+
+.page-my-account .woocommerce-address-fields label,.page-my-account .woocommerce-address-fields .woocommerce-input-wrapper{
+    display: block !important;
+    width: 100% !important;
+}
+
+ul.list-how-find-us{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+ul.list-how-find-us li{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.woocommerce-checkout-review-order .first-payment-date, .mailchimp-newsletter{
+    display: none !important;
+}
+
+.terms{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.terms label{
+    margin-left: 15px !important;
+}
+
+form.woocommerce-checkout{
+    margin-top: 30px !important;
+}
+
+.woocommerce-MyAccount-navigation, .woocommerce-MyAccount-content{
+    float: unset !important;
+    width: unset !important;
+}
+
+.woocommerce-MyAccount-navigation ul li{
+    display: inline-block;
+    margin-right: 10px;
+    border: 1px solid #789101;
+    padding: 5px;
+    margin-bottom: 1rem;
+}
+
+
+.woocommerce-MyAccount-navigation ul li a{
+    font-size: 14px;
+}
+
+
+.woocommerce-MyAccount-navigation{
+    text-align: center;
+}
+
+.no_subscriptions.woocommerce-message a.button,
+.subscription_details a.cancel,
+.subscription_details a.subscription_renewal_early,
+.dashboard-info .woocommerce-Address-title a,
+.woocommerce-button.button.view,
+.woocommerce-button.button.cancel,
+.woocommerce-MyAccount-navigation-link.woocommerce-MyAccount-navigation-link--subscriptions,
+.woocommerce-MyAccount-navigation-link--submit-ticket,
+.woocommerce-MyAccount-navigation-link--my-tickets,
+.woocommerce-MyAccount-navigation-link.woocommerce-MyAccount-navigation-link--edit-address,
+.woocommerce-orders .woocommerce-info a,
+.woocommerce-Address-title.title a,
+.woocommerce-orders-table__cell a.cancel,
+#wpas-new-reply label[for="close_ticket"]
+{
+    display: none !important;
+}
+
+.wpas-reply-content a{
+    color: #789101 !important;
+    font-weight: bold !important;
+}
+
+.page-resetpass .year-recycle-20{
+    bottom: 52px !important;
+}
+
+#user_switching_switch_on {
+    font-weight: bold;
+    background: black;
+    padding: 8px !important;
+    font-size: 15px;
+}
+
+.woocommerce-form-row input{
+    display: block !important;
+}
+.woocommerce-form.woocommerce-form-login.login .password-input, .woocommerce-form-login__submit{
+    width: 100% !important;
+    display: block !important;
+}
+
+.lost_password{
+    color: #789101 !important;
+}
+
+
+/*
+.woocommerce-PaymentMethod{
+    display: none !important;
+}
+*/

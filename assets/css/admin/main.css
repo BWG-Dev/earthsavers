@@ -1,0 +1,41 @@
+#profile-page #role option[value="sub-account"],
+#profile-page #role option[value="wpas_user"],
+#profile-page #role option[value="wpas_user"],
+#profile-page #role option[value="wpseo_editor"],
+#profile-page #role option[value="wpseo_manager"],
+#profile-page #role option[value="shop_manager"],
+#profile-page #role option[value="subscriber"],
+#profile-page #role option[value="contributor"],
+#profile-page #role option[value="author"],
+#profile-page #role option[value="editor"]
+.user-new-php #role option[value="sub-account"],
+.user-new-php #role option[value="wpas_user"],
+.user-new-php #role option[value="wpas_user"],
+.user-new-php #role option[value="wpseo_editor"],
+.user-new-php #role option[value="wpseo_manager"],
+.user-new-php #role option[value="shop_manager"],
+.user-new-php #role option[value="subscriber"],
+.user-new-php #role option[value="contributor"],
+.user-new-php #role option[value="author"],
+.user-new-php #role option[value="editor"],
+.post-type-ticket .yoast_cornerstone,
+.post-type-ticket #wpseo-readability-filter,
+.post-type-ticket #wpseo-filter,
+#bulk-action-selector-bottom option[value='wpas_print_tickets'],
+select#activity
+{
+    display: none !important;
+}
+
+ .toplevel_page_es-users #wpcontent{
+    background: #ECF0F3 !important;
+}
+
+ #wpas_user_profile_segment{
+     display:none !important;
+ }
+
+
+
+
+

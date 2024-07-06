@@ -1,0 +1,1244 @@
+﻿Contact Type,Organization,Client Name,Email,Street,Street2,City,Province/State,Country,Postal/Zip Code,Business Phone,Home Phone/Phone1,Mobile Phone/Phone2,Relationship Notes,Client Location,Invoice Profile Frequency,stripe_customer_id,stripe_source_id,card_last_4,"expiry_year	",expiry_month,card_type,subscription_total,invoice_id,next_payment_date,payer_email
+Primary,Home,Shelby Bailey,shelbytbailey@gmail.com,,,,,United States,,615-804-9461,615-804-9461,,"9080
+RRC-M2CMS
+RRC-M4CMS",Active,3m,cus_NEK0ixRjzBelvS,src_1MTrMkKPS7KEOFbqiYT9GLvo,8773,2024,4,MasterCard,204,41105,8/31/2018,shelbytbailey@gmail.com
+Primary,HOWARD ROBACK - 2093,HOWARD ROBACK,HRoback@aol.com,1317 FALKIRK CT,,NASHVILLE,Tennessee,United States,37221,615-662-2418,,,"2093
+RRC-M1CMS
+RRC-M3CMS",Active,3m,cus_NEK02QkX3SF0kc,src_1MTrMvKPS7KEOFbq3J6mOyDd,7785,2027,10,MasterCard,132,9201,7/1/2015,HRoback@aol.com
+Primary,ISABEL MAXWELL - 3820,ISABEL MAXWELL,ilmaxwell@comcast.net,8014 HWY 70 S,,NASHVILLE,Tennessee,United States,37221,6153378691,,,"3820
+RRC-F2CMS",Active,3m,cus_NEK09fj5VPAssa,src_1MTrMwKPS7KEOFbqElQQe4sS,469,2026,10,Visa,72,9160,7/1/2015,ilmaxwell@comcast.net
+Primary,Jackie Corley - 9541,Jackie Corley,ammieone@comcast.net,988 Todd Preis Drive,,Nashville,Tennessee,United States,37221,(615) 400-8074,,,,Active,3m,cus_NEK10SPaUzIjLC,src_1MTrN4KPS7KEOFbqgOB5nkUu,3439,2027,8,Visa,72,67355,empty,ammieone@comcast.net
+Primary,Jackie Decker - ABR-145,Jackie Decker,thepauldeckers@comcast.net,134 Meadowvue Dr,,Hendersonville,Tennessee,United States,37075,615-824-1902,,,"ABR-145
+RRC-Hville 1&3 Wed",Active,3m,cus_NEK0fnJaSIPpJj,src_1MTrMjKPS7KEOFbqd5tmAeHM,448,2021,9,MasterCard,132,9056,10/31/2023,thepauldeckers@comcast.net
+Primary,Jackie Eagle - 9291,Jackie Eagle,jackielewi@gmail.com,112 Connie Drive,,Hendersonville,Tennessee,United States,37075,6058580759,,,"9291
+RRC-Hville 1&3 WED",Active,3m,cus_NEK0xqsJFK8sGz,src_1MTrMwKPS7KEOFbqBL1ACoi9,6363,2026,8,Visa,204,58687,1/31/2022,jackielewi@gmail.com
+Primary,Jackie Hill - 9106,Jackie Hill,jackie_hill@yahoo.com,1123 Isaac Franklin Drive,,Gallatin,Tennessee,United States,37066,4077193676,,,"9106
+RRC-Hville 2&4 WED",Active,3m,cus_NEK1eCSkijMVlY,src_1MTrMzKPS7KEOFbq6v61YgQs,3153,2026,3,Visa,132,42467,5/1/2019,jackie_hill@yahoo.com
+Primary,Jackie Winkle - 9479,Jackie Winkle,jacklyn.winkle@gmail.com,3308 Lealand Lane,,Nashville,Tennessee,United States,37204,4045022871,,,2&4FRI,Active,3m,cus_NEK038to1xXWmD,src_1MTrMwKPS7KEOFbqvtOO2xdD,3532,2023,2,MasterCard,132,65053,empty,jacklyn.winkle@gmail.com
+Primary,Jacob Tippets - 9461,Jacob Tippets,jacobmerlinband@gmail.com,805 Deer Foot Court,,Nashville,Tennessee,United States,37221,(615) 785-2624,,,3MON,Active,3m,cus_NEK1KO66dOGdFn,src_1MTrNCKPS7KEOFbqsLzA8Obz,5842,2023,9,Visa,72,64929,5/1/2022,Jacobmerlinband@gmail.com
+Primary,Jacqueline Wright - 9144,Jacqueline Wright,jhunnwright@gmail.com,108  Foxcross  Drive,,Hendersonville,Tennessee,United States,37075,6158221399,,,"9144
+RRC-Hville 2&4 Wed",Active,3m,cus_NEK1I2muHqvkEz,src_1MTrMyKPS7KEOFbqeo9SzZzp,2165,2027,4,Visa,72,48072,7/31/2019,jhunnwright@gmail.com
+Primary,Jake DeVolder - 9481,Jake DeVolder,jake.devolder@gmail.com,4119 Aberdeen Road,,Nashville,Tennessee,United States,37205,(785) 531-0467,,,2FRI,Active,m,cus_NEK0RXlv0Qb78c,src_1MTrMvKPS7KEOFbqDiGVtttU,2190,2023,12,Visa,72,65091,7/1/2023,jake.devolder@gmail.com
+Primary,James B Swearingen - 9006,James B Swearingen,utk.dad@comcast.net,1023 Jarmon Ln,,Gallatin,Tennessee,United States,37066,615-330-1372,,,"9006
+RRC-Hville 2&4 Wed",Active,3m,cus_NEK0EylgUjqwh5,src_1MTrMrKPS7KEOFbqKMXQOhhQ,7180,2026,7,MasterCard,72,35037,5/1/2018,utk.dad@comcast.net
+Primary,James DiGirolamo - ABR-163,James DiGirolamo,jamesdigirolamo@gmail.com,130 Shorecrest Circle,,Hendersonville,Tennessee,United States,37075,615-438-2202,,,"ABR-163
+RRC-Hville 1&3 Wed
+old: 120 Veebelt Drive",Active,y,cus_NEK105BgrFccgq,src_1MTrN7KPS7KEOFbquqAOHzG0,8134,2027,5,Visa,288,11842,10/31/2019,jamesdigirolamo@gmail.com
+Primary,James Johnson - 8525,James Johnson,revmitch@att.net,104 Harpeth Trace Ct.,,NASHVILLE,Tennessee,United States,37221,615-353-7006,,,"8525
+RRC-M4CMS",Active,3m,cus_NEK07fkqN7uef4,src_1MTrMyKPS7KEOFbqWmUzoYHc,2243,2024,9,MasterCard,72,9133,7/1/2015,revmitch@att.net
+Primary,James Lingerfelt - ABR-241,James Lingerfelt,jlingerfelt130@bellsouth.net,130 Anchor Drive,,HENDERSONVILLE,Tennessee,United States,37075,(615) 822-0808,,,"ABR-241
+RRC-Hville 1&3 Wed
+ACH-2",Active,3m,empty,empty,empty,empty,empty,empty,120,15844,3/2/2016,jlingerfelt130@bellsouth.net
+Primary,James Savage - ABR-150,James Savage,msavage@maynardcooper.com,102 Cornelia Dr,,Hendersonville,Tennessee,United States,37075,(615) 824-7533,,,"ABR-150
+RRC-Hville 1&3 Wed",Active,3m,cus_NEK0WQ72WRFuvO,src_1MTrMiKPS7KEOFbqzxICspwt,3004,2020,8,American Express,132,10841,7/31/2015,msavage@maynardcooper.com
+Primary,Jamie Ewing - ABR-362,Jamie Ewing,jamie.ewing@comcast.net,1009 Gadwall Cir,,Hendersonville,Tennessee,United States,37075,615-347-5748,,,"ABR-362
+RRC-Hville 1&3 Wed
+closed account - no pay and skips
+reactivated 4-3-18",Active,3m,cus_NEK1qUZbOFgf8l,src_1MTrNDKPS7KEOFbqmt52tekP,6014,2025,8,Visa,72,35697,7/31/2019,jamie.ewing@comcast.net
+Primary,Jamie Vallecorsa - 2063,Jamie Vallecorsa,adacorsa@bellsouth.net,468 Sandcastle Road,,Franklin,Tennessee,United States,37069,615-662-0617,615-415-9047,,"2063
+RRC-M1CMS
+RRC-M3CMS
+old address:6336 HOLLY TRACE WAY",Active,3m,cus_NEK0B8C4Ha3Xh9,src_1MTrMwKPS7KEOFbqIn7FIeMO,4511,2024,3,Visa,132,11715,8/31/2015,adacorsa@bellsouth.net
+Primary,Jamin Guy - 8847,Jamin Guy,me@jaminguy.com,2141 Timberwood Dr,,Nashville,Tennessee,United States,37215,615-830-2902,,,"8847
+RRC-F2CMS
+RRC-F4CMS",Active,3m,cus_NEK0Tz5ltjj7Z1,src_1MTrMqKPS7KEOFbqkwIAcvoI,6456,2024,10,Visa,174,21430,10/1/2016,me@jaminguy.com
+Primary,JAMISON EIGE - 9371,JAMISON EIGE,jamisoneige@gmail.com,1000 Redwood Way,,Hendersonville,Tennessee,United States,37075,(615) 670-0752,,,"9371
+RRC-Hville 1st WED",Active,3m,cus_NEK0IoFwYxhCdZ,src_1MTrMuKPS7KEOFbqda3j5Daz,4064,2025,9,Visa,72,62949,8/31/2021,jamisoneige@gmail.com
+Primary,Jan Hronek - ABR-408,Jan Hronek,hronek@comcast.net,1052 Somerset Downs Blvd,,Hendersonville,Tennessee,United States,37075,(615) 826-0082,,,"ABR-408
+RRC-Hville 1&3 Wed",Active,3m,cus_NEK0AgZjbZd4er,src_1MTrMcKPS7KEOFbqYkdY8BTd,4271,2028,2,Visa,132,9124,7/1/2015,hronek@comcast.net
+Primary,Jana Crooks - ABR-399,Jana Crooks,andrewcrooks@mac.com,1002 Hearthside Ct S,,Hendersonville,Tennessee,United States,37075,(615) 537-1336,,,"ABR-399
+RRC-Hville 1&3 Wed",Active,3m,cus_NEK14iRVtOrye1,src_1MTrNDKPS7KEOFbqhmYg3EWL,6407,2026,6,Visa,132,9052,7/1/2015,andrewcrooks@mac.com
+Primary,Jana Talbot,Jana Talbot,jdtalbot2@comcast.net,7528 Staffordshire Drive,,NASHVILLE,Tennessee,United States,37221,615-646-4335,,,"8432
+RRC-M3CMS",Active,3m,cus_NEK0Dn6UKoGDKK,src_1MTrMdKPS7KEOFbqXSiELlIY,3001,2021,5,American Express,72,9236,7/1/2015,jdtalbot2@comcast.net
+Primary,Jane Speyer - ABR-532,Jane Speyer,jane.e.speyer@gmail.com,295 Lake Terrace Drive,,Hendersonville,Tennessee,United States,37075,615-512-5059,,,"ABR-532
+RRC-Hville 1&3 Fri
+stopped Dec 2015
+reactivated 10-24-17
+stopped JUL 2018
+reactivated 11/18/19",Active,3m,cus_NEK1h4JoiAOP4u,src_1MTrN0KPS7KEOFbqUy6srPoT,9923,2025,8,Visa,72,14817,12/1/2023,jane.e.speyer@gmail.com
+Primary,Janet DeSha - 8659,Janet DeSha,jcdesha@hotmail.com,150 Cherokee Road,,Hendersonville,Tennessee,United States,37075,615-491-3811,,,"8659
+RRC-Hville 1&3 Fri",Active,3m,cus_NEK0lH4WfyKiEf,src_1MTrMvKPS7KEOFbqlHPtAEvH,8657,2025,8,MasterCard,132,1220,5/31/2015,jcdesha@hotmail.com
+Primary,Janis Turner - 9288,Janis Turner,turnleft5@comcast.net,1107 Belvidere Drive,,NASHVILLE,Tennessee,United States,37204,615-477-6939,,,"9288
+RRC-F4CMSX",Active,3m,cus_NEK1bcl0a9tPX2,src_1MTrMzKPS7KEOFbqOB1WNmzW,3147,2027,6,Visa,72,58155,10/31/2020,turnleft5@comcast.net
+Secondary,Janis Turner - 9288,Betsy Caldwell,betsycaldwell753@gmail.com,1107 Belvidere Drive,,NASHVILLE,Tennessee,United States,37204,,,,"9288
+RRC-F4CMSX",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Jared Grice - 9555,Jared Grice,j.grice12@gmail.com,1315 McQuiddy Road,,Nashville,Tennessee,United States,37221,(816) 835-06967,,,,Active,3m,cus_NEK0x4rFqjDTWT,src_1MTrMxKPS7KEOFbqmu0zewKp,4485,2025,9,Visa,132,67661,10/1/2023,j.grice12@gmail.com
+Primary,Jason Coleman - ABR-282,Jason Coleman,jasonfc@mac.com,110 Alred Cir,,HENDERSONVILLE,Tennessee,United States,37075,(615) 948-4285,,,"ABR-282
+RRC-Hville 1st&3rd Wed",Active,empty,cus_NEK0NhqFWOcfIR,src_1MTrMdKPS7KEOFbqoHK99CwS,1252,2021,5,Discover,empty,empty,empty,empty
+Primary,Jason Sparks - 2865,Jason Sparks,jason.a.sparks@usa.net,6140 Tuliptree Lane,,Nashville,Tennessee,United States,37221,865-300-0705,,,"2865
+RRC-M1CMS
+RRC-M3CMS",Active,3m,cus_NEK1VLxqbbvz4A,src_1MTrNBKPS7KEOFbq9eH7VW3Q,4204,2025,4,Visa,132,53036,10/1/2021,jason.a.sparks@usa.net
+Primary,Jason Tomlinson - 2773,Jason Tomlinson,jtomlinson36@hotmail.com,1252 Temple Ridge Dr.,,NASHVILLE,Tennessee,United States,37221,615-739-1923,,,"2773
+RRC-M1CMS
+RRC-M3CMS
+ACH-1",Active,3m,empty,empty,empty,empty,empty,empty,174,15416,8/31/2021,etom123@gmail.com‚ jtomlinson36@hotmail.com
+Secondary,Jason Tomlinson - 2773,Erin Tomlinson,etom123@gmail.com,1252 Temple Ridge Dr.,,NASHVILLE,Tennessee,United States,37221,6155942726,,,"2773
+RRC-M1CMS
+RRC-M3CMS
+ACH-1",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Jason Winkler - 8656,Jason Winkler,jwink76@gmail.com,133 River Chase,,HENDERSONVILLE,Tennessee,United States,37075,6292007941,,,"8656
+RRC-Hville 2&4 WED",Active,3m,cus_NEK0K6xWWnnBq1,src_1MTrMyKPS7KEOFbq2n5I1oKa,5578,2025,8,Visa,204,10866,7/31/2015,jwink76@gmail.com
+Primary,JAY COHEN - 2294,JAY COHEN,Firemedic239@comcast.net,404 RAMBLE WOOD CIR,,NASHVILLE,Tennessee,United States,37221,,,,"switch to 1x/mo APR22
+2294
+RRC-M1CMS
+ACH-1",Active,3m,cus_NEK0kdpSdPd54M,src_1MTrMyKPS7KEOFbqDiNRuEqX,6446,2028,3,Visa,72,65676,5/31/2022,Firemedic239@comcast.net
+Primary,Jay Williams - 9491,Jay Williams,jpwilli250@gmail.com,1729 Yellow Wood Court,,Nashville,Tennessee,United States,37221,(404) 202-4035,,,3MON,Active,3m,cus_NEK0B4f0RZSwOi,src_1MTrMsKPS7KEOFbqhdXXJEGz,3926,2025,4,MasterCard,72,65293,7/1/2022,jpwilli250@gmail.com
+Primary,Jean Ward - 9554,Jean Ward,jean.malone.ward@gmail.com,108 Deer Ridge Lane,,Hendersonville,Tennessee,United States,37075,(615) 957-2767,,,,Active,3m,cus_NEK1mfopQiaQGI,src_1MTrN2KPS7KEOFbqRbBc4MyG,2206,2027,9,Visa,72,67580,3/13/2023,jean.malone.ward@gmail.com
+Primary,Jean Wilson - ABR-155,Jean Wilson,jean4467@comcast.net,154 Luna Lane,,Hendersonville,Tennessee,United States,37075,(615) 822-8571,,,"ABR-155
+RRC-Hville 1&3 Wed
+ACH-2",Active,3m,empty,empty,empty,empty,empty,empty,120,15826,3/2/2016,jean4467@comcast.net
+Secondary,Jean Wilson - ABR-155,Dick Wilson,jeanwilson@coldwellbanker.com,154 Luna Lane,,Hendersonville,Tennessee,United States,37075,615-972-3516,,,"ABR-155
+RRC-Hville 1&3 Wed
+ACH-2",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,JEANETTE LAMBERT,JEANETTE LAMBERT,jeanette.b.lambert@gmail.com,6940 SUNDERLAND CIR,,NASHVILLE,Tennessee,United States,37221,615-646-2662,615-838-4600,,"3106
+RRC-M1CMS
+RRC-M3CMS",Active,3m,cus_NEK0525UtC3EKt,src_1MTrMnKPS7KEOFbqmj17toq3,9973,2025,10,Visa,72,14164,12/1/2015,jeanette.b.lambert@gmail.com
+Primary,Jeanmarie Stalma - 9416,Jeanmarie Stalma ONE,Poodlemom3@gmail.com,3510 Hampton Avenue,,Nashville,Tennessee,United States,37215,(615) 481-1877,,,"9416
+RRC-F4CMS",Active,3m,cus_NEK1SqSrZaI8Ju,src_1MTrN3KPS7KEOFbqUKf8p8TH,1028,2028,9,Visa,72,63830,12/1/2021,Poodlemom3@gmail.com
+Primary,Jeanmarie Stalma - 9511,Jeanmarie Stalma,poodlemom3@gmail.com,4005 Aberdeen Road,,Nashville,Tennessee,United States,37205,(615) 481-1878,,,,Active,3m,cus_NEK1SqSrZaI8Ju,src_1MTrN3KPS7KEOFbqUKf8p8TH,1028,2028,9,Visa,72,63830,12/1/2021,Poodlemom3@gmail.com
+Primary,JEFF FRANKS - 2292,JEFF FRANKS,vfranks@gmail.com,7337 OLMSTED DR,,NASHVILLE,Tennessee,United States,37221,,,,"2292
+RRC-M1CMS
+RRC-M3CMS
+ACH-1",Active,3m,empty,empty,empty,empty,empty,empty,132,15359,8/31/2021,vfranks@gmail.com
+Primary,Jeff Greer - ABR-170,Jeff Greer,esotericdebris@gmail.com,100 Warren Pl,,Hendersonville,Tennessee,United States,37075,(615) 275-6937,,,"ABR-170
+RRC-Hville 1&3 Wed",Active,3m,cus_NEK0flCVvfYUvJ,src_1MTrMdKPS7KEOFbqYKRrqksX,4433,2027,8,Visa,132,9098,7/1/2015,esotericdebris@gmail.com
+Primary,Jeff Holtfreter - ABR-574,Jeff Holtfreter,holtfreter@comcast.net,110 Ashland Point,,Hendersonville,Tennessee,United States,37075,615-826-4709,,,"ABR-574
+RRC-Hville 1&3 Fri",Active,3m,cus_NEK0heoRgYENuz,src_1MTrMhKPS7KEOFbqpxejJh0E,2013,2023,8,American Express,132,1226,3/3/2015,holtfreter@comcast.net
+Primary,Jeff Rossini - 9470,Jeff Rossini,jeffrossini@gmail.com,1110 Belvidere Drive,,Nashville,Tennessee,United States,37204,(615) 519-2740,,,2FRI,Active,3m,cus_NEK0ArdRcBq6DK,src_1MTrMyKPS7KEOFbqWTYR7pbO,6608,2027,10,Visa,72,64993,5/31/2022,jeffrossini@gmail.com
+Primary,Jeff Stahel - 8918,Jeff Stahel,jgstahel@gmail.com,1011 Strathmore Way,,Hendersonville,Tennessee,United States,37075,615-243-0170,,,"8918
+RRC-Hville 2&4 WED",Active,3m,cus_NEK0IF3dQpqauH,src_1MTrMjKPS7KEOFbqMSm2Lh6K,8627,2028,6,Visa,72,27070,5/1/2017,jgstahel@gmail.com
+Primary,Jeffrey Stevenson,Jeffrey Stevenson,jsstevenson04@gmail.com,104 Tuliptree Ct,,Nashville,Tennessee,United States,37221,615-506-0923,,,"3089
+RRC-F3CMS",Active,3m,cus_NEK0PbnCw3S5ON,src_1MTrMoKPS7KEOFbqERU0ubWy,3511,2024,1,Visa,72,1107,3/31/2015,jsstevenson04@gmail.com
+Primary,Jenna Duprey - 9443,Jenna Duprey,jduprey@aspcompany.com,609 Meadow Glen Court,,Nashville,Tennessee,United States,37221,(615) 509-3213,,,,Active,3m,cus_NEK055gDrSwmoD,src_1MTrMuKPS7KEOFbqU4eKuLrT,2543,2024,1,Visa,72,64412,3/3/2022,jduprey@aspcompany.com
+Primary,JENNA SCHOTTER - 9508,JENNA SCHOTTER,jvschotter@pm.me,7528 OAKHAVEN TRACE,,NASHVILLE,Tennessee,United States,37209,(561) 901-0072,,,,Active,3m,cus_NEK1krXJ5JW98U,src_1MTrN0KPS7KEOFbqgVzuo6MS,351,2023,6,Visa,72,65922,8/31/2022,jvschotter@pm.me
+Primary,Jenna Young - 9473,Jenna Young,Jennabaese@gmail.com,1047 Morton Mill Road,,Nashville,Tennessee,United States,37221,(989) 292-0392,,,1&2MON,Active,3m,cus_NEK1UJAW1BnhCC,src_1MTrN5KPS7KEOFbql3Vj3BM2,8050,2023,12,Visa,132,64961,5/31/2022,Jennabaese@gmail.com
+Primary,Jennifer Bair - 9203,Jennifer Bair,jennifer.b.bair@gmail.com,705 Goodpasture Terrace,Suite 500,Nashville,Tennessee,United States,37221,646-594-5209,,,"9203
+RRC-M3CMS",Active,3m,cus_NEK1YgC6U2qFI8,src_1MTrN1KPS7KEOFbqqTly90S6,9472,2026,1,Visa,72,53590,1/31/2020,jennifer.b.bair@gmail.com
+Primary,Jennifer Decker - ABR-503,Jennifer Decker,tyandjenndecker@comcast.net,110 Cobbler Circle,,HENDERSONVILLE,Tennessee,United States,37075,(615) 822-5705,,,"ABR-503
+RRC-Hville 1&3 Fri
+ACH-2",Active,3m,empty,empty,empty,empty,empty,empty,120,15790,3/2/2016,tyandjenndecker@comcast.net
+Primary,Jennifer Fesmire,Jennifer Fesmire,jfesmire@coveragesolutions.us,111 Bluegrass Circle,,HENDERSONVILLE,Tennessee,United States,37075,615-826-1569,,,"ABR-268
+RRC-Hville 2&4 WED",Active,y,cus_NEK0O4OmPjpMcH,src_1MTrMdKPS7KEOFbqtxOzUr8g,2001,2020,2,American Express,480,11154,7/1/2016,jfesmire@coveragesolutions.us
+Primary,Jennifer Finlin - ABR-456,Jennifer Finlin,jennifer@nsgllc.com,112 Merrimac Rd,,Hendersonville,Tennessee,United States,37075,615-822-4251,,,"reactivated 6-7-19
+suspended MAY19
+ABR-456
+RRC-Hville 1&3 Fri",Active,y,cus_NEK1M65ll0VStB,src_1MTrNAKPS7KEOFbqsUW0FaMy,6198,2026,5,Visa,480,11155,7/1/2020,jennifer@nsgllc.com
+Primary,JENNIFER FRIST - 3170,JENNIFER FRIST,jenfrist@mac.com,1156 Crater Hill Dr,,NASHVILLE,Tennessee,United States,37215,615-665-8455,615-519-7750,,"3170
+RRC-F2CMS
+RRC-F4CMS",Active,3m,cus_NEK0f7a8ql6MfL,src_1MTrMrKPS7KEOFbqpHMnzJId,170,2025,3,Visa,174,9089,1/31/2021,jenfrist@mac.com
+Primary,Jennifer Heeren - 9577,Jennifer Heeren,heerenjenn3@gmail.com,100 Apache Court,,Hendersonville,Tennessee,United States,37075,(615) 389-2513,,,,Active,3m,empty,empty,empty,empty,empty,empty,72,68219,empty,heerenjenn3@gmail.com
+Primary,Jennifer Kimball - 2308,Jennifer Kimball,JenSaisPie@aol.com,906 HARPETH TRACE DR,,NASHVILLE,Tennessee,United States,37221,616-218-8551,,,"2308
+RRC-M4CMS
+stopped 6/20/16
+reactivated 4/1/17",Active,3m,cus_NEK0wOqReqmEFM,src_1MTrMuKPS7KEOFbq3ESGrLQ7,7067,2025,9,MasterCard,72,16056,5/1/2017,JenSaisPie@aol.com
+Primary,Jennifer McGuingan - ABR-351,Jennifer McGuingan,jamcguigan1@msn.com,105 Berryview Ct,,Hendersonville,Tennessee,United States,37075,804-306-5372,,,"ABR-351
+RRC-Hville 1st&3rd Wed
+SUSPENDED 6/1/16
+reactivated 8/1/16",Active,empty,cus_NEK0heNuiyriNC,src_1MTrMjKPS7KEOFbqXzjqxwbF,2045,2021,10,Visa,empty,empty,empty,empty
+Primary,Jennifer Newsome - 9429,Jennifer Newsome,jennifernewsome@outlook.com,588 Lingering Way,,Hendersonville,Tennessee,United States,37075,(615) 419-6011,,,"9429
+RRC-Hville 4th WED",Active,3m,cus_NEK1u4xGzd5Btb,src_1MTrNBKPS7KEOFbqZazcc0iC,7860,2025,4,Visa,72,64148,12/31/2021,jennifernewsome@outlook.com
+Primary,Jennifer Shinall - 9478,Jennifer Shinall,Jennifer.shinall@gmail.com,4409B Hunt Place,,Nashville,Tennessee,United States,37215,(615) 202-9578,,,2&4FRI,Active,3m,cus_NEK0kM80uwiudC,src_1MTrMuKPS7KEOFbqOICsTSvH,8007,2025,7,American Express,132,65061,5/1/2022,Jennifer.shinall@gmail.com
+Primary,Jennifer Silva - 3744,Jennifer Silva,jenniferannsilva13@gmail.com,1416 CALLOWAY CT,,NASHVILLE,Tennessee,United States,37221,615-483-6099,,,"stopped & resumed JAN23 due to nonpayment
+3744
+RRC-M1CMS",Active,m,empty,empty,empty,empty,empty,empty,72,68138,empty,jenniferannsilva13@gmail.com
+Secondary,Jennifer Silva - 3744,Jennifer Bisio,jenniferbisio@gmail.com,1416 CALLOWAY CT,,NASHVILLE,Tennessee,United States,37221,,,,"stopped & resumed JAN23 due to nonpayment
+3744
+RRC-M1CMS",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Jennifer Spivey,Jennifer Spivey,superjp11@yahoo.com,8032 Settlers Way,,NASHVILLE,Tennessee,United States,37221,615-390-4839,,,"8250
+RRC-M2CMS
+account closed for no payment",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Jennifer Wimberley - 9332,Jen Wimberley,jenhelmwimberley@gmail.com,1125 Balbade Drive,,Nashville,Tennessee,United States,37215,(615) 390-1244,,,"9332
+RRC-F2CMS
+RRC-F4CMS",Active,3m,cus_NEK0cRovb2cTv4,src_1MTrMrKPS7KEOFbqrg5cheoy,6105,2025,11,Visa,246,61273,5/1/2021,jenhelmwimberley@gmail.com
+Primary,JERRY COLLINS - 2146,JERRY COLLINS,jerry@bothcollinses.com,2113 TIMBERWOOD PL,,NASHVILLE,Tennessee,United States,37215,,,,"2146
+RRC-F2CMS
+RRC-F4CMS
+ACH-2",Active,3m,empty,empty,empty,empty,empty,empty,72,15452,3/2/2016,jerry@bothcollinses.com
+Secondary,JERRY COLLINS - 2146,Sandra Collins,sandracollins822@hotmail.com,2113 TIMBERWOOD PL,,NASHVILLE,Tennessee,United States,37215,,,,"2146
+RRC-F2CMS
+RRC-F4CMS
+ACH-2",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Jerry Dillard - ABR-367,Jerry Dillard,deputydill@gmail.com,1076 Gadwall Cir,,Hendersonville,Tennessee,United States,37075,615-822-9314,615-681-4143,,"ABR-367
+RRC-Hville 1&3 Wed",Active,y,cus_NEK05Z7Vvswp16,src_1MTrMnKPS7KEOFbqAttWpvoY,9734,2026,6,Visa,480,8463,5/1/2016,deputydill@gmail.com
+Primary,Jerry Winters - 4197,Jerry Winters,jerry.winters1213@comcast.net,1217 BEDFORDSHIRE CT,,NASHVILLE,Tennessee,United States,37221,615-714-0301,,,"4197
+RRC-M3CMS",Active,3m,cus_NEK1Qy40rZONTa,src_1MTrN9KPS7KEOFbq0McqSzDg,7899,2025,7,Visa,72,10867,7/31/2015,jerry.winters1213@comcast.net
+Primary,Jessica Lagoni - 9050,Jessica Lagoni,jessicalagoni@yahoo.com,112 Orchard Valley Cir,,Hendersonville,Tennessee,United States,37075,615-339-5288,,,"9050
+RRC-Hville 1&3 Wed",Active,3m,cus_NEK0wnKPv3nmL0,src_1MTrMmKPS7KEOFbqDZ3YW87i,2479,2022,8,Visa,72,35311,5/1/2018,jessicalagoni@yahoo.com
+Primary,Jessica Love,Jessica Love,jlovelmsw@gmail.com,2936 Glenway Drive,,NASHVILLE,Tennessee,United States,37221,315 212 7719,,,"reactivated DEC19
+8430
+RRC-M4CMS
+stopped 6/1/16",Active,3m,cus_NEK1vBlFqLe3pi,src_1MTrN0KPS7KEOFbq7fV7u7uh,2134,2023,9,MasterCard,72,54997,10/1/2020,jlovelmsw@gmail.com
+Primary,Jessica OSullivan - 8582,Jessica OSullivan,osullivan.jess@yahoo.com,227 Baltusrol Rd,,Franklin,Tennessee,United States,37069,615-202-2894,,,"8582
+RRC-M1CMS
+RRC-M3CMS
+
+OLD ADDRESS:
+1516 Lincoya Bay Drive
+NASHVILLE tn 37214
+stopped 9/31/15
+
+reactivated 10/1/16",Active,3m,cus_NEK0c3ytq0a4hV,src_1MTrMdKPS7KEOFbqCN1KSs1I,355,2026,1,Visa,132,22450,1/31/2017,osullivan.jess@yahoo.com
+Primary,Jessica Seator - 9161,Jessica Seator,jessica.seator@att.net,7317 Middlebrook Circle,,Nashville,Tennessee,United States,37221,6155453156,,,"9161
+RRC-M4CMS",Active,3m,cus_NEK1CNzVHfSXpi,src_1MTrNAKPS7KEOFbqpAo5NAwK,2938,2025,10,Visa,72,51022,10/1/2019,jessica.seator@att.net
+Primary,Jessica Turner - 8373,Jessica Turner,jessica@themomcreative.com,104 Eller Ct,,NASHVILLE,Tennessee,United States,37221,615-750-2505,6159694925,,"8373
+RRC-M1CMS
+RRC-M3CMS",Active,3m,empty,empty,empty,empty,empty,empty,204,10857,7/31/2015,jessica@themomcreative.com
+Primary,Jessica Volz - 9308,Jessica Volz,jmv411@yahoo.com,7908 Boone Trace,,Nashville,Tennessee,United States,37221,6159735597,,,"9308
+RRC-M4CMS",Active,3m,cus_NEK04VrAF0EF0O,src_1MTrMsKPS7KEOFbqO9AtGTA3,7614,2025,1,Visa,132,59793,7/31/2021,jmv411@yahoo.com
+Primary,JILL BRADDOCK-WATSON - 2282,JILL BRADDOCK-WATSON,jasjilnicgav@mac.com,8056 SAWYER BROWN RD,,NASHVILLE,Tennessee,United States,37221,615-662-8994,,,"2282
+RRC-M2CMS",Stopped,3m,cus_NEK0tjj2qZSPZF,src_1MTrMxKPS7KEOFbqoAq3udyk,8020,2027,8,MasterCard,72,11919,8/31/2015,jasjilnicgav@mac.com
+Primary,Jill Hamilton - 9448,Jill Hamilton,jillyneworleans1@gmail.com,125 Raindrop Lane,,Hendersonville,Tennessee,United States,37075,(615) 830-1945,,,,Active,3m,cus_NEK1rXOvi4Da0Z,src_1MTrN7KPS7KEOFbq2yA6eU0B,7139,2024,9,Visa,72,64473,3/3/2022,jillyneworleans1@gmail.com
+Primary,Jill Howard - 3862,Jill Howard,jill.howard@lpnt.net,6912 River Ridge Drive,,NASHVILLE,Tennessee,United States,37221,615-512-0712,,,"3862
+RRC-M1CMS
+RRC-M3CMS",Active,3m,cus_NEK0RGJJjZC51k,src_1MTrMjKPS7KEOFbqKBGI2C79,6334,2028,8,Visa,132,14598,3/2/2016,jill.howard@lpnt.net
+Primary,Jim Bartoo - 2477,Jim Bartoo,bartoo4@comcast.net,5037 STONEMEADE DR,,NASHVILLE,Tennessee,United States,37221,615-5856573,,,"2477
+RRC-M1CMS
+RRC-M3CMS
+moved to 2x month 9-1-19
+ACH-3",Active,3m,empty,empty,empty,empty,empty,empty,132,16062,8/31/2021,bartoo4@comcast.net
+Primary,Jim Morgan - 9588,Jim Morgan,joker2507@gmail.com,3525 Richardson Avenue,,Nashville,Tennessee,United States,37205,(615) 516-3115,,,,Active,3m,empty,empty,empty,empty,empty,empty,132,68408,empty,joker2507@gmail.com
+Primary,JO HUNT - 3041,JO HUNT,johunttv@gmail.com,356 BELLEVUE RD,,NASHVILLE,Tennessee,United States,37221,615-429-0073,,,"3041
+RRC-M2CMS
+RRC-M4CMS",Active,3m,cus_NEK0OcrH1WQkCa,src_1MTrMwKPS7KEOFbq7Z5Qfv8V,3647,2025,10,Visa,132,11695,8/31/2015,johunttv@gmail.com
+Primary,Joan Buck - ABR-340,Joan Buck,joan.m.buck@gmail.com,461 Jones Ln,,Hendersonville,Tennessee,United States,37075,562-253-1899,,,"ABR-340
+RRC-Hville 1&3 Wed",Active,y,cus_NEK0BvvARswiv7,src_1MTrMtKPS7KEOFbqUXgqXfXo,1151,2026,2,Visa,480,11101,5/1/2016,joan.m.buck@gmail.com
+Primary,Joanna Daniels - 9125,Joanna Daniels,joanna.daniels@rocketmail.com,152 N Shadowhaven Way,,Hendersonville,Tennessee,United States,37075,8582547101,,,"9125
+RRC-Hville 2&4 Wed",Active,3m,cus_NEK0uQM9hJ79BL,src_1MTrMiKPS7KEOFbqr6JjLCFQ,1501,2028,8,Visa,72,46024,7/31/2019,joanna.daniels@rocketmail.com
+Primary,Jodi Pfeiffer - 8791,Jodi Pfeiffer,jodipfeiffer615@gmail.com,605 Waterway Ct,,Nashville,Tennessee,United States,37221,717-269-1600,,,"RRC-M4CMS
+8791",Active,3m,cus_NEK16qtvD2PaPP,src_1MTrN6KPS7KEOFbqPe31nRlE,427,2027,11,Visa,72,18253,5/31/2016,jodipfeiffer615@gmail.com
+Primary,JOE MORRISON - 2475,JOE MORRISON,lajoe@bellsouth.net,1004 HARPETH VALLEY CT,,NASHVILLE,Tennessee,United States,37221,,,,"2475
+RRC-M4CMS
+ACH-3",Active,3m,empty,empty,empty,empty,empty,empty,72,16061,8/31/2021,lajoe@bellsouth.net
+Primary,JOELLA AVERY,JOELLA AVERY,joella625@comcast.net,625 INDIAN RIDGE DR,,NASHVILLE,Tennessee,United States,37221,615-662-0027,615-364-5714,,"2648
+RRC-F3CMS",Active,3m,cus_NEK0e0MlzGICmA,src_1MTrMsKPS7KEOFbq0vzPUvQN,3897,2027,12,MasterCard,72,14004,12/1/2015,joella625@comcast.net
+Primary,John Aufegger - 9432,John Aufegger,aaufegger@gmail.com,109 Buckhaven Drive,,Hendersonville,Tennessee,United States,37075,(847) 624-2890,,,"9432
+RRC-HVILLE 1ST FRI
+RRC-HVILLE 3RD FRI",Active,3m,cus_NEK1b15Fa4LbwR,src_1MTrN3KPS7KEOFbqsu4emPx7,19,2025,7,Visa,132,64133,1/31/2022,aaufegger@gmail.com
+Primary,John Cash - ABR-270 (Trice),John Cash,hoclisat@gmail.com,137 Haddaway Drive,,Hendersonville,Tennessee,United States,37075,615-519-4844,,,"ABR-270
+RRC-Hville 2&4 WED
+Secondary address is mailing address
+Lisa Trice is the bookkeeper for this account and the number attached is her number",Active,y,empty,empty,empty,empty,empty,empty,480,11114,7/1/2016,hoclisat@gmail.com
+Primary,John D Norwood - 8880,John D Norwood,norwoodbusn@gmail.com,228 Waterview Drive,,Hendersonville,Tennessee,United States,37075,615-9794700,,,"8880
+RRC-Hville 1&3 Fri",Active,3m,cus_NEK0YjjxwQYaS7,src_1MTrMdKPS7KEOFbqvyiJb5fa,5987,2021,4,Visa,288,24217,10/1/2023,norwoodbusn@gmail.com
+Primary,John Davis - 9322,John Davis,Jhndvs1256@outlook.com,1700 Boardwalk Place,,Gallatin,Tennessee,United States,37065,(919) 830-2296,,,"9322
+RRC-HVILLE 2&4 WED",Active,3m,cus_NEK1OkrdaZwuUv,src_1MTrMyKPS7KEOFbqSzIMZ7ze,5224,2027,6,Visa,132,60543,3/3/2021,Jhndvs1256@outlook.com
+Primary,John Koomen - 2437,John Koomen,Betsykoomen@yahoo.com,5312 GENERAL FORREST CT,,NASHVILLE,Tennessee,United States,37215,615-269-2690,,,"2437
+RRC-F2CMS
+RRC-F4CMS
+ACH-3",Active,3m,empty,empty,empty,empty,empty,empty,174,16059,8/31/2021,Betsykoomen@yahoo.com
+Primary,John McCammon - 9255,John McCammon,jmmccammon@gmail.com,2010 19th Ave South,,Nashville,Tennessee,United States,37212,6153195144,,,"9255
+RRC-F4CMS",Active,3m,cus_NEK0MDLDkhU3IJ,src_1MTrMxKPS7KEOFbqTAO0sprS,4489,2024,6,MasterCard,72,56203,5/31/2020,jmmccammon@gmail.com
+Primary,John Morrow - 9576,John Morrow,Morrowj1958@gmail.com,1301 Falkirk Court,,Nashville,Tennessee,United States,37221,(256) 453-3974,,,,Active,3m,empty,empty,empty,empty,empty,empty,72,68053,empty,Morrowj1958@gmail.com
+Primary,JOHN SULLIVAN - 3229,John Sullivan,jsully20107@gmail.com,3817 Harding Place,,NASHVILLE,Tennessee,United States,37215,6157148948,6156651130,,"suspended 2-6-19
+3229
+RRC-F2CMS
+RRC-F4CMS",Active,3m,cus_NEK0W4nB8TXtZ1,src_1MTrMsKPS7KEOFbqRjgiEfZ7,9693,2027,8,Visa,174,54008,12/31/2019,jsullivan132@comcast.net‚ jsully20107@gmail.com
+Secondary,JOHN SULLIVAN - 3229,John Sullivan,jsullivan132@comcast.net,3817 Harding Place,,NASHVILLE,Tennessee,United States,37215,6157148948,,,"suspended 2-6-19
+3229
+RRC-F2CMS
+RRC-F4CMS",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,John Zic,John Zic,john.zic@vumc.org,6012 DEERBROOK DR,,NASHVILLE,Tennessee,United States,37221,615-662-9491,615-423-5299,,"2452
+RRC-M1CMS
+RRC-M3CMS",Active,3m,cus_NEK1roRfku6FtA,src_1MTrN5KPS7KEOFbqdvzYBNwZ,5398,2026,5,Visa,132,14314,12/1/2015,john.zic@vumc.org
+Secondary,John Zic,Mary Zic,jaztn@comcast.net,6012 DEERBROOK DR,,NASHVILLE,Tennessee,United States,37221,6153971234,,,"2452
+RRC-M1CMS
+RRC-M3CMS",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Jonathan Clark - 9137,Jonathan Clark,clark.jonathanb@gmail.com,1075 Island Brook Drive,,Hendersonville,Tennessee,United States,37075,615-473-6551,,,"9137
+RRC-Hville 1&3 WED",Active,3m,cus_NEK0Bj8PsPBX4C,src_1MTrMsKPS7KEOFbqNrgrm9yf,8048,2025,12,Visa,72,46980,7/1/2019,clark.jonathanb@gmail.com
+Primary,Joseph Croker,Joseph Croker,josephpatrickcroker@gmail.com,820 Magnolia Ct E,,NASHVILLE,Tennessee,United States,37221,615-397-7681,615-397-9643,,"2957
+APR21: Switched from 2x/mo to RRC-M4CMS",Active,3m,cus_NEK1MFXE8a8hwE,src_1MTrNIKPS7KEOFbqyLi70FON,2589,2027,12,Discover,72,10708,7/31/2021,josephpatrickcroker@gmail.com
+Primary,Joseph Snyder - 9077,Joseph Snyder,jsnyder66@outlook.com,8456 Indian Hills Drive,,Nashville,Tennessee,United States,37221,727-463-5682,,,"9077
+RRC-M1CMS
+RRC-M3CMS",Active,3m,cus_NEK0hIXe32jose,src_1MTrMiKPS7KEOFbqCEVAmGp1,2003,2022,11,American Express,132,40995,8/31/2018,jsnyder66@outlook.com
+Primary,Josh Malkofsky-Berger - 8328,Josh Malkofsky-Berger,jmbmail@yahoo.com,148 Glenrock Drive,,NASHVILLE,Tennessee,United States,37221,650-906-8877,,,"3MON; FEB22 resume at new address
+stopped; moved
+8328
+RRC-F2CMS
+RRC-F4CMS
+ACH-2",Active,3m,cus_NEK04fQNayIdO1,src_1MTrMvKPS7KEOFbqIDqSa76M,4045,2026,8,Visa,72,65132,empty,jmbmail@yahoo.com
+Primary,Joyce Cizmarik - ABR-546,Joyce Cizmarik,jrciz@aol.com,125 West Ridge Dr.,,Hendersonville,Tennessee,United States,37075,615-822-9462,,,"ABR-546
+RRC-Hville 1&3 Fri",Active,3m,cus_NEK0IqSNUn3QSA,src_1MTrMcKPS7KEOFbqkO6KixB2,4005,2019,7,Visa,132,1145,3/31/2015,jrciz@aol.com
+Secondary,Joyce Cizmarik - ABR-546,empty,rciz33@aol.com,125 West Ridge Dr.,,Hendersonville,Tennessee,United States,37075,,,,"ABR-546
+RRC-Hville 1&3 Fri",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Joyce Harrison - ABR-147,Joyce Harrison (sent to Ms. Blackwell),elainehblackwell@gmail.com,102 Homestead Dr,,Hendersonville,Tennessee,United States,37075,615-824-7591,615-504-2938,,"NO COMPUTER; MAIL INVOICE
+mother of Elaine Blackwell ABR-324
+ABR-147
+RRC-Hville 1&3 Wed",Active,y,cus_NEK1CK7y5cH78P,src_1MTrN4KPS7KEOFbq8xaQD0bk,2782,2027,4,MasterCard,480,11189,7/1/2022,elainehblackwell@gmail.com
+Primary,Joyce Kaufman - 9260,Joyce Kaufman,jol.kauf150@gmail.com,150 Vintage Circle,,Hendersonville,Tennessee,United States,37075,615-766-0452,,,"9260
+RRC-Hville 1&3 FRI",Active,3m,cus_NEK05PLbnxje8v,src_1MTrMlKPS7KEOFbqUdkRNP0r,4133,2021,4,Discover,72,55799,5/31/2020,jol.kauf150@gmail.com
+Primary,Judith (Mandell) Wolf - 8509,Judith (Mandell) Wolf,judithandallan@comcast.net,304 Harpeth Ridge Drive,,NASHVILLE,Tennessee,United States,37221,615-352-1672,,,"8509
+RRC-M2CMS
+RRC-M4CMS",Active,3m,cus_NEK08YWw4GFH1U,src_1MTrMdKPS7KEOFbqWsMJQVoT,4009,2021,1,American Express,132,9274,7/1/2015,judithandallan@comcast.net
+Primary,JUDITH ANDREWS-ONE - 2070,JUDITH ANDREWS,andrews.judy@gmail.com,1707 GRAYBAR LN,,NASHVILLE,Tennessee,United States,37215,,,,"2070
+RRC-F2CMS
+RRC-F4CMS
+ACH-2",Active,3m,empty,empty,empty,empty,empty,empty,246,15434,3/2/2016,andrews.judy@gmail.com
+Primary,Judith Cobble - 9305,Judith Cobble,genacobble@comcast.net,7509 Hallows Drive,,Nashville,Tennessee,United States,37221,6154773780,,,"9305
+RRC-M4CMS",Active,3m,cus_NEK0GiJ4wCAM27,src_1MTrMqKPS7KEOFbqQiq0rNSV,2867,2023,2,Visa,72,59339,12/31/2020,genacobble@comcast.net
+Primary,Judith Humphries - 9276,Judith Humphries,judyjean1831@gmail.com,5020 STONEMEADE DRIVE,,Nashville,Tennessee,United States,37221,2052756991,,,"9276
+RRC-M1CMS",Active,3m,cus_NEK0TvajwiuZSj,src_1MTrMoKPS7KEOFbqhVxq8xDu,6264,2023,2,MasterCard,72,57625,10/1/2020,judyjean1831@gmail.com
+Primary,Judith Smith - 9269,Judith Smith,smith.judy@ymail.com,59 Revere Park,,Nashville,Tennessee,United States,37205,6159693847,,,"9269
+RRC-F4CMS",Active,3m,cus_NEK1tWG7V14lJB,src_1MTrN1KPS7KEOFbqBEbTgF0U,3041,2027,10,Visa,102,56883,7/31/2020,smith.judy@ymail.com
+Primary,Judy Cushman - 9259,Judy Cushman,judycushman@gmail.com,101 Breakwater N,,Hendersonville,Tennessee,United States,37075,3155594268,,,"9259
+RRC-Hville 1&3 Fri",Active,3m,cus_NEK1N5MbaFdUxi,src_1MTrNBKPS7KEOFbqyMzIrk7m,5225,2026,11,Visa,132,52248,5/31/2020,judycushman@gmail.com
+Primary,Judy McFarland,Judy McFarland,judycmcfarland@comcast.net,8421 MERRYMOUNT DR,,NASHVILLE,Tennessee,United States,37221,615-646-5508,615-4177540,,"2834
+RRC-M2CMS",Active,3m,cus_NEK0qJRlDkydtg,src_1MTrMeKPS7KEOFbqJtETiWRc,9888,2025,1,MasterCard,72,14199,8/31/2016,judycmcfarland@comcast.net
+Primary,Juliana Bastin - 9591,Juliana Bastin,julianabastin@gmail.com,1492 Boardwalk Place,,Gallatin,Tennessee,United States,37066,(615) 642-7800,,,,Active,3m,empty,empty,empty,empty,empty,empty,132,68448,empty,julianabastin@gmail.com
+Primary,Julie Burton - 9284,Julie Burton,julieripski@yahoo.com,8044 Regency Drive,,Nashville,Tennessee,United States,37221,6157798882,,,"9284
+RRC-M2CMS
+RRC-M4CMS",Active,3m,cus_NEK1kUBXqnBXrq,src_1MTrNAKPS7KEOFbqCysL8Ooc,9852,2023,10,Visa,132,57963,10/31/2020,julieripski@yahoo.com
+Primary,Julie Carter - ABR-048,Julie Carter,juliegcarter@gmail.com,1070 Sir Francis Court,,Gallatin,Tennessee,United States,37066,615-207-1722,,,"ABR-048
+
+Old address: 2035 Rodman Blvd
+
+RRC-Hville 2&4 WED",Active,3m,cus_NEK01oHIMTvJ2s,src_1MTrMpKPS7KEOFbqa1S79vLf,6464,2028,4,Visa,132,61043,1/31/2021,juliegcarter@gmail.com
+Primary,Julie Cottingham - 2448,Julie Cottingham,julie@cottinghamparalegal.com,7909 Haydenberry Court,,Nashville,Tennessee,United States,37221,615-430-3972,,,"2448
+RRC-M1CMS",Active,3m,cus_NEK0umAdFJ3ncL,src_1MTrMyKPS7KEOFbq0hanwTk9,2496,2026,8,Visa,72,34830,5/1/2018,julie@cottinghamparalegal.com
+Primary,Julie Lankford - 8852,Julie Lankford,julie.lankford@gmail.com,116 Blue Ridge Drive,,Hendersonville,Tennessee,United States,37075,6158815307,,,"8852
+RRC-Hville 2&4 Wed
+switched to 2x 6/1/17",Active,3m,cus_NEK088zUbnKLfb,src_1MTrMyKPS7KEOFbqCGtvHP3f,3007,2024,8,American Express,132,21960,12/31/2016,julie.lankford@gmail.com
+Primary,JULIE LODER - 2324,Julie Glascock,julie.loder@gmail.com,912 DOVE RIDGE CIR,,NASHVILLE,Tennessee,United States,37221,,,,"2324
+RRC-M4CMS",Active,3m,cus_NEK00zGzFfXYmi,src_1MTrMdKPS7KEOFbqNqwc7F3y,8396,2020,8,Discover,72,9153,7/1/2015,julie.loder@gmail.com
+Primary,Julie Martin - 9383,Julie Martin,teammartin98@sbcglobal.net,2207 11th Ave South,,Nashville,Tennessee,United States,37204,(847) 323-0878,,,"9383
+RRC-F2CMS
+RRC-F4CMS",Active,3m,cus_NEK0eWkjxEcpyT,src_1MTrMuKPS7KEOFbqwAssF9rC,5067,2023,9,Visa,132,63159,8/31/2021,teammartin98@sbcglobal.net
+Primary,JULIE PABLO - 2434,JULIE PABLO,julie.r.pablo@gmail.com,304 GOLDENROD CT,,NASHVILLE,Tennessee,United States,37221,615-662-1643,615-424-6401,,"2434
+RRC-M2CMS
+RRC-M4CMS",Active,3m,cus_NEK1pm7nk1zd7K,src_1MTrNAKPS7KEOFbqTbcVRRIw,812,2028,2,Visa,132,15364,1/31/2016,julie.r.pablo@gmail.com
+Primary,Julie Shaver,Julie Shaver,julie.shaver@comcast.net,7901 Boone Trace,,Nashville,Tennessee,United States,37221,615-500-8716,,,"ABR-232
+M2CMS & M4CMS
+moved from: 144 W Harbor‚ Hville",Active,3m,cus_NEK0FKxTTXWQTa,src_1MTrMnKPS7KEOFbqZVWgxCcH,1989,2023,5,Visa,132,9222,7/1/2015,julie.shaver@comcast.net
+Primary,JULIET LAMB - 2455,JULIET LAMB,Juliehl@comcast.net,207 BELLEVUE RD,,NASHVILLE,Tennessee,United States,37221,,,,"2455
+RRC-M2CMS
+RRC-M4CMS
+ACH-1",Active,3m,empty,empty,empty,empty,empty,empty,174,15366,8/31/2021,Juliehl@comcast.net
+Primary,June & Richard Hill,June & Richard Hill,digsgarden@gmail.com,6908 Sunderland Circle,,NASHVILLE,Tennessee,United States,37221,615-646-8362,,,"8386
+RRC-M3CMS",Active,3m,empty,empty,empty,empty,empty,empty,72,11943,8/31/2015,digsgarden@gmail.com
+Primary,Justin Tucker - 8441,Justin Tucker,jtucker@gccnashville.org,7421 Stecoah St,,Cane Ridge,Tennessee,United States,37013,615-618-9775,,,"8441
+RRC-F2CMS
+customer is moving and temporarily suspending service until home built.",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Kaitlin Parker - 9184,Kaitlin Parker,jkmnparker@gmail.com,1102 CENTERPOINT RD,,Hendersonville,Tennessee,United States,37075,9316074225,,,"9184
+RRC-Hville 2&4 Wed",Active,3m,cus_NEK0pevWHxWqmG,src_1MTrMhKPS7KEOFbqxOtnSglN,1031,2024,9,American Express,72,52240,12/1/2019,jkmnparker@gmail.com
+Primary,Karen Privitera,Karen Privitera,karen.privitera@hcahealthcare.com,108 Sterling Road,,Hendersonville,Tennessee,United States,37075,615-414-9805,,,"ABR-180
+RRC-Hville 2nd&4th Wed1",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Karen Sisk - 8690,Karen Sisk,siskrk@yahoo.com,128 Georgetown Drive,,Hendersonville,Tennessee,United States,37075,615-902-1318,615-554-6376,,"8690
+RRC-Hville 1&3 Wed",Active,3m,cus_NEK0mzAPz0N99x,src_1MTrMmKPS7KEOFbqaAM5wsG2,7218,2025,5,Discover,72,8726,3/31/2016,siskrk@yahoo.com
+Primary,Karisa Peck - 2898,Karisa Peck,karisapeck@aol.com,1013 BLYTHE CT W,,NASHVILLE,Tennessee,United States,37221,,,,"2898
+RRC-M3CMS
+ACH-2",Active,3m,empty,empty,empty,empty,empty,empty,72,15488,3/2/2016,karisapeck@aol.com
+Primary,Karly Rezac - 9384,Karly Rezac,karlyrezac@gmail.com,105 RUSHING BROOK CIR,,NASHVILLE,Tennessee,United States,37221,(610) 772-1743,,,"9384
+RRC-M3CMS",Active,3m,cus_NEK0aET4n2iBP7,src_1MTrMsKPS7KEOFbqYyBOs41E,6384,2023,9,MasterCard,72,63283,10/1/2021,karlyrezac@gmail.com
+Primary,Kate Canty - Parkview Farm - 3217,Kate Canty,ekcanty@gmail.com,1900 Chickering Road,,NASHVILLE,Tennessee,United States,37215,270-779-7334,,,"3217
+RRC-F2CMS
+RRC-F4CMS",Active,3m,cus_NEK1klJEsFdVWK,src_1MTrN6KPS7KEOFbqM7Rj416E,9079,2026,7,Visa,246,10700,7/31/2015,ekcanty@gmail.com
+Primary,Kate Carson - 9235,Kate Carson,kate.carson@me.com,113 Bluegrass Circle,,Hendersonville,Tennessee,United States,37075,6159576756,,,"9235
+RRC-Hville 2&4 WED",Active,3m,empty,empty,empty,empty,empty,empty,132,55103,5/1/2020,kate.carson@me.com
+Primary,Kate Oâ€™Bryant - 9412,Kate Oâ€™Bryant,kate.l.abrams@gmail.com,1012 Blythe Court West,,Nashville,Tennessee,United States,37221,(615) 556-4171,,,"9412
+RRC-M3CMS",Active,3m,cus_NEK0SEszlL1UWK,src_1MTrMsKPS7KEOFbqAbMd9qEj,1235,2024,10,MasterCard,72,63804,12/1/2021,kate.l.abrams@gmail.com
+Primary,Katherine Louw,Katherine Louw,katherinelouw@gmail.com,108 Houghland St,,Gallatin,Tennessee,United States,37066,(615) 804-0758,,,"ABR-033
+RRC-Hville 2&4 WED",Active,3m,cus_NEK0eQvnnfF5Ga,src_1MTrMkKPS7KEOFbqxdtWUFjO,5676,2024,3,Visa,72,11214,empty,katherinelouw@gmail.com
+Primary,KATHLEEN & THOMAS GARTHWAITE - 3847,KATHLEEN & THOMAS GARTHWAITE,kgarthwaite@me.com,4205 ARUNDEL CT,,NASHVILLE,Tennessee,United States,37215,610-613-3889,,,"3847
+RRC-F2CMS",Active,empty,cus_NEK0HfKq1XPBYe,src_1MTrMjKPS7KEOFbqh8ftNlNk,2621,2023,9,Visa,empty,empty,empty,empty
+Primary,Kathleen Gant - 8634,Kathleen Gant,skmcdonough2002@yahoo.com,720 Wabash Place,,NASHVILLE,Tennessee,United States,37221,615-646-6406,,,"8634
+RRC-M1CMS
+RRC-M3CMS",Active,3m,cus_NEK0UnugNgSKfW,src_1MTrMnKPS7KEOFbqy232W1eA,7202,2024,7,Visa,132,10732,7/31/2015,skmcdonough2002@yahoo.com
+Primary,Kathleen G-Francisco - ABR-501,Kathleen G-Francisco,kandieg07@comcast.net,148 Vintage Circle,,HENDERSONVILLE,Tennessee,United States,37075,(615) 822-0719,,,"ABR-501
+RRC-Hville 1&3 Fri",Active,y,cus_NEK0rs7Kjk8lmd,src_1MTrMtKPS7KEOFbq3xAWd1ZU,3746,2025,9,Discover,288,11075,12/1/2021,kandieg07@comcast.net
+Primary,Kathleen Sanchez - 8581,Kathleen Sanchez,kpbotr1956@gmail.com,110 Cranwill Drive,,Hendersonville,Tennessee,United States,37075,615-414-6229,,,"8581
+RRC-Hville 1&3 Wed",Active,3m,cus_NEK0WCOBkv28Ro,src_1MTrMsKPS7KEOFbqBIncwePW,9230,2024,1,Visa,72,54576,3/31/2020,kpbotr1956@gmail.com
+Primary,Kathy and Jerre Vaughan - 9267,Kathy and Jerre Vaughan,vkvaughan@bellsouth.net,534 Indian Lake Rd,,Hendersonville,Tennessee,United States,37075,615-210-9012,,,"9267
+RRC-Hville 1&3 FRI",Active,3m,cus_NEK1RigMgmuUkq,src_1MTrNBKPS7KEOFbq8G7nbOpt,4941,2025,11,Visa,72,56751,10/31/2020,vkvaughan@bellsouth.net
+Primary,Kathy Ausderau - 9147,Kathy Ausderau,kmausderau@gmail.com,115 Higginson Place North,,Gallatin,Tennessee,United States,37066,7346747217,,,"9147
+RRC-Hville 2&4 Wed",Active,3m,cus_NEK08ageFGvzYx,src_1MTrMhKPS7KEOFbqaGUuZIuo,2761,2023,10,MasterCard,132,49470,8/31/2019,kmausderau@gmail.com
+Primary,Katie Garaby - 9367,Katie Garaby,garcia.katie@gmail.com,616 Indian Ridge Drive,,NASHVILLE,Tennessee,United States,37221,(423) 994-5384,,,"9367
+RRC-M1CMS
+RRC-M3CMS",Active,3m,cus_NEK0qcZwb5q0Iy,src_1MTrMtKPS7KEOFbqXgg4nwgi,767,2024,5,Visa,132,62871,8/31/2021,garcia.katie@gmail.com
+Primary,Katie Stenberg - ABR-110,Katie Stenberg,kgrainer@yahoo.com,109 Chickamauga Drive,,Hendersonville,Tennessee,United States,37075,615-824-6205,,,"ABR-110
+RRC-Hville 1&3 Fri",Active,3m,cus_NEK00EY48MuUgk,src_1MTrMjKPS7KEOFbqiSdeD1R9,4095,2028,2,Visa,132,11712,8/31/2015,kgrainer@yahoo.com
+Primary,Katy Ridings - 9377,Katy Ridings,katyridings5@gmail.com,1215 Temple Crest Drive,,Franklin,Tennessee,United States,37069,(615) 504-4846,,,"9377
+RRC-M1CMS
+RRC-M3CMS",Active,3m,cus_NEK0ZKgShjUZKs,src_1MTrMxKPS7KEOFbqTtOv7733,1017,2024,11,American Express,72,63015,8/31/2021,katyridings5@gmail.com
+Primary,Kay Greene - ABR-374,Kay Greene,kay.greene@comcast.net,1037 Stirlingshire Drive,,Hendersonville,Tennessee,United States,37075,(615) 822-2772,,,"ABR-374
+RRC-Hville 1&3 Wed",Active,y,cus_NEK0mblstF5FZ6,src_1MTrMwKPS7KEOFbqiYkWgUQk,5826,2023,10,Visa,288,11163,7/1/2016,kay.greene@comcast.net
+Secondary,Kay Greene - ABR-374,Melinda Henderson,henderson.mel@gmail.com,1037 Stirlingshire Drive,,Hendersonville,Tennessee,United States,37075,,,,"ABR-374
+RRC-Hville 1&3 Wed",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,KELLEY ESTES - 3152,KELLEY ESTES,kelleygestes@gmail.com,3110 FORREST PARK AVE,,NASHVILLE,Tennessee,United States,37215,615-417-6923,,,"3152
+RRC-F2CMS
+RRC-F4CMS",Active,3m,cus_NEK1mYlmJnGE9p,src_1MTrNIKPS7KEOFbqnSYTDCXA,5804,2023,11,MasterCard,174,10726,7/31/2015,kelleygestes@gmail.com
+Primary,Kelly Beard - 9444,Kelly Beard,kenverybigliar@gmail.com,704 Dove Valley Court,,Nashville,Tennessee,United States,37221,(615) 707-2085,,,,Active,3m,cus_NEK1baoZZ2OAp7,src_1MTrN0KPS7KEOFbq6u7hswvy,5147,2026,7,Visa,132,64413,1/31/2022,kenverybigliar@gmail.com
+Primary,Kelly Fisher - 8752,Kelly Fisher,kellyfisher615@icloud.com,258 Summit Ridge Drive,,Nashville,Tennessee,United States,37215,615-974-9898,,,"suspended for nonpayment DEC18
+8752
+RRC-F4CMS
+
+swiTched to 1xmonth 7-3-17",Active,3m,cus_NEK1yfU7mBWBrY,src_1MTrN7KPS7KEOFbqmEwwU563,710,2025,8,MasterCard,72,16181,1/31/2019,kellyfisher615@icloud.com
+Primary,Kelsey Nicklaw - 9241,Kelsey Nicklaw,kelsey.horn@gmail.com,105 La Vista Drive,,Hendersonville,Tennessee,United States,37075,7349041376,,,"9241
+RRC-Hville 1&3 WED",Active,3m,cus_NEK1TMvgBnSzya,src_1MTrNCKPS7KEOFbqJChxqMxt,9268,2025,5,Visa,132,55425,7/31/2021,kelsey.horn@gmail.com
+Secondary,Kelsey Nicklaw - 9241,Matthew Nicklaw,matthewnicklaw@gmail.com,105 La Vista Drive,,Hendersonville,Tennessee,United States,37075,,,,"9241
+RRC-Hville 1&3 WED",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Kenneth Abernathy - 8728,Kenneth Abernathy,jalanaabernathy@gmail.com,154 Cumberland Drive,,Hendersonville,Tennessee,United States,37075,423-290-6150,,,"8728
+RRC-Hville 1&3 Wed",Active,3m,cus_NEK1DOeMWzp87g,src_1MTrN6KPS7KEOFbqykHaWVIX,2449,2026,10,MasterCard,72,13941,12/31/2015,jalanaabernathy@gmail.com
+Primary,Keri Photivihok - 8945,Keri Photivihok,kerizeka@hotmail.com,127 Judson Drive,,Hendersonville,Tennessee,United States,37075,615-414-2096,,,"8945
+RRC-Hville 1&3 Fri",Active,3m,cus_NEK0zfmp0S0qgG,src_1MTrMrKPS7KEOFbqeDVix6kU,2011,2026,5,Visa,132,30624,3/31/2019,kerizeka@hotmail.com
+Primary,Kevin Burt - 2596,Kevin Burt,kevinburt2@comcast.net,632 HARPETH KNOLL RD,,NASHVILLE,Tennessee,United States,37221,615-866-6337,,,"2596
+RRC-M1CMS
+RRC-M3CMS
+ACH-3",Active,3m,empty,empty,empty,empty,empty,empty,132,16064,8/31/2021,kevinburt2@comcast.net
+Primary,Kevin Wallenbeck - 9539,Kevin Wallenbeck,kevin@lifeasweliveit.com,110 Oglethorpe Avenue,,Gallatin,Tennessee,United States,37066,(989) 859-9023,,,,Active,3m,cus_NEK1lpN3pDvs80,src_1MTrNFKPS7KEOFbqd4adCVil,350,2024,11,Visa,72,66852,1/31/2023,kevin@lifeasweliveit.com
+Primary,Kim Briley - ABR-211,Kim Briley,kim@itworkscomputers.net,137 Trail Ridge Drive,,Hendersonville,Tennessee,United States,37075,615-310-1773,,,"ABR-211
+RRC-Hville 2&4 Wed",Active,3m,cus_NEK1SgXzyCuu6m,src_1MTrN1KPS7KEOFbqcxJ8iWy8,1781,2027,1,MasterCard,132,11920,8/31/2015,kim@itworkscomputers.net
+Primary,Kim Kays - ABR-354,Kim Kays,kays.lacasa@gmail.com,1029 Crimson Way,,Hendersonville,Tennessee,United States,37075,(615) 431-0212,,,"ABR-354
+RRC-Hville 1&3 Wed",Active,y,cus_NEK1YajQSPycnx,src_1MTrN1KPS7KEOFbqPnGcKc76,662,2023,8,Visa,288,11202,3/3/2021,kays.lacasa@gmail.com
+Primary,Kimberly Hoffman,Kimberly Hoffman,kimberlynhoffman@gmail.com,1205 Spearpoint Drive,,Hendersonville,Tennessee,United States,37075,615-519-1472,,,"ABR-337
+RRC-Hville 1st&3rd Wed
+account closed for no payment",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Kimberly Williamson - 8493,Kimberly Williamson,kimwilliamson111@gmail.com,117 Hazelwood Drive,,HENDERSONVILLE,Tennessee,United States,37075,828-263-2330,,,"8493
+switched to 1x/mo 12/1/15
+RRC-Hville 1&3 Wed",Active,3m,cus_NEK0DlwhQT5W0Q,src_1MTrMcKPS7KEOFbqJCUJsYiY,996,2019,2,Discover,72,10864,7/31/2015,kimwilliamson111@gmail.com
+Primary,Kitty Delany - 9333,Kitty Delany,kitdelany@comcast.net,3546 Richland Ave,,Nashville,Tennessee,United States,37205,(630) 207-6307,,,"9333
+RRC-F2CMS",Active,3m,cus_NEK1yO1tjvgTYM,src_1MTrN2KPS7KEOFbqqnqUoU2z,2614,2026,12,Visa,102,61233,5/1/2021,kitdelany@comcast.net
+Primary,Kris & Kelly Wishard - 9130,Kelly Wishard,kellywishard@yahoo.com,136 Fairways Drive,,Hendersonville,Tennessee,United States,37075,513-335-0864,,,"9130
+RRC-Hville 2&4 Wed",Active,3m,cus_NEK0HkoBsPcjCo,src_1MTrMoKPS7KEOFbqTZqo0elQ,5295,2025,2,Visa,132,46046,5/31/2019,kris.wishard@yahoo.com‚ kellywishard@yahoo.com
+Secondary,Kris & Kelly Wishard - 9130,Kris Wishard,kris.wishard@yahoo.com,136 Fairways Drive,,Hendersonville,Tennessee,United States,37075,5133154024,,,"9130
+RRC-Hville 2&4 Wed",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Kyle Baker - 9425,Kyle Baker,kyle@kylejbaker.com,766 Harpeth Knoll Road,,Nashville,Tennessee,United States,37221,(615) 504-8030,,,"9425
+RRC-M1CMS",Active,3m,empty,empty,empty,empty,empty,empty,72,63973,12/31/2021,kyle@kylejbaker.com
+Primary,Lacie Crisler - 8941,Lacie Crisler (Rice),lacie.crisler@gmail.com,105 Ridge Court South,,Hendersonville,Tennessee,United States,37075,615-693-1109,,,"moved from: 103 Moss Ct
+8941
+RRC-Hville 1st Fri",Active,3m,cus_NEK1HrKYUWLYBp,src_1MTrN3KPS7KEOFbq0pZ3K7L3,7308,2025,12,Visa,72,30194,8/31/2017,lacie.crisler@gmail.com
+Primary,Lacy Schmitt - 9183,Lacy Schmitt,lcschmitt2@yahoo.com,155 Flintshire Lane,,Hendersonville,Tennessee,United States,37075,6155424941,,,"9183
+RRC-Hville 1&3 Wed",Active,3m,cus_NEK03pmmVMDhba,src_1MTrMvKPS7KEOFbqnJyOWlnO,5371,2027,3,Visa,132,52482,12/31/2019,lcschmitt2@yahoo.com
+Primary,Landon Earps -  ABR-137,Landon Earps,landonearps@gmail.com,100 Pine Branch Trail,,HENDERSONVILLE,Tennessee,United States,37075,(615) 476-7521,,,"ABR-137
+RRC-Hville 1&3 Fri",Active,y,cus_NEK1OBVh6Qz6dZ,src_1MTrN1KPS7KEOFbqpb2g49EJ,2971,2027,8,Visa,288,11146,12/1/2015,landonearps@gmail.com
+Primary,Laura Baker - 9264,Laura Baker,tallbakers@gmail.com,7221 Green Meadows Lane,,Nashville,Tennessee,United States,37221,8017176441,,,"9264
+RRC-M4CMS",Active,3m,cus_NEK0uv4mxQ1wvG,src_1MTrMpKPS7KEOFbqRqkBvK1s,4598,2024,3,Visa,72,56375,7/1/2020,tallbakers@gmail.com
+Primary,Laura Bentley - 8968,Laura Bentley,llobentley1150@gmail.com,1150 Crater Hill,,Nashville,Tennessee,United States,37215,248-459-4985,,,"8968
+RRC-F4CMS",Active,3m,cus_NEK0YWoapQNY9v,src_1MTrMmKPS7KEOFbqBq5ctmbh,9860,2024,9,Visa,102,31712,10/31/2017,llobentley1150@gmail.com
+Primary,Laura Brothers - 9075,Laura Brothers,lbrothers@bassberry.com,1225 Bedfordshire Court,,Nashville,Tennessee,United States,37221,615-673-3305,,,"9075
+RRC-M1CMS
+RRC-M3CMS",Active,3m,cus_NEK0oFmBwEcvfC,src_1MTrMrKPS7KEOFbqx9aHM8wS,3405,2026,3,Visa,132,40747,8/31/2018,lbrothers@bassberry.com
+Secondary,Laura Brothers - 9075,Jay Brothers,brothersjc2@comcast.net,1225 Bedfordshire Court,,Nashville,Tennessee,United States,37221,,,,"9075
+RRC-M1CMS
+RRC-M3CMS",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Laura Corrigan - 9438,Laura Corrigan,lauraminton@gmail.com,1616 Ash Valley Drive,,Nashville,Tennessee,United States,37215,(303) 802-6525,,,"RRC-F2CMS
+RRC-F4CMS",Active,3m,cus_NEK0GnInmqLmPY,src_1MTrMwKPS7KEOFbq7z6OZsHS,9750,2028,1,Discover,132,64281,empty,lauraminton@gmail.com
+Primary,Laura Miller - 2404,Laura Miller,lauraloumiller@yahoo.com,530 Cumberland Hills Dr.,,Hendersonville,Tennessee,United States,37075,615-330-5071,,,"2404
+RRC-Hville 1&3 Fri
+Previous address:
+1)6416 Riverplace Drive
+2)437 Cumberland Hills Dr",Active,3m,cus_NEK0ZspIAjL7ai,src_1MTrMvKPS7KEOFbq0VI9ploO,8577,2026,11,Visa,132,7814,10/31/2016,lauraloumiller@yahoo.com
+Primary,Laura O'Brien - 9238,Laura O'Brien,jimlaurabrenna@aol.com,7925 River Fork Drive,,Nashville,Tennessee,United States,37206,6153972617,,,"9238
+RRC-M1CMS",Active,3m,cus_NEK07EIwqPtleU,src_1MTrMyKPS7KEOFbqUDOg8Zae,2885,2027,7,MasterCard,72,54915,5/1/2020,jimlaurabrenna@aol.com
+Primary,Laura Rewa - ABR-149,Laura Rewa,rewagram@bellsouth.net,114 Hickory Heights Drive,,Hendersonville,Tennessee,United States,37075,(615) 264-0320,,,"ABR-149
+RRC-Hville 1&3 Wed
+ACH-2",Active,3m,empty,empty,empty,empty,empty,empty,120,15824,3/2/2016,rewagram@bellsouth.net
+Secondary,Laura Rewa - ABR-149, ,jakerewa@bellsouth.net,114 Hickory Heights Drive,,Hendersonville,Tennessee,United States,37075,,,,"ABR-149
+RRC-Hville 1&3 Wed
+ACH-2",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Lauren Ealey - 9230,Lauren Ealey,loealey@yahoo.com,134 Bay Drive,,Hendersonville,Tennessee,United States,37075,6158307878,,,"9230
+RRC-Hville 2&4 Wed",Active,3m,cus_NEK1kEtuyMqkku,src_1MTrN4KPS7KEOFbqrtNXHqxo,2297,2026,11,Visa,132,54552,3/2/2020,loealey@yahoo.com
+Primary,Lauren Fite - 8985,Lauren Fite,Lgfite@gmail.com,198 Clifftop Drive,,Hendersonville,Tennessee,United States,37075,310-801-7618,,,"8985
+RRC-Hville 1&3 Fri",Active,3m,cus_NEK1uOkqnJHUAw,src_1MTrN5KPS7KEOFbqCtKM6Bco,5618,2025,11,MasterCard,72,32940,12/31/2022,Lgfite@gmail.com
+Primary,Lauren Love,Lauren Love,lovelauren83@yahoo.com,107 Huntington Place,,Hendersonville,Tennessee,United States,37075,615-853-1062,,,"8516
+RRC-Hville 2nd&4th Wed2",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Lauren Oschman - 9170,Lauren Oschman,lauren.l.oschman@gmail.com,824 Magnolia Ct E,,Nashville,Tennessee,United States,37221,6157662677,,,"9170
+RRC-M2CMS
+RRC-M4CMS",Active,3m,cus_NEK0UkgMX9LNwq,src_1MTrMkKPS7KEOFbqr2JTTsMI,1558,2025,11,Visa,132,51438,10/31/2019,lauren.l.oschman@gmail.com
+Primary,Lauren Prescott - 9596,Lauren Prescott,shorele@gmail.com,1507 Paris Avenue,,Nashville,Tennessee,United States,37212,(978) 273-5384,,,,Active,3m,empty,empty,empty,empty,empty,empty,72,68442,empty,shorele@gmail.com
+Primary,Laurie Lucas - ABR-435,Laurie Lucas,mock1019@outlook.com,225 Waterview Dr,,Hendersonville,Tennessee,United States,37075,615-480-5822,,,"Resume FEB 2021
+suspended AUG20
+ABR-435
+RRC-Hville 1st&3rd Fri
+suspended 5-1-18 (7-17-20)
+reactivated 10-24-19",Active,3m,cus_NEK0LNaOz9aMo2,src_1MTrMrKPS7KEOFbqrAcvbI0a,3027,2023,10,Visa,72,21425,3/31/2021,mock1019@outlook.com
+Secondary,Laurie Lucas - ABR-435, ,laurielee.agent@gmail.com,225 Waterview Dr,,Hendersonville,Tennessee,United States,37075,,,,"Resume FEB 2021
+suspended AUG20
+ABR-435
+RRC-Hville 1st&3rd Fri
+suspended 5-1-18 (7-17-20)
+reactivated 10-24-19",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Secondary,Laurie Lucas - ABR-435, ,lucas225@icloud.com,225 Waterview Dr,,Hendersonville,Tennessee,United States,37075,,,,"Resume FEB 2021
+suspended AUG20
+ABR-435
+RRC-Hville 1st&3rd Fri
+suspended 5-1-18 (7-17-20)
+reactivated 10-24-19",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Laurie Turner - ABR-347,Laurie Turner,laurie.turner@gmail.com,1018 Smokerise Ln,,HENDERSONVILLE,Tennessee,United States,37075,702-610-5683,,,"ABR-347
+RRC-Hville 1&3 Wed",Active,y,cus_NEK0tupbs6WkOQ,src_1MTrMrKPS7KEOFbqvzEeuNMH,1002,2025,8,American Express,288,11336,1/31/2022,sypien@gmail.com‚ laurie.turner@gmail.com
+Secondary,Laurie Turner - ABR-347,Troy Sypien,sypien@gmail.com,1018 Smokerise Ln,,HENDERSONVILLE,Tennessee,United States,37075,702-461-8769,,,"ABR-347
+RRC-Hville 1&3 Wed",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Lavenia Carpenter - 8560,Lavenia Carpenter,georgelav@aol.com,43 Annandale Drive,,NASHVILLE,Tennessee,United States,37215,615-377-5576,,,"8560
+RRC-F2CMS
+RRC-F4CMS",Active,3m,cus_NEK0AyTvuBela5,src_1MTrMqKPS7KEOFbqtZkCTKTS,8960,2028,3,Visa,174,14015,10/1/2023,georgelav@aol.com
+Primary,Lawrence Mignogna - 9236,Lawrence Mignogna,gradeafilet@icloud.com,104 Pine Branch Trail,,Hendersonville,Tennessee,United States,37075,6313167674,,,"9236
+RRC-Hville 1&3 Fri",Active,3m,cus_NEK0SVd2MZ4Oq0,src_1MTrMmKPS7KEOFbqV4SUiH1B,2505,2028,1,MasterCard,72,54881,3/31/2020,gradeafilet@icloud.com
+Primary,Laymon Curtis,Laymon Curtis,wa4yzt1@gmail.com,105 COLT CT,,NASHVILLE,Tennessee,United States,37221,615-351-9086,,,"2739
+RRC-M4CMS",Active,3m,cus_NEK0Az7E3fRuc6,src_1MTrMiKPS7KEOFbqoY5TYZ1S,4382,2024,5,Visa,72,11682,8/31/2015,wa4yzt1@gmail.com
+Primary,Leah Hegeman - 9543,Leah Hegeman,leahegeman@gmail.com,659 Nottingham Ave,,Hendersonville,Tennessee,United States,37075,6154745549,,,,Active,3m,cus_NEK1kkyLq6UxuW,src_1MTrMyKPS7KEOFbqs2dP8xEs,3688,2025,11,MasterCard,132,67433,3/3/2023,leahegeman@gmail.com
+Primary,Lee Eppinger - ABR-139,Lee Eppinger,lrepp49@gmail.com,119 Connie Drive,,Hendersonville,Tennessee,United States,37075,615-824-4614,,,"ABR-139
+RRC-Hville 1&3 Wed",Active,y,empty,empty,empty,empty,empty,empty,288,11151,7/1/2016,lrepp49@gmail.com
+Secondary,Lee Eppinger - ABR-139,Lee Eppinger,Lrepp49@gmail.com,119 Connie Drive,,Hendersonville,Tennessee,United States,37075,,,,"ABR-139
+RRC-Hville 1&3 Wed",Active,y,empty,empty,empty,empty,empty,empty,288,11151,7/1/2016,lrepp49@gmail.com
+Primary,Lee Kraft - 2923,Lee Kraft,glendakraft@comcast.net,525 Trace Creek Dr,,Nashville,Tennessee,United States,37221,615-347-2048,,,"2923
+RRC-M1CMS
+RRC-M3CMS",Active,3m,cus_NEK0BYjMTYjW6K,src_1MTrMkKPS7KEOFbqkAZy3Tro,4386,2022,7,Visa,174,7915,5/31/2015,glendakraft@comcast.net
+Primary,Leigh Ann Portale,Leigh Ann Portale,laportale@comcast.net,162 Hicks Road,,NASHVILLE,Tennessee,United States,37221,615-673-2259,,,"8576
+RRC-M4CMS",Active,3m,cus_NEK0k3RQ83GoI9,src_1MTrMmKPS7KEOFbqpnC1CdRF,3006,2024,10,American Express,72,14227,12/1/2015,laportale@comcast.net
+Primary,Leisa Hammett - 8623,Leisa Hammett,lahammett@gmail.com,223 Windsor Terrace Drive,,NASHVILLE,Tennessee,United States,37221,615-513-4435,,,"8623
+RRC-M2CMS
+ACH-2",Active,3m,empty,empty,empty,empty,empty,empty,72,15743,3/2/2016,lahammett@gmail.com
+Primary,Lelan Statom - ABR-214,Lelan Statom,lelan.statom@newschannel5.com,148 Trail Ridge Drive,,Hendersonville,Tennessee,United States,37075,615-264-8634,,,"ABR-214
+RRC-Hville 2&4 Wed",Active,y,empty,empty,empty,empty,empty,empty,288,8451,12/1/2021,lelan.statom@newschannel5.com
+Primary,Leland Cowan - 2568,Leland Cowan,lcowan@cencum.com,5203 Shenandoah Ct,,NASHVILLE,Tennessee,United States,37220,615-496-3549,,,"switched 1x/mo APR22
+2568
+RRC-F2CMS
+RRC-F4CMS
+ACH-2
+
+old address:816 ONSLOW WAY",Active,3m,empty,empty,empty,empty,empty,empty,72,65677,12/1/2022,lcowan@cencum.com
+Primary,Leland Rogers - 8859,Leland Rogers,rogers.leland@gmail.com,7041 Allens Lane,,Nashville,Tennessee,United States,37221,615-646-5536,615-476-7754,,"8859
+M1CMS
+ACH-2",Active,3m,empty,empty,empty,empty,empty,empty,72,22549,12/1/2016,rogers.leland@gmail.com
+Primary,Leslie Judson - 8861,Leslie Judson,lesliejudson@gmail.com,106 Maple View Trail,,Hendersonville,Tennessee,United States,37075,865-385-1105,,,"8861
+RRC-Hville 1&3 Fri
+old contact: Justin Judson
+jnjudson@gmail.com",Active,empty,cus_NEK0hENesKCcgu,src_1MTrMjKPS7KEOFbqwVI8CQcO,7795,2021,2,Visa,empty,empty,empty,empty
+Primary,Lester Turner - 8628,Lester Turner,lturner@kwtenn.com,1193 Otter Creek Road,,NASHVILLE,Tennessee,United States,37215,615-360-3698,,,"8628
+RRC-F4CMS",Active,3m,cus_NEK017OkcQZDnL,src_1MTrMsKPS7KEOFbq0O5MY6Ay,1075,2023,6,MasterCard,72,10858,7/31/2015,lturner@kwtenn.com
+Primary,Lew Moore - 9055,Lew Moore,lewmooresolutions@gmail.com,6332 Chickering Circle,,Nashville,Tennessee,United States,37215,615-293-1040,,,"9055
+RRC-F4CMS",Active,3m,cus_NEK0rpGfMO36IC,src_1MTrMyKPS7KEOFbq01KvbzrW,1447,2024,3,MasterCard,72,35693,7/31/2018,lewmooresolutions@gmail.com
+Primary,Linda Themm - 9345,Linda Themm,lindathemm@gmail.com,2518 Fairfax Avenue,,Nashville,Tennessee,United States,37212,(615) 424-4450,,,"9345
+RRC-F4CMS",Active,3m,empty,empty,empty,empty,empty,empty,72,61697,5/31/2021,lindathemm@gmail.com
+Primary,Lindsey Benda - 9162,Lydia Benda,lkbenda@yahoo.com,119 Spy Glass way,,Hendersonville,Tennessee,United States,37075,8478469801,,,"9162
+RRC-Hville 2&4 WED",Active,3m,empty,empty,empty,empty,empty,empty,72,51144,10/1/2019,lkbenda@yahoo.com
+Primary,Lindsey Woodard - 9327,Lindsey Woodard,Labella131@gmail.com,146 Saranac Trail,,Hendersonville,Tennessee,United States,37075,(615) 766-7615,,,"9327
+RRC-Hville 1&3 FRI",Active,3m,cus_NEK0bqz8CQEqRJ,src_1MTrMyKPS7KEOFbqYbrCdnqA,4282,2027,2,Visa,132,60889,3/31/2021,Labella131@gmail.com
+Primary,Lisa Blomquist - 8838,Lisa Blomquist,lisa.t.blomquist@gmail.com,1177 Potter Lane,,Gallatin,Tennessee,United States,37066,832-758-3420,,,"8838
+RRC-Hville 2&4 Wed",Active,3m,cus_NEK0czOgRZgipZ,src_1MTrMxKPS7KEOFbqRFuaXv8r,2280,2026,12,Visa,132,21104,12/31/2016,lisa.t.blomquist@gmail.com
+Primary,Lisa Boullt - 9445,Lisa Boullt,613indianridgedr@gmail.com,613 INDIAN RIDGE DRIVE,,Nashville,Tennessee,United States,37221,(615) 522-7239,,,,Active,3m,cus_NEK1NyCynywRmp,src_1MTrNBKPS7KEOFbqRyP0Ahb9,4950,2025,3,MasterCard,132,64470,3/3/2022,613indianridgedr@gmail.com
+Primary,Lisa Wray - 8567,Lisa Wray,lisasalerno@bellsouth.net,104 Leeward Point,,HENDERSONVILLE,Tennessee,United States,37075,615-333-4636,,,"8567
+RRC-Hville 1&3 Fri",Active,3m,cus_NEK0ruAHgqe4Su,src_1MTrMwKPS7KEOFbqfN5xgqdW,6336,2026,11,Visa,72,9275,7/1/2015,lisasalerno@bellsouth.net
+Primary,Liz Porter - 9553,Liz Porter,liz.a.porter@gmail.com,1 Goldstone Court,,Nashville,Tennessee,United States,37215,(206) 817-4793,,,,Active,3m,cus_NEK1pIvYxVtLpk,src_1MTrNEKPS7KEOFbqK5oY2SM9,873,2024,9,MasterCard,420,67491,empty,liz.a.porter@gmail.com
+Primary,Liz Washburn - 9535,Liz Washburn,Lizzieann1000@sbcglobal.net,228 Harpeth Wood Drive,,Nashville,Tennessee,United States,37221,(951) 318-2303,,,,Active,3m,cus_NEK1xz4pqYglGN,src_1MTrN7KPS7KEOFbqqrQytbsE,2893,2027,12,MasterCard,72,67067,12/31/2022,Lizzieann1000@sbcglobal.net
+Primary,Liz Zipperer - 9542,Liz Zipperer,LZNashvilleRealEstate@gmail.com,951 Dauphine Street,,Nashville,Tennessee,United States,37221,(615) 483-4530,,,,Active,3m,cus_NEK1LCV82UJRr5,src_1MTrNGKPS7KEOFbqVtdd64s6,8920,2026,9,Visa,72,67244,1/11/2023,LZNashvilleRealEstate@gmail.com
+Primary,Lori Gettelfinger - 9312,Lori Gettelfinger,gettella@gmail.com,1167 Potter Lane,,Gallatin,Tennessee,United States,37066,615-260-8372,,,"9312
+RRC-Hville 2&4 WED",Active,3m,cus_NEK166leGcJH3x,src_1MTrN0KPS7KEOFbq0420b7YR,100,2027,11,Visa,132,65682,7/31/2022,gettella@gmail.com
+Primary,LORI KELLY - 2462,LORI KELLY,lalorila@yahoo.com,7342 ROLLING RIVER PKWY,,NASHVILLE,Tennessee,United States,37221,,,,"2462
+RRC-M1CMS
+RRC-M3CMS
+ACH-1",Active,3m,empty,empty,empty,empty,empty,empty,132,15369,8/31/2021,lalorila@yahoo.com
+Primary,Lori Koren - 9126,Lori Koren,koren04@msn.com,120 Hickory Hill Drive,,Hendersonville,Tennessee,United States,37075,6158519505,,,"9126
+RRC-Hville 1&3 Fri",Active,3m,cus_NEK0JvopyY4WIV,src_1MTrMoKPS7KEOFbqVj7EX8VC,8686,2024,8,Visa,132,46440,12/31/2022,koren04@msn.com
+Primary,Lori Landsberg - ABR-517,Lori Landsberg,orilay69@gmail.com,143 Island Dr,,Hendersonville,Tennessee,United States,37075,6153300774,,,"ABR-517
+RRC-Hville 1&3 Fri",Active,y,cus_NEK02ucokpcfBE,src_1MTrMmKPS7KEOFbqTMUIp5bL,3023,2023,8,American Express,480,11208,5/1/2017,orilay69@gmail.com
+Secondary,Lori Landsberg - ABR-517,Lori Landsberg,lori@drlandsberg.com,143 Island Dr,,Hendersonville,Tennessee,United States,37075,,,,"ABR-517
+RRC-Hville 1&3 Fri",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Lori McCurry - 9405,Lori McCurry,lori.mccurry@gmail.com,2102 W. Linden Avenue,,Nashville,Tennessee,United States,37212,(615) 500-4644,,,"9405
+RRC-FCMS",Active,3m,cus_NEK0g18fMiidSv,src_1MTrMvKPS7KEOFbqFAtDjxuy,9794,2026,12,Visa,72,63645,12/1/2021,lori.mccurry@gmail.com
+Primary,Lori Singleton -9292,Lori Singleton,lowdogger@yahoo.com,208 Elnora Court,,Hendersonville,Tennessee,United States,37075,4402896139,,,Hvle 1WED,Active,3m,cus_NEK0nM7N2bZy1V,src_1MTrMpKPS7KEOFbq3vjYzYJR,7683,2022,10,Discover,72,58757,12/1/2020,lowdogger@yahoo.com
+Primary,Lori Weir - 2649,Lori Weir,lori.r.weir@gmail.com,809 AIMES CT,,NASHVILLE,Tennessee,United States,37221,615-347-9496,,,"2649
+RRC-M2CMS
+RRC-M4CMS
+ACH-2",Active,3m,empty,empty,empty,empty,empty,empty,174,15481,3/2/2016,lori.r.weir@gmail.com
+Primary,Lorie Adams - 9499,Lorie Adams,wurzig@gmail.com,619 Harpeth Bend Drive,,NASHVILLE,Tennessee,United States,37221,(615) 972-6709,,,3MON,Active,3m,cus_NEK1BE1sSbpzsk,src_1MTrN6KPS7KEOFbq4oqNPQ0p,8991,2027,5,Visa,72,65599,7/31/2022,wurzig@gmail.com
+Primary,Lorie Hickman,Lorie Hickman,loriehickman@gmail.com,127 Windham Dr,,Hendersonville,Tennessee,United States,37075,(615) 824-5584,,,"ABR-205
+RRC-Hville 2&4 Wed",Active,y,cus_NEK1dXv6YQSEnn,src_1MTrN8KPS7KEOFbquE1FYlRx,1233,2027,4,Visa,480,11192,5/1/2016,loriehickman@gmail.com
+Secondary,Lorie Hickman,Lorie Hickman,lthickman@comcast.net,127 Windham Dr,,Hendersonville,Tennessee,United States,37075,,,,"ABR-205
+RRC-Hville 2&4 Wed",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Lorraine Morgan Scott - 9192,Lorraine Morgan Scott,lorrainemorganscott@yahoo.com,1592 Boardwalk Pl,,Gallatin,Tennessee,United States,37066,,,,"9192
+RRC-Hville 2&4 Wed
+old address: 1732 Foxland Blvd",Active,3m,cus_NEK0PSaU70Kk0v,src_1MTrMmKPS7KEOFbqGSKltILp,1016,2024,3,American Express,72,53034,12/31/2019,lorrainemorganscott@yahoo.com
+Primary,Lou Alsobrooks - 9347,Lou Alsobrooks,lou@harrisfrazier.com,605 Dorshire Lane,,Nashville,Tennessee,United States,37221,(615) 218-6292,,,"9347
+RRC-M1CMS
+RRC-M3CMS",Active,3m,cus_NEK15ybidpnGuD,src_1MTrN1KPS7KEOFbq4DZ4oxAg,6053,2027,12,Visa,132,62095,7/1/2021,lou@harrisfrazier.com
+Primary,LOU ANN DELPIRE Downing,LOU ANN DELPIRE,louanndelpire@gmail.com,509 TRACE CREEK DR,,NASHVILLE,Tennessee,United States,37221,,,,"4287
+RRC-M1CMS",Active,y,empty,empty,empty,empty,empty,empty,288,9059,10/1/2016,louanndelpire@gmail.com
+Primary,Louise Merritt - 8524,Louise Merritt,louisemerritt42@yahoo.com,4008 Wayland Drive,,NASHVILLE,Tennessee,United States,37215,615-881-9718,,,"8524
+RRC-F2CMS
+RRC-F4CMS
+added 2nd cart December 2017",Active,3m,cus_NEK1GWuZKFa8WL,src_1MTrNCKPS7KEOFbqY3DYT7Tf,171,2025,6,Visa,174,10765,7/31/2015,louisemerritt42@yahoo.com
+Primary,Lucinda Alinikoff - 8473,Lucinda Alinikoff,calinikoff@me.com,138 Lakeside Park Dr,,Hendersonville,Tennessee,United States,37075,615-438-6628,,,"resumed Jun20
+stopped NOV18
+8473
+RRC-Hville 3 Wed",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Lucy Hardin - ABR-520,Lucy Hardin,lucyok@mac.com,105 Oak Place,,HENDERSONVILLE,Tennessee,United States,37075,,,,"ABR-520
+RRC-Hville 1&3 Fri
+ACH-2",Active,3m,empty,empty,empty,empty,empty,empty,120,15854,3/2/2016,lucyok@mac.com
+Primary,Lyndsay Bray - 9410,Lyndsay Bray,lyndsay.t.bray@gmail.com,7237 Explorer Trail,,Nashville,Tennessee,United States,37221,(615) 618-2263,,,"9410
+RRC-M2CMS",Active,3m,cus_NEK1eGGDIh0eer,src_1MTrN8KPS7KEOFbql349Ee2W,60,2027,8,MasterCard,72,63815,12/1/2021,lyndsay.t.bray@gmail.com
+Primary,Lynn Casey - 9496,Lynn Casey,landk3302@gmail.com,430 Sandcastle Road,,Franklin,,United States,37069,(615) 926-8958,,,stopped NOV22 for non-payment,Active,3m,cus_NEK1bJEC4H4ku9,src_1MTrN7KPS7KEOFbqaaYGKjYA,1565,2027,3,Visa,72,68190,empty,landk3302@gmail.com
+Primary,Madelyn Johnson - 2440,Madelyn Johnson,call4tutor@bellsouth.net,7500 River Fork Dr.,,Nashville,Tennessee,United States,37221,615-473-2976,,,"2440
+RRC-M1CMS",Active,3m,cus_NEK1gc5oUJRDyv,src_1MTrN6KPS7KEOFbqjrL75WY2,6175,2026,10,Visa,72,9748,8/31/2021,call4tutor@bellsouth.net
+Primary,Madison Pestka - 9422,Madison Pestka,2015pestka@gmail.com,126 Lakeside Park Drive,,Hendersonville,Tennessee,United States,37075,(847) 460-8533,,,"9422
+RRC-HVILLE 1ST WED",Active,3m,cus_NEK063Xb6rrEqX,src_1MTrMyKPS7KEOFbq0wsSSbZ2,110,2027,4,Visa,72,63953,12/31/2021,2015pestka@gmail.com
+Primary,Mallory Magnauck - 9364,Mallory Magnauck,mallory.magnauck@gmail.com,1255 W Hickory Springs Court,,Brentwood,,United States,37027,(615) 815-5478,,,"9364
+RRC-F2CMS
+RRC-F4CMS",Active,3m,cus_NEK0UiMYbJw5qu,src_1MTrMsKPS7KEOFbqbZW5XGTQ,3006,2024,1,American Express,174,62483,7/1/2021,mallory.magnauck@gmail.com
+Primary,Mandelynn Payne - 9402,Mandelynn Payne,mandelynn.atkins@gmail.com,905 Earps Court,,Nashville,Tennessee,United States,37221,(615) 961-4065,,,"9402
+RRC-M1CMS
+RRC-M3CMS",Active,3m,cus_NEK13yWvHhbIcO,src_1MTrNFKPS7KEOFbqoB0R2qAv,3946,2026,11,Visa,132,63643,10/31/2021,mandelynn.atkins@gmail.com
+Primary,Mandy Alvis - ABR-527,Mandy Alvis,mandyjalvis@gmail.com,107 Woodvale Drive,,HENDERSONVILLE,Tennessee,United States,37075,(615) 332-1548,,,"ABR-527
+RRC-Hville 1&3 Fri",Active,3m,cus_NEK0GmmHbboO2Q,src_1MTrMsKPS7KEOFbqlDE2fnTk,2572,2025,12,MasterCard,132,11911,5/31/2020,mandyjalvis@gmail.com
+Primary,Marcos Cruz  - 9096,Marcos Cruz,marcosjcruz1@gmail.com,482 BAY POINT DRIVE,,Gallatin,Tennessee,United States,37066,6156812659,,,"9096
+RRC-Hville 2&4 Wed",Active,3m,cus_NEK0iGzPBZjesD,src_1MTrMmKPS7KEOFbqF8ft5jTu,7886,2028,12,Visa,132,41821,empty,marcosjcruz1@gmail.com
+Primary,Marilyn Akers - ABR-325,Marilyn Akers,makers3008@bellsouth.net,106 Creekwood Lane,,Hendersonville,TN,,37075,(615) 824-9052,,,"ABR-325  
+RRC-Hville 1&3 Wed",Active,3m,cus_NEK0beKJCjgdMP,src_1MTrMpKPS7KEOFbqFCd7GMdE,5502,2025,6,MasterCard,132,8983,7/1/2015,makers3008@bellsouth.net
+Secondary,Marilyn Akers - ABR-325,Marilyn Akers,makers3008@aol.com,106 Creekwood Lane,,Hendersonville,TN,,37075,,,,"ABR-325  
+RRC-Hville 1&3 Wed",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,MARION WILLIAMS - 4220,MARION WILLIAMS,marionscasa@me.com,1304 BEDDINGTON PARK,,NASHVILLE,Tennessee,United States,37215,615-309-6933,615-642-7102,,"4220
+RRC-F2CMS
+RRC-F4CMS",Active,3m,cus_NEK09u1VdmzOTV,src_1MTrMlKPS7KEOFbqAxzWfIaB,8004,2024,3,American Express,174,9268,7/1/2015,marionscasa@me.com
+Primary,Marjorie Collins,Marjorie Collins,marjcllins@aol.com,204 CLAYTIE CT,,NASHVILLE,Tennessee,United States,37221,615-646-1813,,,"2356
+RRC-M1CMS",Active,y,cus_NEK0OKgyDvCf0p,src_1MTrMvKPS7KEOFbqdMicsIxl,1007,2025,6,American Express,288,14018,3/2/2016,marjcllins@aol.com
+Primary,Mark Antonini - 2389,Mark Antonini,mantonini3@comcast.net,5732 TEMPLEGATE DR,,Nashville,Tennessee,United States,37221,615-604-0673,,,"2389
+RRC-F3CMS",Active,3m,cus_NEK0wE9pJNY9ZM,src_1MTrMhKPS7KEOFbqMdrdaBQm,2004,2023,3,American Express,72,1078,3/31/2015,mantonini3@comcast.net
+Primary,Mark Binda,Mark Binda,mark.binda@newschannel5.com,308 GLENRIDGE CT,,NASHVILLE,Tennessee,United States,37221,615-248-5242,615-812-5941,,"2157
+RRC-M3CMS",Active,3m,cus_NEK07UO83wT0vP,src_1MTrMnKPS7KEOFbqUNtuV4M8,3907,2028,5,MasterCard,72,1229,3/31/2015,mark.binda@newschannel5.com
+Primary,Mark Kremper - 9177,Mark Kremper,mark.kremper@gmail.com,123 East Harbor,,Hendersonville,Tennessee,United States,37075,6159244570,,,"9177
+RRC-Hville 1&3 WED",Active,3m,cus_NEK1UtEh7goyID,src_1MTrN1KPS7KEOFbqjruXPrQU,1465,2026,4,Visa,72,50384,10/31/2019,mark.kremper@gmail.com
+Primary,Mark Miller,Mark Miller,mjmiller76@gmail.com,180 Dayflower Drive,,Hendersonville,Tennessee,United States,37075,(734) 644-1201,,,did not pay,Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Marlena Wright - 8969,Marlena Wright,thewrights615@gmail.com,1020 Golf Club Lane East,,Hendersonville,Tennessee,United States,37075,615-419-4552,,,"8969
+RRC-Hville 2nd&4th Wed1",Active,3m,cus_NEK0mEoj3OKK21,src_1MTrMnKPS7KEOFbq9QYLf9D8,1013,2021,6,American Express,72,31787,10/31/2017,thewrights615@gmail.com
+Primary,Marsha Anderson - 4257,Marsha Anderson,mhavolfan@comcast.net,8077 POPLARWOOD RD,,NASHVILLE,Tennessee,United States,37221,615-662-5395,,,"4257
+RRC-M3CMS
+ACH-2",Active,3m,empty,empty,empty,empty,empty,empty,72,15586,3/2/2016,mhavolfan@comcast.net
+Primary,Marshall Ragan - 8829,Marshall Ragan,peteragan@comcast.net,1061 Sir Francis Ct,,Gallatin,Tennessee,United States,37066,6154305934,,,"8829
+RRC-Hville 2&4 WED
+ACH-3",Active,3m,empty,empty,empty,empty,empty,empty,72,21090,8/31/2021,peteragan@comcast.net
+Primary,MARTHA LAMPLEY,MARTHA LAMPLEY,martha.lampley@att.net,312 HOLLYBROOK CRES,,NASHVILLE,Tennessee,United States,37221,615-647-7413,615-509-3888,,"2481
+RRC-M1CMS 
+old: dalampley@comcast.net",Active,3m,cus_NEK1Q5CcZqbcb5,src_1MTrN2KPS7KEOFbqRCOhIpBm,8922,2025,10,MasterCard,72,14599,12/31/2015,martha.lampley@att.net
+Primary,Martha Shrubsole - 9309,Martha Shrubsole,forkid1kid2@bellsouth.net,836 Todd Preis Drive,,Nashville,Tennessee,United States,37221,6156737213,,,"9309
+RRC-M2CMS",Active,3m,cus_NEK0Wm4hJ8oFUs,src_1MTrMoKPS7KEOFbqG3D7O2zt,5992,2024,8,Visa,72,59687,1/31/2021,forkid1kid2@bellsouth.net
+Primary,Martha Smith - 9489,Martha Smith,mmroche@earthlink.net,708 Devon Way Court,,Nashville,Tennessee,United States,37221,(305) 799-1580,,,2MON,Active,3m,empty,empty,empty,empty,empty,empty,72,65219,7/1/2022,mmroche@earthlink.net
+Primary,Martin Lang - ABR-146,Martin Lang,mlang100@aol.com,100 N. Chestnut Drive,,Hendersonville,Tennessee,United States,37075,615-824-6621,,,"ABR-146
+RRC-Hville 1&3 Wed",Active,3m,cus_NEK047SvVE3Jh6,src_1MTrMcKPS7KEOFbqDIqWcvWb,2001,2019,12,American Express,132,14168,12/1/2015,mlang100@aol.com
+Primary,Mary Beth Kapp - 9501,Mary Beth Kapp,mbschulz@gmail.com,1512 Paris Avenue,,Nashville,Tennessee,United States,37212,(773) 633-7140,,,,Active,3m,cus_NEK1gyfF8HOrQw,src_1MTrN2KPS7KEOFbqls23v48Y,1092,2028,12,Visa,102,65708,12/1/2022,mbschulz@gmail.com
+Primary,Mary Charlotte Hall - ABR-564,Mary Charlotte Hall,marycharlottehall@gmail.com,113 Carriage Way,,Hendersonville,Tennessee,United States,37075,615-3645326,,,"resumed JUN22
+stopped SEP21
+ABR-564
+RRC-Hville 3 Fri
+ACH-2",Active,3m,cus_NEK0l2sbbYXIfH,src_1MTrMyKPS7KEOFbqUZLqtfUL,3542,2026,9,Visa,72,66378,empty,marycharlottehall@gmail.com
+Primary,Mary Forrester,Mary Forrester,katiemarshall425@yahoo.com,3522 RICHARDSON AVE,,NASHVILLE,Tennessee,United States,37205,615-504-9474,,,"2505
+RRC-F2CMS",Active,3m,cus_NEK0S0KVhHYjGF,src_1MTrMhKPS7KEOFbqXKjDUAO0,5294,2024,5,Visa,102,10731,7/31/2015,katiemarshall425@yahoo.com
+Primary,Mary Margaret Gass,Mary Margaret Gass,marymgass@gmail.com,1307 Shoreside Drive,,Hendersonville,Tennessee,United States,37075,,,,"ABR-403
+RRC-Hville 2&4 WED
+
+old address:200 Northview Ct",Active,y,cus_NEK1LGSxiCyv2P,src_1MTrN3KPS7KEOFbqRO3uzlPg,7068,2026,6,Visa,480,11160,5/1/2016,marymgass@gmail.com
+Primary,Mary Parks - 2167,Mary Parks,mwparks48@gmail.com,8076 POPLARWOOD RD,,Nashville,Tennessee,United States,37221,615-646-1965,615-604-3281,,"2167
+RRC-M3CMS",Active,3m,cus_NEK0IceI0H9fw2,src_1MTrMyKPS7KEOFbqIuBjQg45,3271,2027,3,Visa,72,6434,5/1/2015,mwparks48@gmail.com
+Primary,Mary Parsons,Mary Parsons,maryniles@me.com,1112A Biltmore Drive,,NASHVILLE,Tennessee,United States,37204,239-227-4680,,,"8575
+RRC-FH2 East",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Mary Scalf (Dodson‚ Carrie Lu) - 8501,Mary Scalf,marberry21@gmail.com,114 Manor Way,,Hendersonville,Tennessee,United States,37075,931-529-6279,,,"8501
+RRC-Hville 2&4 Wed
+ACH-2
+Previous Address:
+276 Old Shackle Island Road",Active,3m,empty,empty,empty,empty,empty,empty,120,12647,12/1/2015,marberry21@gmail.com
+Secondary,Mary Scalf (Dodson‚ Carrie Lu) - 8501,Dodson Carrie Lu,cldodson38501@yahoo.com,114 Manor Way,,Hendersonville,Tennessee,United States,37075,931-529-7124,,,"8501
+RRC-Hville 2&4 Wed
+ACH-2
+Previous Address:
+276 Old Shackle Island Road",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Mary Slawek - 8845,Gina Sylvester,Gsylvester@fona.com,1662 Jacobs Drive,,Gallatin,Tennessee,United States,37066,630-443-0072,630-927-2401,,"Gina Sylvester 
+8845
+RRC-Hville 2&4 WED",Active,y,cus_NEK0fOt2p8MkYh,src_1MTrMvKPS7KEOFbq4aFcegFH,1005,2026,1,American Express,528,21428,3/31/2022,JSlawek@fona.com‚ Gsylvester@fona.com
+Secondary,Mary Slawek - 8845,Joseph James Slawek,JSlawek@fona.com,1662 Jacobs Drive,,Gallatin,Tennessee,United States,37066,,,,"Gina Sylvester 
+8845
+RRC-Hville 2&4 WED",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Secondary,Mary Slawek - 8845,Mary Slawek,MSlawek@fona.com,1662 Jacobs Drive,,Gallatin,Tennessee,United States,37066,,,,"Gina Sylvester 
+8845
+RRC-Hville 2&4 WED",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,MARY TEAGUE - 2298,MARY TEAGUE,marypat.teague@vanderbilt.edu,808 ONSLOW WAY,,NASHVILLE,Tennessee,United States,37221,,,,"2298
+RRC-M3CMS
+ACH-2",Active,3m,empty,empty,empty,empty,empty,empty,72,15467,3/2/2016,marypat.teague@vanderbilt.edu
+Primary,MARY WESTER,MARY WESTER,marywester@comcast.net,1717 NOTTINGHAM PL,,NASHVILLE,Tennessee,United States,37221,,,,"2048
+RRC-F3CMS",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,MARY WHITFIELD,MARY WHITFIELD,gpacngo@gmail.com,1729 NOTTINGHAM PL,,NASHVILLE,Tennessee,United States,37221,,,,"2537
+RRC-F3CMS
+10/7/15: susspended service due to fire‚ could be a year before resumption",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,MaryJo Faust -ABR-346,MaryJo Faust,faustr@bellsouth.net,1025 Vista Ct,,Hendersonville,Tennessee,United States,37075,(615) 264-0046,,,"ABR-346
+RRC-Hville 1&3 Wed
+ACH-2",Active,3m,empty,empty,empty,empty,empty,empty,120,15846,3/2/2016,faustr@bellsouth.net
+Primary,Matt Dillman - 2087, ,matthew_63@hotmail.com,1338 OTTER CREEK RD,,Nashville,Tennessee,United States,37215,615-554-6288,,,"2087
+RRC-F2CMS
+RRC-F4CMS",Active,3m,cus_NEK0syORwsn3Nq,src_1MTrMkKPS7KEOFbqLMIPCGKL,7727,2026,4,MasterCard,174,11839,8/31/2015,matthew_63@hotmail.com
+Primary,Matt Eads-TWO - 9243,Matt Eads-TWO,meads@brooksideproperties.com,5920 Robert E Lee Drive,,Nashville,Tennessee,United States,37215,6155877330,,,"9243
+RRC-F2CMS
+RRC-F4CMS",Active,3m,cus_NEK0DuI8hF3MFz,src_1MTrMrKPS7KEOFbqWHdHtcJ1,8615,2024,6,Visa,174,54987,5/31/2020,meads@brooksideproperties.com
+Primary,Matt Fields,Matt Fields,mattcyn@gmail.com,103 Hearthside Ct N,,Hendersonville,Tennessee,United States,37075,615-836-9602,,,"ABR-400
+RRC-Hville 1st&3rd Wed
+was on ACH
+account closed for no payment",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Matthew Hansche - 8768,Matthew Hansche,ssrocketman@gmail.com,107 Cabin Branch Cir,,Hendersonville,Tennessee,United States,37075,815-218-7985,,,"8768
+RRC-Hville 4th Wed
+suspended
+removed cart 8-28-19",Active,empty,cus_NEK0MHGhAbjUrd,src_1MTrMjKPS7KEOFbqt2mirT2o,7102,2020,10,MasterCard,empty,empty,empty,empty
+Primary,Matthew Hendon - ABR-353,Matthew Hendon,homemc@bellsouth.net,113 Alderwood Lane,,Hendersonville,Tennessee,United States,37075,(615) 417-1742,,,"ABR-353
+RRC-Hville 2&4 Wed
+
+old address:1013 Raspberry Valley Ct",Active,y,cus_NEK0OJ7xItTdf6,src_1MTrMyKPS7KEOFbqq7gNzIis,5298,2023,12,Visa,528,11076,5/1/2016,homemc@bellsouth.net
+Primary,Max Morris - 9400,Max Morris,maxwell.joseph.morris@gmail.com,753 Woodland Way,,Nashville,Tennessee,United States,37209,(615) 573-1366,,,"refunded a qtr in 23 for error
+9400
+RRC-M4CMS",Active,3m,cus_NEK0jS7ISLZOwr,src_1MTrMtKPS7KEOFbq27dAKxKF,8083,2023,10,Visa,72,63573,10/31/2021,maxwell.joseph.morris@gmail.com
+Primary,McKenzie Portelance - 9097,McKenzie Portelance,mportelance33@gmail.com,108 Skyview Drive,,Hendersonville,Tennessee,United States,37075,6156519024,,,"9097
+RRC-Hville 2&4 WED",Active,3m,cus_NEK0HTcr1SoMDn,src_1MTrMhKPS7KEOFbqh1e3PixU,3787,2019,7,Visa,132,42093,1/31/2019,mportelance33@gmail.com
+Primary,Meg Taylor - 9538,Meg Taylor,margaret.gourd@gmail.com,7812 River Fork Drive,,Nashville,Tennessee,United States,37221,9146459851,,,,Active,3m,cus_NEK1UXO6ZsjJBm,src_1MTrN3KPS7KEOFbqrPXKe5wa,2583,2027,6,Visa,132,67044,empty,margaret.gourd@gmail.com
+Primary,Megan Brisbane,Megan Brisbane,brisbanes@comcast.net,7016 MEADOW RIDGE CIR,,NASHVILLE,Tennessee,United States,37221,615-646-0032,,,"2497
+RRC-F1CMS
+RRC-F3CMS
+account closed for no payment",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Megan Shiels - 9440,Megan Shiels,mshiels843@gmail.com,1405 Dallas Avenue,,Nashville,Tennessee,United States,37204,(843) 543-4595,,,"old: 929 Gilmore Avenue
+RRC-F2CMS
+RRC-F4CMS",Active,3m,cus_NEK0i7al7NzqZv,src_1MTrMtKPS7KEOFbqad8f3uwU,7944,2025,7,MasterCard,174,64135,1/31/2022,mshiels843@gmail.com
+Primary,Melissa Coomer - ABR-263,Melissa Coomer,jack@illinoisalumni.org,137 Fairways Dr,,Hendersonville,Tennessee,United States,37075,615-431-0147,,,"ABR-263
+RRC-Hville 2&4 Wed
+ACH-2",Active,3m,cus_NEK1H2bxrqOAla,src_1MTrNFKPS7KEOFbqCbxILdat,1415,2026,1,MasterCard,132,15836,3/2/2016,jack@illinoisalumni.org
+Primary,Melissa Fogaros - 9492,Melissa Fogaros,fogarosm@ensworth.com,350 Stephens Valley Blvd,,Nashville,Tennessee,United States,37221,(615) 268-2687,,,3rd MON,Active,3m,cus_NEK1nfygCPTbdJ,src_1MTrNFKPS7KEOFbqhwYCcXwj,7402,2026,5,Visa,72,65362,8/31/2022,fogarosm@ensworth.com
+Primary,Melissa Frist - 8953,Melissa Frist,melissa.frist@me.com,211 Craighead Ave.,,Nashville,Tennessee,United States,37205,615-496-3050,,,"8953
+RRC-F2CMS
+RRC-F4CMS",Active,3m,cus_NEK0odrqnYnVFC,src_1MTrMkKPS7KEOFbqQbWG64av,2017,2027,9,Visa,132,31342,12/31/2017,melissa.frist@me.com
+Primary,Melissa Hamilton - 9100,Melissa Hamilton,firewalkwithmelissa@gmail.com,411 Belle Pointe Dr.,,Nashville,Tennessee,United States,37221,6154785952,,,"9100
+RRC-M2CMS
+RRC-M4CMS",Active,3m,cus_NEK1IFpaAOukT0,src_1MTrN1KPS7KEOFbqCm6iwcq6,2621,2024,7,Visa,132,42273,1/31/2019,firewalkwithmelissa@gmail.com
+Primary,Melissa Husk - 9474,Melissa Husk,melissahusk@yahoo.com,7252 Highway 70 S APT 803,,Nashville,Tennessee,United States,37221,(615) 593-6929,,,old MAR23: 405 Sunvalley West,Active,3m,cus_NEK1ISGlo5qbFl,src_1MTrN7KPS7KEOFbq8AyNw91R,0002,2023,12,Visa,132,65832,8/15/2022,melissahusk@yahoo.com
+Primary,Melissa McCann - 9449,Melissa McCann,lissamccann@yahoo.com,134 Thornwood Place,,Hendersonville,Tennessee,United States,37075,(805) 338-7357,,,,Active,3m,empty,empty,empty,empty,empty,empty,132,64453,8/31/2022,lissamccann@yahoo.com
+Primary,Melody Ahearn - 9388,Melody Ahearn,melodya52@yahoo.com,1019 Fenner Lane,,Gallatin,Tennessee,United States,37066,(239) 405-5714,,,"9388
+RRC-Hville 2nd WED",Active,3m,cus_NEK05irsNWFyUF,src_1MTrMtKPS7KEOFbqXNSEod9g,8725,2026,1,Visa,72,63326,empty,melodya52@yahoo.com
+Primary,Meredith Melvin,Meredith Melvin,meredithjmelvin@yahoo.com,105 Southlawn Cir,,HENDERSONVILLE,Tennessee,United States,37075,(615) 477-9289,,,"ABR-161
+RRC-Hville 2nd&4th Wed1",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Merrilee Wineinger - ABR-341,Merrilee Wineinger,merrilee.wineinger@gmail.com,1381 Drakes Creek Rd,,Hendersonville,Tennessee,United States,37075,615-513-9170,,,"ABR-341
+RRC-Hville 1&3 Wed",Active,y,cus_NEK1zDkUIHiegG,src_1MTrN6KPS7KEOFbq021Kh2y7,9375,2025,5,Visa,480,8466,3/31/2016,merrilee.wineinger@gmail.com
+Primary,MICHAEL BERTRAND - 2822,MICHAEL & THERESA BERTRAND,tabertrand59@gmail.com,754 GOODPASTURE TER,,NASHVILLE,Tennessee,United States,37221,,,,"2822
+RRC-M1CMS
+RRC-M3CMS
+ACH-3",Active,3m,empty,empty,empty,empty,empty,empty,132,16072,8/31/2021,tabertrand59@gmail.com
+Secondary,MICHAEL BERTRAND - 2822,Michael Bertrand,mbertrand@Tnstate.edu,754 GOODPASTURE TER,,NASHVILLE,Tennessee,United States,37221,,,,"2822
+RRC-M1CMS
+RRC-M3CMS
+ACH-3",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Michael Cass - 2466,Michael Cass,michael_cass@hotmail.com,8465 INDIAN HILLS DR,,NASHVILLE,Tennessee,United States,37221,615-481-9186,,,"2466
+RRC-M1CMS
+RRC-M3CMS",Active,3m,cus_NEK0UR63wkpYhM,src_1MTrMuKPS7KEOFbqrMlwQcjr,7021,2028,6,Visa,132,10701,7/31/2015,michael_cass@hotmail.com
+Primary,MICHAEL HASTY - 8226,MICHAEL HASTY,michaelhasty@gmail.com,6104 Gardendale Drive,,NASHVILLE,Tennessee,United States,37215,,,,"8226
+RRC-F2CMS
+RRC-F4CMS",Active,3m,cus_NEK06dHNg9gbXI,src_1MTrMdKPS7KEOFbqLzXRxmKZ,2004,2020,9,American Express,246,9108,7/1/2015,michaelhasty@gmail.com
+Primary,Michael Herman - 8180,Michael Herman,michael@thehermans.org,142 North Berwick Lane,,Franklin,Tennessee,United States,37069,(615) 473-7793,,,"8180
+RRC-M1CMS
+RRC-M3CMS",Active,3m,cus_NEK0xNg3oWAtxa,src_1MTrMqKPS7KEOFbq9NjF3Iid,4432,2026,7,Visa,132,63951,12/1/2021,michael@thehermans.org
+Primary,Michael Law - ABR-582,Michael Law,docjml44@gmail.com,242 Hidden Lake Road,,Hendersonville,Tennessee,United States,37075,(615) 943-5041,,,"ABR-582
+RRC-Hville 1&3 Fri",Active,3m,empty,empty,empty,empty,empty,empty,72,11209,5/31/2025,docjml44@gmail.com
+Primary,MICHAEL TAYLOR - 3409,MICHAEL TAYLOR,mtaylor411@yahoo.com,1805 Otter Creek Rd,,NASHVILLE,Tennessee,United States,37215,,,,"3409
+RRC-F2CMS
+RRC-F4CMS",Active,3m,cus_NEK094kKHvuQ4t,src_1MTrMiKPS7KEOFbqBC1iFz21,6005,2023,5,American Express,174,9237,3/2/2016,mtaylor411@yahoo.com
+Primary,Michael Vollman - 2274,Michael Vollman,vollman2536@gmail.com,2536 DEVON VALLEY DR,,NASHVILLE,Tennessee,United States,37221,,,,"2274
+RRC-M2CMS
+RRC-M4CMS
+ACH-2",Active,3m,empty,empty,empty,empty,empty,empty,132,15457,3/2/2016,vollman2536@gmail.com
+Primary,Michelle Hamman - 8638,Michelle Hamman,michelle.d.hamman@gmail.com,5442 Granny White Pike,,BRENTWOOD,Tennessee,United States,37027,615-775-4888,6157754888,,"8638
+RRC-F2CMS
+RRC-F4CMS
+Gate Code #46664",Active,3m,empty,empty,empty,empty,empty,empty,174,11691,12/31/2022,michelle.d.hamman@gmail.com
+Primary,Mike Rector - ABR-591,Mike Rector,bertottb@aol.com,137 Allen Drive,,Hendersonville,Tennessee,United States,37075,,,,"ABR-591
+RRC-Hville 1&3 Fri",Active,3m,cus_NEK0cwBORsYNge,src_1MTrMiKPS7KEOFbqBSQdFBTl,0775,2027,7,MasterCard,132,9194,7/1/2015,bertottb@aol.com
+Primary,MILICENT PERKINS - 3404,MILICENT PERKINS,perkulate1@yahoo.com,1020 TODD PREIS DR,,NASHVILLE,Tennessee,United States,37221,,,,"3404
+RRC-M2CMS
+ACH-3",Active,3m,empty,empty,empty,empty,empty,empty,102,16082,8/31/2021,perkulate1@yahoo.com
+Primary,Mirabelle Stoedter - 9354,Mirabelle Stoedter,mir.sacks@gmail.com,980 Todd Preis Drive,,Nashville,Tennessee,United States,37221,(732) 804-4422,7328044422,,"9354
+RRC-M2CMS",Active,3m,empty,empty,empty,empty,empty,empty,102,62097,7/1/2021,mir.sacks@gmail.com
+Primary,Monica Charlton - ABR-427,Monica Charlton,monica.charlton@comcast.net,109 Breakwater North,,Hendersonville,Tennessee,United States,37075,615-590-7840,,,"ABR-427
+RRC-Hville 1&3 Fri",Active,3m,cus_NEK0bQOPzVqqNA,src_1MTrMuKPS7KEOFbqgtN1JLEC,1861,2026,4,Visa,132,10581,10/1/2015,monica.charlton@comcast.net
+Primary,Myra Cooper - ABR-148,Myra Cooper,myralene@comcast.net,120 Meadowvue Dr,,Hendersonville,Tennessee,United States,37075,(615) 824-1143,615-438-3452,,"cancelledMAY22
+stopped  NOV21
+ABR-148
+RRC-Hville 1&3 Wed
+ACH-2",Active,empty,cus_NEK0QbUPKdbf7o,src_1MTrMvKPS7KEOFbqXVFtYBWc,1994,2024,4,Visa,empty,empty,empty,empty
+Primary,NADA BULUS - 2139,NADA BULUS,nmbulus@icloud.com,2610 Belcourt Avenue,,NASHVILLE,Tennessee,United States,37212,6152685859,,,"2139
+RRC-F2CMS
+RRC-F4CMS
+ACH-2",Active,3m,empty,empty,empty,empty,empty,empty,216,15451,3/2/2020,nmbulus@icloud.com
+Primary,Nancy Brown - 8456,Nancy Brown,nwbrown115@comcast.net,115 Suffolk Crescent,,Brentwood,Tennessee,United States,37027,615-373-8652,615-294-5880,,"8456
+RRC-F2CMS
+RRC-F4CMS",Active,3m,cus_NEK053FqUgIvrd,src_1MTrMmKPS7KEOFbqk6KSHvik,1999,2023,4,Visa,132,1906,3/31/2015,nwbrown115@comcast.net
+Primary,NANCY EADE - 2826,NANCY EADE,rsenle@comcast.net,7201 GREEN MEADOWS LN,,NASHVILLE,Tennessee,United States,37221,,,,"2826
+RRC-M2CMS",Active,3m,cus_NEK1qmi6Mgxy0k,src_1MTrN3KPS7KEOFbqsTkS5Ahw,4102,2027,5,Visa,72,9072,7/1/2015,rsenle@comcast.net
+Primary,Nancy Holland - 2940,Nancy Holland,drnancyh.holland@gmail.com,987 BEECH BEND DR,,NASHVILLE,Tennessee,United States,37221,615-419-2837,,,"2940
+RRC-M1CMS
+RRC-M3CMS",Active,3m,cus_NEK00X0FVfAIqz,src_1MTrMlKPS7KEOFbqqlcR8Ib7,2524,2026,6,MasterCard,132,15490,3/2/2016,drnancyh.holland@gmail.com
+Primary,Nancy Jones - 2358,Nancy Jones,nancypj@bellsouth.net,130 Belle Glen Drive,,Nashville,Tennessee,United States,37221,6155840102,,,"2358
+RRC-M2CMS - added 2/1/17
+RRC-M4CMS",Active,3m,cus_NEK0vYBv3Clrcl,src_1MTrMsKPS7KEOFbqs1yJygdd,3958,2026,2,MasterCard,72,4643,10/1/2017,nancypj@bellsouth.net
+Primary,Nancy Moore - 2288,Nancy Moore,nancy@porchco.com,7844 Steeplechase Lane,,Nashville,Tennessee,United States,37221,6153940686,,,"2288
+RRC-F2CMS",Active,3m,cus_NEK0GmsnA028aC,src_1MTrMtKPS7KEOFbqtV8VYSzV,4727,2026,10,Visa,72,1024,3/3/2015,nancy@porchco.com
+Primary,Nancy Vasquez - 4234,Nancy Vasquez,nwv1@comcast.net,215 Derby Glen Ln,,Brentwood,Tennessee,United States,37027,615-504-6810,,,"4234
+RRC-F2CMS
+RRC-F4CMS",Active,3m,cus_NEK13MTnr8HsiR,src_1MTrN4KPS7KEOFbqiLazIg4Q,4537,2025,7,MasterCard,132,4922,5/1/2015,nwv1@comcast.net
+Primary,Nanette Hoover - 9326,Nanette Hoover,Nanette_Hoover@hotmail.com,108 Meadowlake Drive,,Gallatin,Tennessee,United States,37066,(615) 636-4629,,,"stopped SEP23; moved; resumed NOV23
+9326
+RRC-Hville 2&4 Wed",Active,3m,cus_NEK1LTQA5ThUqE,src_1MTrNAKPS7KEOFbqEsNcKTq3,7581,2027,1,MasterCard,72,60827,3/2/2024,empty
+Primary,Nicholas Kubik - 9349,Nicholas Kubik,nick@roastedpixel.com,8445 Indian Hills Drive,,Nashville,Tennessee,United States,37221,(615) 509-4917,,,"9349
+RRC-M1CMS
+RRC-M3CMS",Active,3m,cus_NEK0es2iQ12NGu,src_1MTrMsKPS7KEOFbqQ1rquiy6,9128,2025,8,Visa,132,61913,7/1/2021,nick@roastedpixel.com
+Primary,Nick & Sarah Bishop - 9220,Sarah Bishop,sarahkatebishop@gmail.com,1000 Foxwood Road,,Forest Hills,Tennessee,United States,37215,615-260-8558,,,"moved from 2133 Chickering Lane NOV2020;
+resumed AUG2021
+9220
+RRC-F2CMS
+RRC-F4CMS",Active,3m,cus_NEK17DCSkFuFOm,src_1MTrN0KPS7KEOFbqmCt9rAe1,9367,2026,5,Visa,174,64062,10/1/2023,sarahkatebishop@gmail.com
+Secondary,Nick & Sarah Bishop - 9220,Nick ,nickbishop82@gmail.com,1000 Foxwood Road,,Forest Hills,Tennessee,United States,37215,,,,"moved from 2133 Chickering Lane NOV2020;
+resumed AUG2021
+9220
+RRC-F2CMS
+RRC-F4CMS",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Nicole Bengtson - 9373,Nicole Bengtson,Dnbfamily2215@gmail.com,111 Alderwood Drive,,Hendersonville,Tennessee,United States,37075,(262) 349-3942,,,"9373
+RRC-Hville 2nd Wed
+RRC-Hville 4th Wed",Active,3m,cus_NEK14uT6jfhl58,src_1MTrN6KPS7KEOFbqHlCtyYbJ,0041,2028,11,Visa,132,63017,8/31/2021,Dnbfamily2215@gmail.com
+Primary,Nicole Klemmer - 8694,Nicole Klemmer,nklemmer@gmail.com,1017 Island Brook Drive,,Hendersonville,Tennessee,United States,37075,6153396689,,,"8694
+RRC-Hville 1&3 Wed
+ACH-3",Active,3m,empty,empty,empty,empty,empty,empty,72,16141,8/31/2021,nklemmer@gmail.com
+Primary,Noralynn Knight - 9338,Noralynn Knight,enknight@comcast.net,905 Willow Oak Court,,Nashville,Tennessee,United States,37221,(615) 944-2009,,,"9338
+RRC-M1CMS
+RRC-M3CMS",Active,3m,cus_NEK0ViaOH3nncw,src_1MTrMqKPS7KEOFbqCjhGONF0,3348,2024,1,Visa,132,61693,5/31/2021,enknight@comcast.net
+Primary,Norma Dam - ABR-014,Norma Dam,njeandam1957@gmail.com,204 Tyne Bay Dr,,HENDERSONVILLE,Tennessee,United States,37075,615-686-3149,,,"ABR-014
+RRC-Hville 2&4 Wed
+ACH-1",Active,3m,empty,empty,empty,empty,empty,empty,132,15352,8/31/2021,njeandam1957@gmail.com
+Primary,PAIGE MOORE - 2290,PAIGE MOORE,paigedmoore@gmail.com,508 TRACE CREEK DR,,NASHVILLE,Tennessee,United States,37221,615-948-6723,,,"2290
+RRC-M1CMS
+RRC-M3CMS
+ACH-1",Active,3m,empty,empty,empty,empty,empty,empty,132,10770,8/31/2021,paigedmoore@gmail.com
+Primary,PAMELA BRISENDINE,PAMELA BRISENDINE,pbrisendine@nespower.com,609 WATERWAY CT,,NASHVILLE,Tennessee,United States,37221,615-957-1606,,,"2942
+switched to 1x/mo FEB19
+
+RRC-M4CMS",Active,3m,cus_NEK0Xi6fBgt1bx,src_1MTrMlKPS7KEOFbqYOh5szbE,1975,2027,12,Visa,72,11921,8/31/2015,pbrisendine@nespower.com
+Primary,Pamela Cook - 2599,Pamela Cook,morecambe@comcast.net,8440 INDIAN HILLS DR,,NASHVILLE,Tennessee,United States,37221,615-243-8736,615-243-8736,,"2599
+RRC-M3CMS
+ACH-2
+switched to ACH 11/1/15",Active,3m,empty,empty,empty,empty,empty,empty,72,14049,12/1/2015,morecambe@comcast.net
+Primary,Pamela Larson - 8092,Pamela Larson,pamela.larson12@gmail.com,7240 Magnolia Hills Drive,,Nashville,Tennessee,United States,37221,(615) 734-9116,,,3MON,Active,3m,cus_NEK1YkUz2q9s2J,src_1MTrN8KPS7KEOFbqY8H9l4jY,9331,2027,4,MasterCard,72,65259,5/31/2022,pamela.larson12@gmail.com
+Primary,Patrice Sanders,Patrice Sanders,peatreece@yahoo.com,116 Ten Oaks Drive East,,Hendersonville,Tennessee,United States,37075,(615) 822-9411,,,"ABR-028
+RRC-Hville 2&4 WED",Active,3m,cus_NEK01BWYZ9qQ2k,src_1MTrMuKPS7KEOFbqfL4paVEQ,4528,2026,6,MasterCard,132,9215,7/1/2015,peatreece@yahoo.com
+Primary,Patricia Brown - 9207,Patricia Brown,patandjimbrown@yahoo.com,7200 Mark Drive,Suite 500,Nashville,Tennessee,United States,37221,6156463023,,,"9207
+RRC-M2CMS",Active,3m,cus_NEK0eMUvgMHMNq,src_1MTrMrKPS7KEOFbqM6Gb5t1N,1183,2027,11,Visa,72,53586,1/31/2020,patandjimbrown@yahoo.com
+Primary,Patrick Belton - 9436,Patrick Belton,patrickrbelton@gmail.com,7721 Daniel Trace,,Nashville,Tennessee,United States,37221,(615) 957-4889,,,"9436
+RRC-M2CMS
+RRC-M4CMS",Active,3m,cus_NEK0CeJG68K3Ti,src_1MTrMvKPS7KEOFbq37E61bil,1129,2028,9,Visa,132,64224,12/31/2021,patrickrbelton@gmail.com
+Primary,PATRICK CUMMINGS,PATRICK CUMMINGS,patlc@aol.com,797 HARPETH BEND DR,,NASHVILLE,Tennessee,United States,37221,615-260-2875,,,"3097
+RRC-M1CMS",Active,3m,cus_NEK0E76LQsqvTd,src_1MTrMsKPS7KEOFbqIR8skMGc,1587,2023,8,Visa,72,10710,7/31/2015,patlc@aol.com
+Primary,PATRICK DONALDSON,PATRICK DONALDSON,pdondojr@comcast.net,6944 HARPETH GLEN TRCE,,NASHVILLE,Tennessee,United States,37221,615-584-1631,,,"2872
+Single man that BB approved $180/yr 
+RRC-M1CMS",Active,6m,empty,empty,empty,empty,empty,empty,120,11142,7/1/2022,pdondojr@comcast.net
+Primary,PATRICK FROGGE - 2721,PATRICK FROGGE,amymfrogge@yahoo.com,7237 RIVERFRONT DR,,NASHVILLE,Tennessee,United States,37221,615-662-5718,,,"2721
+RRC-M2CMS
+RRC-M4CMS",Active,3m,cus_NEK0ZhwyHIwLKq,src_1MTrMvKPS7KEOFbqvsOzd93t,6955,2026,1,MasterCard,132,14151,12/1/2015,amymfrogge@yahoo.com
+Primary,Patrick Newport - 9129,Patrick Newport,patrick.alan.newport@gmail.com,2140 Gorden Crossing,,Gallatin,Tennessee,United States,37066,9016036029,,,"9129
+RRC-Hville 2&4 WED
+
+NOV19 moved from:  122 anchor drive",Active,3m,cus_NEK0YqJHEscmAm,src_1MTrMkKPS7KEOFbq8p3EfA4M,4355,2023,1,Visa,132,46442,5/1/2022,patrick.alan.newport@gmail.com
+Primary,Patrick Thomas,Patrick Thomas,patrickmthomas@gmail.com,128 MONTCASTLE CT,,Nashville,Tennessee,United States,37221,615-673-1332,,,"2610
+RRC-M3CMS",Active,3m,cus_NEK1cn8rieHCQL,src_1MTrNBKPS7KEOFbqQuZzsrIu,8013,2028,2,Visa,72,11908,8/31/2015,patrickmthomas@gmail.com
+Primary,Patsy Vaden,Patsy Vaden,patsyvaden@gmail.com,749 Goodpasture Terrace,,Nashville,Tennessee,United States,37221,615-662-0525,,,"2665
+RRC-M1CMS",Active,y,cus_NEK1hpVsLY6pZh,src_1MTrN0KPS7KEOFbqjG6Gh7Zd,3083,2025,5,Discover,408,1893,1/31/2016,patsyvaden@gmail.com
+Primary,Paul Anglin - ABR-599,Paul Anglin,paulanglin@yahoo.com,109 Sagamore Trc,,Hendersonville,Tennessee,United States,37075,(615) 822-5306,,,"ABR-599
+RRC-Hville 1&3 Fri",Active,y,empty,empty,empty,empty,empty,empty,480,11080,7/1/2016,paulanglin@yahoo.com
+Primary,Paul Fay - 2426,Paul Fay,paulandsondra@comcast.net,1013 TODD PREIS DR,,NASHVILLE,Tennessee,United States,37221,615-662-4124,615-293-2018,,"2426
+RRC-M2CMS
+ACH-3",Active,3m,empty,empty,empty,empty,empty,empty,72,16058,8/31/2021,paulandsondra@comcast.net
+Primary,Paula Bourget - ABR-194,Paula Bourget,pbourget@comcast.net,107 Knob Circle,,HENDERSONVILLE,Tennessee,United States,37075,(615) 826-9494,,,"ABR-194
+RRC-Hville 1&3 Wed",Active,y,cus_NEK0GN6G1DOJeF,src_1MTrMtKPS7KEOFbq6rY3vPMd,2484,2026,3,Discover,528,11095,1/31/2016,pbourget@comcast.net
+Primary,Paula Rossler - 8946,Paula Rossler,paula.j.rossler@gmail.com,124 Trail Ridge Way,,Hendersonville,Tennessee,United States,37075,615-826-9729,,,"8946
+RRC-Hville 2&4 Wed",Active,3m,cus_NEK1ROE13HJSzW,src_1MTrN2KPS7KEOFbq3eqKWBCW,7102,2024,10,MasterCard,72,30626,12/31/2017,paula.j.rossler@gmail.com
+Primary,Peggy Corvin,Todd Wittbrodt,toddscarteam@gmail.com,6433 Riverplace DR,,NASHVILLE,Tennessee,United States,37221,6152184101,,,"8207
+RRC-M2CMS
+RRC-M4CMS",Active,3m,empty,empty,empty,empty,empty,empty,132,10707,7/31/2015,toddscarteam@gmail.com
+Primary,Peggy Hanson - 8992,Peggy Hanson,peggy1joyce@aol.com,5095A Kittrell Rd,,Nashville,Tennessee,United States,37221,615-495-6445,,,"resumed FEB23
+stopped MAR21; COVID
+8992
+RRC-M1CMS",Active,3m,cus_NEK0utkIyNwR1u,src_1MTrMrKPS7KEOFbqkTGs4VOf,6550,2022,9,Visa,72,68185,empty,peggy1joyce@aol.com
+Primary,Penelope Osgood - 9472,Penelope Osgood,posgood47@gmail.com,113 Morton Mill Circle,,Nashville,Tennessee,United States,37221,(615) 476-9159,,,1MON,Active,3m,cus_NEK0RYT50dLXBw,src_1MTrMvKPS7KEOFbqyb1dYhA4,9501,2025,1,Visa,72,65018,5/31/2022,posgood47@gmail.com
+Primary,Perkins Residence - 9586,Dallas Phillips,Perkinsassist@perkinsla.com,1913 Cromwell Drive,,Nashville,Tennessee,United States,37215,(615) 636-4257,,,,Active,3m,empty,empty,empty,empty,empty,empty,174,68250,empty,Perkinsassist@perkinsla.com
+Secondary,Perkins Residence - 9586,Nichole Perkins,nwp@perkinsla.com,1913 Cromwell Drive,,Nashville,Tennessee,United States,37215,,,,,Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Phillip Stone - 9135,Phillip Stone,stoneleather82@gmail.com,505 Wa weka Circle,,NASHVILLE,Tennessee,United States,37221,6158389258,,,"9135
+RRC-M3CMS",Active,empty,cus_NEK1xz5AdkVLVt,src_1MTrNAKPS7KEOFbqzabkGuJX,7807,2026,9,Visa,empty,empty,empty,empty
+Secondary,Phillip Stone - 9135,empty,joannastone86@gmail.com,505 Wa weka Circle,,NASHVILLE,Tennessee,United States,37221,,,,"9135
+RRC-M3CMS",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Phyllis Spahn - 9573,Phyllis Spahn,phyllisrspahn@gmail.com,132 Glenrock Drive,,Nashville,Tennessee,United States,37221,706) 264-91137,,,,Active,3m,empty,empty,empty,empty,empty,empty,72,68029,empty,phyllisrspahn@gmail.com
+Primary,Preston Flowers - 9528,Preston Flowers,preston.flowers@gmail.com,104 Oglethorpe Avenue,,Gallatin,Tennessee,United States,37066,(804) 363-4627,,,,Active,3m,cus_NEK0SSIuoXShBH,src_1MTrMyKPS7KEOFbqc0kyd3gI,6036,2026,3,Visa,72,66941,12/31/2022,preston.flowers@gmail.com
+Primary,Priscilla Tatarsky - ABR-245,Priscilla Tatarsky,ptatarsky@gmail.com,153 Lakeside Park Dr,,Hendersonville,Tennessee,United States,37075,615-430-4579,,,"ABR-245
+RRC-Hville 1&3 Wed",Active,3m,cus_NEK0QjENJ08JUg,src_1MTrMyKPS7KEOFbqdEPayCmS,1009,2024,10,American Express,132,66337,empty,ptatarsky@gmail.com
+Primary,Quinn Cantwell - 9419,Quinn Cantwell,quinn.cagney@gmail.com,3819 Harding Place,,Nashville,Tennessee,United States,37215,561) 512-4873,,,"9419
+RRC-F2CMS
+RRC-F4CMS",Active,3m,cus_NEK1nD7DTAUfpz,src_1MTrN7KPS7KEOFbqA4ZA0SVC,1013,2025,7,American Express,132,64034,12/31/2021,quinn.cagney@gmail.com
+Secondary,Quinn Cantwell - 9419,Robert Cantwell,robert@upholdings.com,3819 Harding Place,,Nashville,Tennessee,United States,37215,650-669-9595,,,"9419
+RRC-F2CMS
+RRC-F4CMS",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Rachel Allensworth - 2948,Rachel Allensworth,thumperis@bellsouth.net,1604 Glenridge Drive,,NASHVILLE,Tennessee,United States,37221,615-210-3521,,,"2948
+RRC-M3CMS
+ACH-2",Active,3m,empty,empty,empty,empty,empty,empty,72,15491,3/2/2016,thumperis@bellsouth.net
+Primary,Rachel Higgs - ABR-516,Rachel Higgs,thehiggs@comcast.net,130 Island Drive,,HENDERSONVILLE,Tennessee,United States,37075,615-593-3431,,,"ABR-516
+RRC-Hville 1&3 Fri",Active,3m,cus_NEK1fe823kNzku,src_1MTrN1KPS7KEOFbqiDAJLipj,3706,2027,10,MasterCard,132,9117,7/1/2015,thehiggs@comcast.net
+Primary,Rachel Lucca,Rachel Lucca,rachelrlucca@gmail.com,605 IRON GATE COURT,,Nashville,Tennessee,United States,37221,323-633-8643,,,"8875
+RRC-M1CMS
+RRC-M3CMS",Active,3m,cus_NEK1h1kcZJaNiI,src_1MTrN9KPS7KEOFbqCCPfA0Ag,3876,2028,7,Visa,132,23782,empty,rachelrlucca@gmail.com
+Primary,Rachel Towns - ABR-588,Rachel Towns,rtowns86@yahoo.com,115 Beaumont Dr.,,Hendersonville,Tennessee,United States,37075,(615) 509-2422,6155092422,,"ABR-588
+RRC-Hville 1&3 Fri",Active,3m,cus_NEK1TbIjEvR10t,src_1MTrMzKPS7KEOFbqXqgBR3mn,7989,2027,8,Visa,204,14302,12/1/2015,rtowns86@yahoo.com
+Primary,Racy Peters - 2941,Racy Peters,orfeu1510@gmail.com,424 Belle Pointe Drive,,Nashville,Tennessee,United States,37221,615-476-9666,,,"2941
+RRC-M4CMS",Active,3m,cus_NEK09vypUmZJVY,src_1MTrMjKPS7KEOFbqi4FHNXIy,1647,2024,11,Visa,72,1228,3/3/2015,orfeu1510@gmail.com
+Primary,RAMACHANDER PAI,RAMACHANDER PAI,pkpai1993@gmail.com,7904 HAYDENBERRY CT,,NASHVILLE,Tennessee,United States,37221,no phone,,,"2733
+RRC-M1CMS",Active,3m,cus_NEK0ujc4dXaoym,src_1MTrMhKPS7KEOFbqpG2gV9Mo,6742,2021,8,Discover,72,10778,7/31/2015,pkpai1993@gmail.com
+Primary,Rebecca Denton - 9229,Rebecca Denton,rebeccadentonphotography@gmail.com,6241 Rivervalley Drive,,Nashville,Tennessee,United States,37221,615-400-8535,,,"9229
+RRC-M4CMS",Active,3m,cus_NEK1PA3kwj4bKu,src_1MTrNEKPS7KEOFbqvdj5S2WE,4954,2027,12,Visa,132,54570,10/31/2020,rebeccadentonphotography@gmail.com
+Primary,Rebecca Ihrie - 8614,Rebecca Ihrie,rebeaker@gmail.com,2000 Otter Creek Rd,,NASHVILLE,Tennessee,United States,37215,6508615261,,,"8614
+RRC-F2CMS
+RRC-F4CMS",Active,3m,cus_NEK0O4vZ41wA0M,src_1MTrMwKPS7KEOFbqhgrYo2yL,9373,2027,3,Visa,174,9129,7/1/2015,rebeaker@gmail.com
+Primary,Rebecca Marshall - 8665,Rebecca Marshall,beccagirl126@gmail.com,2076 Traemoor Village Dr,,NASHVILLE,Tennessee,United States,37209,615-218-9473,,,"8665
+RRC-M2CMS
+ACH-3",Active,3m,empty,empty,empty,empty,empty,empty,72,16136,8/31/2021,beccagirl126@gmail.com
+Primary,Rebecca Mills,Rebecca Mills,ramills1308@gmail.com,1553 Hunt Club Blvd,,Hendersonville,Tennessee,United States,37066,,,,"ABR-030
+RRC-Hville 2nd&4th Wed2",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Rebecca Sayre - 9564,Rebecca Sayre,rebecca.eleven11@gmail.com,607 River Ridge Court,,Nashville,Tennessee,United States,37221,(615) 574-0679,,,,Active,3m,cus_NEK1XtkE0CUVop,src_1MTrMzKPS7KEOFbqcTzyx0Ip,3087,2027,8,Visa,72,67915,empty,rebecca.eleven11@gmail.com
+Primary,Rebecca Stone - 9185,Rebecca Stone,rebeccastonereed@gmail.com,1109 Lochland Dr.,,Gallatin,Tennessee,United States,37066,931-436-3187,,,"9185
+RRC-Hville 2&4 Wed",Active,3m,cus_NEK0RxAMM1yJVM,src_1MTrMjKPS7KEOFbqRD9EHQnW,4715,2027,9,Visa,72,52242,12/1/2019,rebeccastonereed@gmail.com
+Primary,Regan Cothron - ABR-165,Regan Cothron,rcothron@gmail.com,130 Walton Trace S,,Hendersonville,Tennessee,United States,37075,615-264-8906,,,"ABR-165
+RRC-Hville 1&3 Wed",Active,3m,cus_NEK1U0JVmVndW2,src_1MTrMzKPS7KEOFbqvHHsOdzn,4713,2027,9,MasterCard,132,14053,12/1/2015,rcothron@gmail.com
+Primary,Renee Wisby - 3123,Renee Wisby,wisby3@hotmail.com,808 FOOTPATH TERR,,NASHVILLE,Tennessee,United States,37221,,,,"3123
+RRC-M1CMS
+RRC-M3CMS
+ACH-3",Active,3m,empty,empty,empty,empty,empty,empty,72,16078,8/31/2021,wisby3@hotmail.com
+Primary,richard crawford,richard crawford,hawkcrawford57@gmail.com,,,,,United States,,8083529732,6159891407,,"9303
+RRC-Hville 2&4 Wed",Active,3m,cus_NEK0vtY3y7kXYG,src_1MTrMvKPS7KEOFbq4tlbg2ON,3024,2026,1,Visa,132,59417,3/31/2021,hawkcrawford57@gmail.com
+Primary,Richard Mercer - ABR-144,Richard Mercer,rtmercer@comcast.net,210 Connie Drive,,HENDERSONVILLE,Tennessee,United States,37075,615-264-1924,615-618-3419,,"ABR-144
+RRC-Hville 1&3 Wed",Active,3m,cus_NEK0WJbcHS1Vth,src_1MTrMvKPS7KEOFbqBI49qkHk,7994,2024,12,Visa,132,10764,7/31/2015,rtmercer@comcast.net
+Primary,RICHARD ROUQUIE,RICHARD ROUQUIE,rikrouquie@comcast.net,433 SUMMIT OAKS DR,,NASHVILLE,Tennessee,United States,37221,6152109577,,,"2626
+RRC-M2CMS",Active,3m,cus_NEK1MsngLYlb9C,src_1MTrNEKPS7KEOFbqAWkCMMuv,7522,2027,2,Discover,72,9209,7/1/2015,rikrouquie@comcast.net
+Primary,Richard Weachter - ABR-558,Richard Weachter,rww726@comcast.net,71 Valley Brook Drive,,HENDERSONVILLE,Tennessee,United States,37075,(615) 824-5958,,,"switched to monthly MAR19
+ABR-558
+RRC-Hville 1&3 Fri",Active,3m,cus_NEK1tAguWeI0cX,src_1MTrNGKPS7KEOFbqXvcPlPXg,7118,2025,6,MasterCard,72,12017,8/31/2020,rww726@comcast.net
+Primary,Ridley Wills - 3339,Ridley Wills,ridley@willscompany.com,10 MIDDLETON PARK LN,,NASHVILLE,Tennessee,United States,37215,615-297-9449,615-496-1238,,"3339
+RRC-F2CMS
+RRC-F4CMS
+ACH-2",Active,3m,empty,empty,empty,empty,empty,empty,132,15863,3/2/2016,ridley@willscompany.com
+Primary,Ridley Wills II - 8773,Ridley Wills II,ridleywills@comcast.net,2156 Golf Club Lane,,Nashville,Tennessee,United States,37215,615-269-5429,615-480-4955,,"8773
+RRC-F2CMS
+RRC-F4CMS",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Secondary,Ridley Wills II - 8773,Irene Wills,irenejwills@gmail.com,2156 Golf Club Lane,,Nashville,Tennessee,United States,37215,,,,"8773
+RRC-F2CMS
+RRC-F4CMS",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Rita Krupp - 8949,Rita Krupp,r.krupp.2112@gmail.com,311 Raintree Drive,,Hendersonville,Tennessee,United States,37075,760-518-5329,,,"8949
+RRC-Hville 1&3 Fri",Active,3m,cus_NEK1CLh4vGdxg5,src_1MTrN5KPS7KEOFbqPtagc0Nk,5399,2027,8,Visa,72,30821,10/1/2017,r.krupp.2112@gmail.com
+Primary,Robert Bodenheimer - 3829,Robert Bodenheimer,bobby.bodenheimer@vanderbilt.edu,1210 JEFFERSON DAVIS DR,,Brentwood,Tennessee,United States,37027,615-661-4476,,,"3829
+RRC-F2CMS
+RRC-F4CMS",Active,3m,cus_NEK0KCAO1GuQzD,src_1MTrMcKPS7KEOFbq4Q1vAynU,3004,2020,4,American Express,132,1077,3/3/2015,bobby.bodenheimer@vanderbilt.edu
+Primary,ROBERT GREEVY,ROBERT GREEVY,mr.spamaway@gmail.com,8013 BOONE TRACE,,NASHVILLE,Tennessee,United States,37221,615-662-5644,,,"3135
+RRC-M2CMS
+RRC-M4CMS",Active,3m,cus_NEK1VNFBn4xF5o,src_1MTrNEKPS7KEOFbqbv9Utsx1,2947,2027,11,Visa,132,10738,7/31/2015,mr.spamaway@gmail.com
+Primary,ROBERT RHODES - 2420,ROBERT RHODES,rockntrish@comcast.net,5027 CHAFFIN DR,,NASHVILLE,Tennessee,United States,37221,,,,"2420
+RRC-M1CMS
+RRC-M3CMS",Active,3m,cus_NEK02mixi4UbHR,src_1MTrMbKPS7KEOFbqcVGtON15,7121,2017,11,Visa,132,9198,7/1/2015,rockntrish@comcast.net
+Primary,Robin Creager - 9232,Robin Creager,RobinCreagerCPA@yahoo.com,717 Fern Hollow Road,,Hendersonville,Tennessee,United States,37075,6154475155,,,"9232
+RRC-Hville 2&4 Wed",Active,3m,cus_NEK0x6E8ftGeOJ,src_1MTrMoKPS7KEOFbq06HAwa29,1375,2025,9,Visa,102,54542,3/31/2020,RobinCreagerCPA@yahoo.com
+Primary,Ron Pruitt - ABR-286,Ron Pruitt,ron.pruitt@comcast.net,111 Stillhouse Rd,,Hendersonville,Tennessee,United States,37075,(615) 681-6929,,,"ABR-286
+RRC-Hville 1&3 Wed",Active,y,cus_NEK1UQcKw01hnP,src_1MTrN2KPS7KEOFbqknQeZJe1,6645,2028,2,MasterCard,480,11305,7/1/2016,ron.pruitt@comcast.net
+Primary,Rosana Eisenberg - 3096,Rosana Eisenberg,rosanae@gmail.com,472 SUMMIT OAKS DR,,NASHVILLE,Tennessee,United States,37221,615-891-7629,,,"3096
+RRC-M2CMS
+ACH-1",Active,3m,empty,empty,empty,empty,empty,empty,72,15355,8/31/2021,rosanae@gmail.com
+Primary,Rosemary Fritz,Rosemary Fritz,liz.tiger@gmail.com,1093 Tarpan Drive,,GALLATIN,Tennessee,United States,37066,615-527-7936,571-451-9000,,"8620
+RRC-Hville 2nd&4th Wed2
+account closed deceased",Active,3m,cus_NEK0g4vMBKmfon,src_1MTrMjKPS7KEOFbqyMCdhlNS,3825,2026,2,Visa,72,40509,12/1/2023,liz.tiger@gmail.com
+Primary,ROSIE ZERBST - 2521,ROSIE ZERBST,rosiezerbst@gmail.com,208 BELLE CHASSE CT,,NASHVILLE,Tennessee,United States,37221,615-646-0699,,,"2521
+RRC-M1CMS",Active,3m,cus_NEK0g17fHJF3pN,src_1MTrMdKPS7KEOFbqdnob6IEm,1018,2020,2,American Express,72,11720,8/31/2015,rosiezerbst@gmail.com
+Primary,RUSSELL JONES - 2164,RUSSELL JONES,rjones@jonesshowlaw.com,1005 WILLOUGHBY WAY,,NASHVILLE,Tennessee,United States,37221,615-662-1091,,,"2164
+RRC-M1CMS
+RRC-M3CMS",Active,3m,cus_NEK0udyuteNR8H,src_1MTrMnKPS7KEOFbqeJMuhVob,1947,2026,8,MasterCard,132,10750,7/31/2015,rjones@jonesshowlaw.com
+Secondary,RUSSELL JONES - 2164,Nona Jones,nonajones.nj@gmail.com,1005 WILLOUGHBY WAY,,NASHVILLE,Tennessee,United States,37221,615-969-5625,,,"2164
+RRC-M1CMS
+RRC-M3CMS",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,RUTH HEMPHILL,RUTH HEMPHILL,ruth.hemphill@comcast.net,320 OLD HICKORY BLVD,,NASHVILLE,Tennessee,United States,37221,,,,"2850
+RRC-M2CMS
+RRC-M4CMS",Active,3m,cus_NEK0HJRY5gZ6fq,src_1MTrMyKPS7KEOFbqGNF3zA13,2461,2027,2,Visa,132,9113,7/1/2015,ruth.hemphill@comcast.net
+Secondary,RUTH HEMPHILL, ,outlook_80B03F803D303016@outlook.com,320 OLD HICKORY BLVD,,NASHVILLE,Tennessee,United States,37221,,,,"2850
+RRC-M2CMS
+RRC-M4CMS",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Ryan Pack - 9376,Ryan Pack,ryan.r.pack@gmail.com,1700 Nottingham Place,,NASHVILLE,Tennessee,United States,37221,(865) 719-6669,,,"9376
+RRC-M1CMS
+RRC-M3CMS",Active,3m,cus_NEK0oSv5MW8nrp,src_1MTrMqKPS7KEOFbqQIIqQPk1,3731,2025,6,Visa,132,63097,8/31/2021,ryan.r.pack@gmail.com
+Primary,Sabra Love,Sabra Love,eppagee@gmail.com,7712 RIVER BEND WAY,,NASHVILLE,Tennessee,United States,37221,615-336-0206,,,"8193
+RRC-M1CMS",Active,3m,cus_NEK0ruvPoOEEFY,src_1MTrMoKPS7KEOFbqgRGtajhF,5269,2023,7,Visa,72,10758,7/31/2015,eppagee@gmail.com
+Primary,Samuel Kalchuk - 9007,Samuel Kalchuk,maverickZ24@yahoo.com,1012 Fenner Lane,,Gallatin,Tennessee,United States,37066,615-480-8166,,,"9007
+RRC-Hville 2&4 WED",Active,3m,cus_NEK0UnXtkHFNcP,src_1MTrMnKPS7KEOFbqzBZccbiO,5823,2023,9,Visa,132,35111,7/1/2018,maverickZ24@yahoo.com
+Primary,Sandra H Smith - 9293,Sandra Smith,sandrahsmith0602@gmail.com,922 Todd Preis Drive,,Nashville,Tennessee,United States,37221,14236204509,,,"9293
+RRC-M2CMS",Active,3m,cus_NEK0TjXQIBqKIL,src_1MTrMsKPS7KEOFbqIvIB34Vu,1460,2025,1,Visa,72,58831,12/1/2020,sandrahsmith0602@gmail.com
+Primary,Sandra Heinz - ABR-440,Sandra Heinz,kristen.heinz09@comcast.net,105 Keene Valley S.,,Hendersonville,Tennessee,United States,37075,(615) 265-8099,,,"ABR-440
+RRC-Hville 1&3 Fri
+ACH-2",Active,3m,empty,empty,empty,empty,empty,empty,120,15850,3/2/2016,kristen.heinz09@comcast.net
+Primary,Sandra Parnell - 2429,Sandra Parnell,lesandsandy@comcast.net,242 Myhr Green,,Nashville,Tennessee,United States,37221,615-972-4330,,,"2429
+RRC-F2CMS",Active,3m,cus_NEK1WtvtU9nvWp,src_1MTrN9KPS7KEOFbqa0SNdeC6,5515,2024,1,MasterCard,72,12627,10/31/2015,lesandsandy@comcast.net
+Primary,Sandy Hodgson - 8661,Sandy Hodgson,sghodgson824@gmail.com,115 Cobbler Circle,,HENDERSONVILLE,Tennessee,United States,37075,615-969-4851,,,"8661
+RRC-Hville 1&3 Fri
+ACH-2",Active,3m,empty,empty,empty,empty,empty,empty,120,15746,3/2/2016,sghodgson824@gmail.com
+Primary,Sara Blodgett - 9486,Sara Blodgett,sgbfish@comcast.net,108 Oak Place,,Hendersonville,Tennessee,United States,37075,(503) 803-0508,,,1FRI,Active,3m,empty,empty,empty,empty,empty,empty,72,65112,5/31/2022,sgbfish@comcast.net
+Primary,SARA HANAI - 2719,SARA HANAI,hanai@comcast.net,509 HARPETH OAKS CT,,NASHVILLE,Tennessee,United States,37221,615 473-1011,,,"2719
+RRC-FHills & Bell",Active,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Sara Magee - 9523,Sara Magee,sarasmagee@gmail.com,809 Bircham Court,,Nashville,Tennessee,United States,37221,(610) 715-0477,,,,Active,3m,empty,empty,empty,empty,empty,empty,72,66826,12/31/2022,sarasmagee@gmail.com
+Primary,Sara Putnam - 9411,Sara Putnam,putnam.sara@gmail.com,1017 Blythe Court West,,Nashville,Tennessee,United States,37221,(615) 390-9182,,,"9411
+RRC-M3CMS",Active,3m,cus_NEK0UanbzRkJwG,src_1MTrMtKPS7KEOFbqAKumg4da,2162,2026,1,Visa,72,63803,12/1/2021,putnam.sara@gmail.com
+Primary,Sarah Gariety - 8961,Bernard Gariety,b_gariety2@hotmail.com,137 Lake Terrace Dr,,Hendersonville,Tennessee,United States,37075,6198048342,,,"8961
+RRC-Hville 1&3 Fri",Active,empty,cus_NEK0QpkXE7zVQW,src_1MTrMsKPS7KEOFbqTmxJ3dSg,8056,2027,4,Visa,empty,empty,empty,empty
+Primary,Sarah Gentry - 9446,Sarah Gentry,teamgentry2017@gmail.com,100 East Ridgeview Trace,,Hendersonville,Tennessee,United States,37075,(918) 857-5099,,,,Active,3m,cus_NEK0g0ehS7isUK,src_1MTrMwKPS7KEOFbq3tONpIdy,5514,2024,6,MasterCard,72,64452,3/3/2022,teamgentry2017@gmail.com
+Primary,Sarah Neumann - 9530,Sarah Neumann,sarahshoop85@gmail.com,905 Batey Court,,Nashville,Tennessee,United States,37221,(330) 277-6721,,,,Active,3m,cus_NEK1hntfqPrKH1,src_1MTrN1KPS7KEOFbqSeK7tw5A,6523,2026,1,MasterCard,72,66906,empty,sarahshoop85@gmail.com
+Primary,Sarah Quinn - 9335,Sarah Quinn,Sarah.j.quinn01@gmail.com,121 Maple Way North,,Hendersonville,Tennessee,United States,37075,(615) 473-2981,,,"9335
+RRC-Hville 1&3 Fri",Active,3m,cus_NEK0mRK9Ajil8d,src_1MTrMqKPS7KEOFbqGfmJ66SL,1000,2023,7,American Express,72,61463,5/31/2021,Sarah.j.quinn01@gmail.com
+Primary,Sarah Rogers - 9587,Sarah Rogers,sjrogers23@gmail.com,1335 Otter Creek Road,,Nashville,Tennessee,United States,37215,(615) 310-8204,,,,Active,3m,empty,empty,empty,empty,empty,empty,174,68342,empty,sjrogers23@gmail.com
+Primary,Sarah Vessels - 9152,Sarah Vessels,cheshire137@gmail.com,8367 Greenvale Drive,,Nashville,Tennessee,United States,37221,8597979910,,,"9152
+RRC-M1CMS
+RRC-M3CMS",Active,3m,cus_NEK173Hwd0p01J,src_1MTrN4KPS7KEOFbq6V6Y9OhR,8237,2026,11,Visa,132,50078,10/1/2019,cheshire137@gmail.com
+Primary,SASKIA LEWIS - 9213,SASKIA LEWIS,dsjlewis@yahoo.com,2006 Linden Avenue,,Nashville,Tennessee,United States,37212,615-712-9087,,,"9213
+RRC-F4CMS",Active,,cus_NEK0dEkjmaiCNz,src_1MTrMqKPS7KEOFbqUrDhNXqW,7826,2027,6,Visa,72,54000,1/31/2023,dsjlewis@yahoo.com
+Primary,Scott Abbott - 8919,Scott Abbott,joriabbott@bellsouth.net,500 Bay Point Drive,,Gallatin,Tennessee,United States,37066,615-681-4564,,,"8919
+RRC-Hville 2&4 Wed",Active,,cus_NEK0nH75Enh0pV,src_1MTrMlKPS7KEOFbqCfK1EgoY,5478,2025,2,Visa,132,27072,5/1/2017,joriabbott@bellsouth.net
+Primary,Scott Cheuvront - 8826,Scott Cheuvront,scott.cheuvront@comcast.net,125 Deer Ridge Ln,,Hendersonville,Tennessee,United States,37075,6159721719,,,"8826
+RRC-Hville 2nd&4th Wed1",Active,,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Scott Schleiff - 8853,Scott Schleiff,scott.schleiff@gmail.com,617 Meadow Lane Dr,,Nashville,Tennessee,United States,37221,8459886740,,,"8853
+RRC-M2CMS
+RRC-M4CMS",Active,,cus_NEK1ngwMSAdxzb,src_1MTrNCKPS7KEOFbqBZ4yG75j,2051,2025,1,MasterCard,132,22024,10/31/2016,scott.schleiff@gmail.com
+Primary,Sean Murphy - 9245,Sean Murphy,murphy.seanf@gmail.com,104 Glance Court,,Hendersonville,Tennessee,United States,37075,404-988-2520,,,"9245
+RRC-Hville 2&4 WED",Active,,cus_NEK1iTZ6Jka6ur,src_1MTrN8KPS7KEOFbqx9DWLdPB,2632,2027,4,Visa,72,55551,5/31/2020,murphy.seanf@gmail.com
+Primary,Shannon LeMaster - 9457,Shannon LeMaster,shannonhlemaster@gmail.com,5201 Shenandoah Court,,Nashville,Tennessee,United States,37220,(323) 595-6801,,,,Active,,cus_NEK0AKI0rR0iZC,src_1MTrMvKPS7KEOFbqWH6Ev9lE,2002,2022,4,American Express,132,64811,3/31/2022,shannonhlemaster@gmail.com
+Primary,Shannon Pestka - 9423,Shannon Pestka,shannon.pestka@gmail.com,,,,,United States,,(847) 989-1700,,,"9423
+RRC-HVILLE 1ST WED",Active,,cus_NEK0nyi6eF0oDg,src_1MTrMvKPS7KEOFbqpQkPpinO,2692,2025,11,Visa,72,64012,12/31/2021,shannon.pestka@gmail.com
+Primary,SHEILA WARF - 2617,SHEILA WARF,sheilawarf@comcast.net,5024 CAMBRON DR,,NASHVILLE,Tennessee,United States,37221,615-646-2504,,,"2617
+RRC-M1CMS",Active,,cus_NEK13Gd8xHjwIt,src_1MTrN9KPS7KEOFbqQGZnphS3,7089,2026,5,Visa,72,9256,7/1/2015,sheilawarf@comcast.net
+Primary,SHELLEY WALKER,SHELLEY WALKER,ladd_sd@hotmail.com,601 DANIEL CT,,NASHVILLE,Tennessee,United States,37221,,,,"2669
+RRC-M2CMS",Active,,cus_NEK0i6TvQUpyZK,src_1MTrMcKPS7KEOFbqqIfxSji6,2004,2019,6,American Express,72,9253,7/1/2015,ladd_sd@hotmail.com
+Primary,Shelly Reeves - 8935,Shelly Reeves,shelbel213@gmail.com,412 Indian Lake Road,,Hendersonville,Tennessee,United States,37075,6154195464,,,"8935
+RRC-Hville 1&3 Fri",Active,,cus_NEK1vVYuQqQULm,src_1MTrN4KPS7KEOFbqOsRLqTE0,4433,2026,4,Visa,132,29160,10/1/2017,shelbel213@gmail.com
+Primary,Sherry Holman - ABR-330,Sherry Holman,sholman2226@bellsouth.net,1041 Whitley Place,,Hendersonville,Tennessee,United States,37075,615-390-2917,,,"reactivated NOV19
+ABR-330
+RRC-Hville 1&3 Wed
+suspended 10-5-17
+reactivated 10-25-17
+stopped due to hville pilot recycling",Active,,cus_NEK0QrIvlyoci6,src_1MTrMmKPS7KEOFbqfnPl2EUS,5032,2028,3,MasterCard,132,54564,3/31/2020,sholman2226@bellsouth.net
+Secondary,Sherry Holman - ABR-330,Sherry Holman,sholman@hvilletn.org,1041 Whitley Place,,Hendersonville,Tennessee,United States,37075,,,,"reactivated NOV19
+ABR-330
+RRC-Hville 1&3 Wed
+suspended 10-5-17
+reactivated 10-25-17
+stopped due to hville pilot recycling",Active,,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Sherry Petrie - ABR-142,Sherry Petrie,sherrypetrie@att.net,203 Promontory Way,,Hendersonville,Tennessee,United States,37075,,,,"ABR-142
+RRC-Hville 1&3 Wed
+switched to 1x/mo 12/1/15",Active,,empty,empty,empty,empty,empty,empty,288,11300,7/1/2016,sherrypetrie@att.net
+Primary,Shirley Smith - ABR-064,Shirley Smith,sabin6@bellsouth.net,112 Strathmore Way,,Hendersonville,Tennessee,United States,37075,(615) 945-2121,,,"ABR-064
+RRC-Hville 2&4 WED",Active,,cus_NEK04TRC4rgVVE,src_1MTrMrKPS7KEOFbqst9y4whg,6926,2025,1,Visa,480,11324,7/1/2016,sabin6@bellsouth.net
+Primary,Sid Levy,Sid Levy,sidneymlevy@msn.com,7716 Dan Kestner Dr.,,Nashville,Tennessee,United States,37221,615-646-8973,,,"2717
+RRC-M4CMS",Active,,cus_NEK15ldhO7w3tB,src_1MTrN8KPS7KEOFbqytDdBqAa,3993,2025,1,MasterCard,72,6987,5/31/2015,sidneymlevy@msn.com
+Primary,Sim Dinh - 9565,Sim Dinh,simdinh@gmail.com,7028 Bridgeport Drive,,Nashville,Tennessee,United States,37221,(615) 496-3468,,,,Active,,cus_NEK03R3W5nTCCr,src_1MTrMxKPS7KEOFbqNKEsMkUE,1981,2027,10,Visa,72,67813,empty,simdinh@gmail.com
+Primary,Skylar DeVos - 8907,Skylar DeVos,skylar.devos@gmail.com,120 Donmond Dr,,Hendersonville,Tennessee,United States,37075,615-772-4899,,,"8907
+RRC-Hville 1&3 Wed",Active,,cus_NEK1z2XyW9OIxT,src_1MTrN0KPS7KEOFbqbdGMxj8r,0838,2025,12,Visa,72,26588,5/1/2017,skylar.devos@gmail.com
+Primary,SONDRA BLOUNT - 2841,SONDRA BLOUNT,sondra.blount@comcast.net,7212 EXPLORER TRL,,NASHVILLE,Tennessee,United States,37221,,,,"2841
+RRC-M2CMS
+ACH-1",Active,,empty,empty,empty,empty,empty,empty,72,15255,8/31/2021,sondra.blount@comcast.net
+Primary,Sonya Sampson - ABR-321,Sonya Sampson,sonyajo05@netscape.net,104 Crosspointe Dr,,Hendersonville,Tennessee,United States,37075,,,,"ABR-321
+RRC-Hville 1&3 Wed",Active,,cus_NEK1v30ePPSfYc,src_1MTrMzKPS7KEOFbqIfVPBUHq,5009,2027,8,Visa,528,2744,1/31/2016,sonyajo05@netscape.net
+Primary,Sophia Absar - 9221,Sophia Absar,tessarat@comcast.net,401 Chesterfield Ave,,Nashville,Tennessee,United States,37212,615-292-7679,,,"9221
+RRC-F4CMS",Active,,cus_NEK1dHP7bjRqLA,src_1MTrN6KPS7KEOFbqoBGwHTW5,5803,2025,8,Visa,72,54080,3/2/2020,tessarat@comcast.net
+Primary,Sophia Brand - 9522,Sophia Brand,sophbrand405@gmail.com,7809 Trace Creek Court,,Nashville,Tennessee,United States,37221,(630) 247-3526,,,,Active,,cus_NEK10Rkr60woat,src_1MTrN0KPS7KEOFbq77FoHiyP,4772,2026,12,Visa,72,66721,empty,sophbrand405@gmail.com
+Primary,St. Joseph of Arimathea,Carl Berg,office@mysja.org,103 Country Club Drive,,Hendersonville,Tennessee,,37075,615-824-2910,615-293-5025,,"stopped APR23; resumed AUG 23
+ABR-260",Active,,empty,empty,empty,empty,empty,empty,528,15558,empty,bills@mysja.org
+Secondary,St. Joseph of Arimathea,Accounts Payable - Shari Caloz,bills@mysja.org,103 Country Club Drive,,Hendersonville,Tennessee,,37075,,,,"stopped APR23; resumed AUG 23
+ABR-260",Active,,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Stacey McGhan - 8802,Stacey McGhan,sholancin21@gmail.com,535 Shute Lane,,Hendersonville,Tennessee,United States,37075,615-200-6508,,,"8802
+RRC-Hville 2&4 WED
+ACH-3",Active,,cus_NEK0g8JJJzAeCM,src_1MTrMiKPS7KEOFbqRKxTyRbR,9767,2023,10,Visa,72,19358,7/1/2019,sholancin21@gmail.com
+Primary,Stacy Perrine,Stacy Perrine (Kabello),sperrinetx@gmail.com,280 Bluegrass Dr,,Hendersonville,Tennessee,United States,37075,214-636-2408,,,"cancelled OCT23
+8692
+RRC-Hville 2&4 WED",Active,,cus_NEK0tdu3wTakUH,src_1MTrMgKPS7KEOFbq2Atst4Xn,9450,2023,10,Discover,empty,empty,empty,empty
+Primary,Stefanie Howerton - 9521,Stefanie Howerton,stefanie.howerton@gmail.com,778 Myhr Drive,,Nashville,Tennessee,United States,37221,(615) 557-2288,,,,Active,,cus_NEK17cIAhJfeZF,src_1MTrMzKPS7KEOFbq7HAzmNsI,9237,2026,6,Visa,72,67001,empty,stefanie.howerton@gmail.com
+Primary,STEPHANIE BRAEUNER - 2517,STEPHANIE BRAEUNER,SWBra@aol.com,805 EADES CT,,NASHVILLE,Tennessee,United States,37221,,,,"2517
+RRC-M1CMS
+ACH-3",Active,,empty,empty,empty,empty,empty,empty,72,16063,8/31/2021,SWBra@aol.com
+Primary,STEPHANIE HELMEY - 2482,STEPHANIE HELMEY,stephaniehelmey@att.net,101 HARPETH TRACE CT,,NASHVILLE,Tennessee,United States,37221,6154150848,,,"2482
+RRC-M2CMS
+RRC-M4CMS",Active,,cus_NEK0ou9FeFYb5w,src_1MTrMeKPS7KEOFbqDndUlQY4,0624,2025,1,Visa,132,9112,7/1/2015,stephaniehelmey@att.net
+Primary,STEPHANIE KNIGHT,STEPHANIE KNIGHT,stephanie.dawn.knight@gmail.com,6660 AUTUMNWOOD DR,,NASHVILLE,Tennessee,United States,37221,615-509-7187,,,"2831
+RRC-F1CMS
+RRC-F3CMS",Active,,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,STEPHEN MOSELEY - 3005,STEPHEN MOSELEY,stephen@batch.is,6000 DEERBROOK DR,,NASHVILLE,Tennessee,United States,37221,615-646-0854,,,"3005
+RRC-M1CMS
+ACH-2",Active,,empty,empty,empty,empty,empty,empty,72,15526,3/2/2016,stephen@batch.is
+Primary,Stephen White - 8213,Stephen White,swhite@bullocksmith.com,4021 Aberdeen Road,,NASHVILLE,Tennessee,United States,37205,615-383-5400,,,"8213
+RRC-F4CMS",Active,,cus_NEK1kdqy88Av78,src_1MTrN8KPS7KEOFbq6x3RkIRc,8476,2028,9,MasterCard,72,12019,8/31/2015,swhite@bullocksmith.com
+Primary,Steven Derse,Steven Derse,steven@bellwetherrewards.com,4624 SANDY CREEK,,NASHVILLE,Tennessee,United States,37221,615-812-2116,,,"2763
+RRC-F3CMS",Active,,cus_NEK0DGu1RPeLiT,src_1MTrMiKPS7KEOFbqcV1acBuk,4499,2018,9,Visa,72,10714,7/31/2015,steven@bellwetherrewards.com
+Primary,STEVEN TAYLOR - 2149,STEVEN TAYLOR,stevenhtaylortn@comcast.net,3824 RICHLAND AVE,,NASHVILLE,Tennessee,United States,37205,,,,"2149
+RRC-F2CMS
+RRC-F4CMS",Active,,cus_NEK0IJCRGb1lZ4,src_1MTrMcKPS7KEOFbq5yRMPgkf,1002,2019,12,American Express,132,9238,7/1/2015,stevenhtaylortn@comcast.net
+Primary,Stuart Nunnally - 9317,Stuart Nunnally,JackNunnally1@gmail.com,713 Goodpasture Terrace,,Nashville,Tennessee,United States,37221,615-351-4650,,,"9317
+RRC-M3CMS",Active,,cus_NEK0SGBnD7tFl2,src_1MTrMqKPS7KEOFbqexuVkJaO,2205,2025,4,Visa,72,60037,1/31/2021,JackNunnally1@gmail.com
+Primary,SueEllen Watts - ABR-581,SueEllen Watts,suebet43@aol.com,249 Hidden Lake Road,,Hendersonville,Tennessee,United States,37075,615-824-0863,,,"ABR-581
+RRC-Hville 1&3 Fri
+ACH-2",Active,,empty,empty,empty,empty,empty,empty,132,15860,3/2/2016,suebet43@aol.com
+Primary,Sunna Lee - 9418,Sunna Lee,ckg7103@msn.com,1091 Lynnwood Boulevard,,Nashville,Tennessee,United States,37215,(617) 888-1120,,,"9418
+RRC-F2CMS",Active,,cus_NEK1y6bwMmS5em,src_1MTrNAKPS7KEOFbq0NEMHI5R,9559,2027,1,MasterCard,102,64013,12/31/2021,ckg7103@msn.com
+Primary,Supriya Patel,neal Patel,neal.patel@vanderbilt.edu,308 Stonehindge Way,,NASHVILLE,Tennessee,United States,37221,615-662-9781,,,"8442
+RRC-M1CMS",Active,,cus_NEK0XhqIKAiQ1H,src_1MTrMrKPS7KEOFbqHysEt4kg,0134,2025,3,Visa,72,11709,8/31/2015,neal.patel@vanderbilt.edu
+Primary,Susan &  Marius Payton - 9562,Susan &  Marius Payton,Susanepayton@gmail.com,510 Simonton Street,,Nashville,Tennessee,United States,37206,(916) 813-3716,,,,Active,,cus_NEK1WgGvDTLAK9,src_1MTrN0KPS7KEOFbqVklPNZWf,4008,2027,6,American Express,72,67834,empty,Mariuspayton2003@yahoo.com‚ Susanepayton@gmail.com
+Secondary,Susan &  Marius Payton - 9562,Marius Payton,Mariuspayton2003@yahoo.com,510 Simonton Street,,Nashville,Tennessee,United States,37206,,,,,Active,,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Susan Cook - ABR-290 (formerly Pat McIntyre),Susan Cook,memamasusie@yahoo.com,121 Edgeview Dr,,HENDERSONVILLE,Tennessee,United States,37075,6154140395,,,"ABR-290
+RRC-Hville 1&3 Wed",Active,,cus_NEK1ZeOc6burUT,src_1MTrN1KPS7KEOFbqvZHTOxmi,9220,2027,1,Visa,120,54452,3/2/2020,memamasusie@yahoo.com
+Primary,Susan Dalton - ABR-359,Susan Dalton,msbleu614@comcast.net,100 Countryside Drive,,Hendersonville,Tennessee,United States,37075,(615) 310-1779,,,"ABR-359
+RRC-Hville 1&3 Wed",Active,,cus_NEK1JdmEYig8Mx,src_1MTrN1KPS7KEOFbqKQOgiQT9,6515,2023,6,MasterCard,72,9053,7/1/2015,msbleu614@comcast.net
+Primary,Susan Fouche - 8887,Susan Fouche,fouches2@yahoo.com,8207 Sawyer Brown Rd,,Nashville,Tennessee,United States,37221,615-300-6440,,,"8887
+RRC-M2CMS
+ACH-2",Active,,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,SUSAN LIBERATORE - 2718,SUSAN LIBERATORE,liberak@comcast.net,1728 YELLOW WOOD CT,,NASHVILLE,Tennessee,United States,37221,,,,"2718
+RRC-M3CMS
+ACH-1",Active,,empty,empty,empty,empty,empty,empty,72,15398,8/31/2022,liberak@comcast.net
+Primary,Susannah Lowery - 9477,Susannah Lowery,sslowery@me.com,1260 Saxon Drive,,Nashville,Tennessee,United States,37215,(615) 686-4263,,,2&4FRI,Active,,cus_NEK1Ilbrltkxxe,src_1MTrNFKPS7KEOFbqhVexkSjd,0291,2024,11,American Express,174,65054,empty,sslowery@me.com
+Primary,Susanne Honious - 9118,Susanne Honious,honious@comcast.net,221 East Harbor,,Hendersonville,Tennessee,United States,37075,6152645947,,,"9118
+RRC-Hville 1&3 WED",Active,,cus_NEK1LBTaEdFFyc,src_1MTrMzKPS7KEOFbq9ICDQQxV,2819,2028,1,Visa,132,44942,3/31/2021,honious@comcast.net
+Primary,Suzanne Baker - 8799,Suzanne Baker,suzanneklong@gmail.com,106 CLAIRMONTE LANE,,Hendersonville,Tennessee,United States,37075,317-416-0962,,,"8799
+Hville-2nd&4th Wed 2
+ACH-3",Active,,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Sylvia Chunn - 8860,Sylvia Chunn,sylviachunn@gmail.com,6424 Riverplace Drive,,Nashville,Tennessee,United States,37221,615-260-4542,,,"resumed NOV 23 in WP
+stoppedfor nonpayment APR23
+took cart for nonpayment NOV18
+resumed Dec 10‚ 18
+8860
+RRC-M2CMS
+RRC-M4CMS",Active,,cus_OuXrkRM2PCV2q2,0,0,0,0,0,empty,empty,empty,empty
+Primary,Tanzy Wallace - 9339,Tanzy Wallace,tanzy2016@gmail.com,1720 Nottingham Place,,Nashville,Tennessee,United States,37221,(615) 481-7154,,,"9339
+RRC-M1CMS
+RRC-M3CMS",Active,,cus_NEK0StrbPXpBV5,src_1MTrMyKPS7KEOFbqJ8bqjZYb,1659,2025,9,Visa,132,61565,5/31/2021,tanzy2016@gmail.com
+Primary,Tara SHUMAN (Minor) - 4318,Tara Minor,tjrogers71@yahoo.com,417 Carters Glen Drive,,NASHVILLE,Tennessee,United States,37221,615-243-8272,,,"4318
+RRC-M2CMS
+RRC-M4CMS",Active,,cus_NEK0MBmxOILn7x,src_1MTrMxKPS7KEOFbqMNnhR8mO,7988,2026,4,MasterCard,132,10853,1/31/2016,tjrogers71@yahoo.com
+Primary,Teresa Martin-Taggart - 9258,Teresa Martin-Taggart,teresaandron@sbcglobal.net,261 Island Drive,,Hendersonville,Tennessee,United States,37075,6157103975,,,"9258
+RRC-Hville 1&3 Fri",Active,,cus_NEK08ZQaqAGcpJ,src_1MTrMxKPS7KEOFbqutyslmkn,1115,2026,4,Visa,132,56021,7/1/2020,teresaandron@sbcglobal.net
+Primary,Teresa Siman - 8746,Teresa Siman,teresasiman@gmail.com,65 Revere Park,,Nashville,Tennessee,United States,37205,,,,"8746
+RRC-F2CMS",Active,,cus_NEK057wqgGlx3s,src_1MTrMkKPS7KEOFbqgMErMAPa,2022,2020,4,American Express,empty,empty,empty,empty
+Secondary,Teresa Siman - 8746, ,Teresa@teresasiman.com,65 Revere Park,,Nashville,Tennessee,United States,37205,615-429-8503,,,"8746
+RRC-F2CMS",Active,,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Teresa Stewart - 9536,Teresa Stewart,teresastewart@hotmail.com,9148 Sawyer Brown Road,,Nashville,Tennessee,United States,37221,(703) 981-9762,,,,Active,,cus_NEK1IhnVN6IkxP,src_1MTrN8KPS7KEOFbq66FJDOaV,0886,2024,6,Visa,102,67052,1/31/2023,teresastewart@hotmail.com
+Primary,Teresa Turner - ABR-244,Teresa Turner,terus93@bellsouth.net,306 Lakeside Park Drive,,Hendersonville,Tennessee,United States,37075,615-822-9104,,,"ABR-244
+RRC-Hville 1&3 Wed
+switched to 1x/mo Oct 2015",Active,,cus_NEK0UEXbNGLTYU,src_1MTrMyKPS7KEOFbqiuLuWMuS,6899,2024,4,MasterCard,288,10093,7/1/2016,terus93@bellsouth.net
+Primary,Terri Cook - 9248,Terri Cook,terri@rcpaintingtn.com,705 Wabash Place,,Nashville,Tennessee,United States,37221,615-977-6404,,,"9248
+RRC-M1CMS
+RRC-M3CMS",Active,,empty,empty,empty,empty,empty,empty,132,55801,5/31/2020,terri@rcpaintingtn.com
+Primary,TERRI HIERS - 2161,Terri Hiers,tjhiers@gmail.com,1406 Clayton Ave.,,NASHVILLE,Tennessee,United States,37212,615-207-3044,,,"2161
+RRC-F4CMS",Active,,cus_NEK0pK4lMDYOKs,src_1MTrMvKPS7KEOFbqr8MUDTnb,1007,2025,7,American Express,408,9116,3/2/2016,tjhiers@gmail.com
+Primary,Terry Dison - ABR-492,Terry Dison,TNJRD2@GMAIL.COM,175 Lake Valley Rd,,HENDERSONVILLE,Tennessee,United States,37075,615-264-1097,615-351-9573,,"ABR-492
+RRC-Hville 1&3 Fri",Active,,cus_NEK1HHpRdUDzid,src_1MTrN6KPS7KEOFbqzBYqmNee,9000,2026,8,American Express,120,9062,7/1/2015,TNJRD2@GMAIL.COM
+Primary,THAD SISCO - 2492,THAD SISCO,dtsisco@att.net,637 HARPETH BEND DR,,NASHVILLE,Tennessee,United States,37221,,,,"2492
+RRC-M3CMS",Active,,cus_NEK0jyLOaJfWYB,src_1MTrMlKPS7KEOFbqVbrDzt88,0191,2023,3,Visa,72,9227,7/1/2015,dtsisco@att.net
+Primary,Theresa Hemmerly - 9334,Theresa Hemmerly,theresh@att.net,1709 Nottingham Place,,Nashville,Tennessee,United States,37221,(615) 406-1480,,,"9334
+RRC-M3CMS",Active,,cus_NEK07vMdq4B2dA,src_1MTrMwKPS7KEOFbqlK2Ejdpn,0284,2026,9,MasterCard,72,61279,5/31/2021,theresh@att.net
+Primary,Therese Casler - ABR-182,Therese Casler,theresecasler@gmail.com,241 Sterling Rd,,Hendersonville,Tennessee,United States,37075,615-824-7753,,,"ABR-182
+RRC-Hville 1&3 Wed",Active,,empty,empty,empty,empty,empty,empty,480,11117,3/2/2016,theresecasler@gmail.com
+Primary,THOMAS  WIESNER  (Wiggins) - 9274,THOMAS WIESNER,tommywigginsmusic@gmail.com,7168 Willow Creek Drive,,NASHVILLE,Tennessee,United States,37221,6155224344,,,"9274
+RRC-M2CMS",Active,,cus_NEK0nQNoI6mqoO,src_1MTrMnKPS7KEOFbqqOPpDRyP,7208,2025,1,Visa,72,56509,10/1/2020,tommywigginsmusic@gmail.com
+Primary,Thomas Conner - 8672,Thomas Conner,thos@sitemason.com,1312 Falkirk Ct,,NASHVILLE,Tennessee,United States,37221,6154005254,,,"8672
+RRC-M1CMS",Active,,cus_NEK0il22YkNKVP,src_1MTrMnKPS7KEOFbq1aKv76MX,5607,2027,3,Visa,72,9048,7/1/2015,thos@sitemason.com
+Primary,THOMAS DRAKE,THOMAS DRAKE,thomas.drake@thomasjdrake.com,7222 MARK DR,,NASHVILLE,Tennessee,United States,37221,615-646-4177,,,"2590
+RRC-M2CMS",Active,,cus_NEK0Qpuaag66vt,src_1MTrMoKPS7KEOFbqvGJ3rmbQ,9354,2023,11,Visa,72,14136,12/1/2015,thomas.drake@thomasjdrake.com
+Primary,Thomas Keller - 9310,Thomas Keller,Falconfantom13@gmail.com,1213 Wide Water Court,,Nashville,Tennessee,United States,37221,6155825745,,,"9310
+RRC-M2CMS
+RRC-M4CMS",Active,,cus_NEK08TPIAa92Qp,src_1MTrMpKPS7KEOFbqfju6CacA,6380,2027,5,Visa,132,59787,1/31/2021,Falconfantom13@gmail.com
+Primary,Tim Grosser - 9572,Tim Grosser,Tim.grosser1960@gmail.com,1018 Isaac Franklin Drive,,Gallatin,Tennessee,United States,37066,(630) 258-3674,,,,Active,,empty,empty,empty,empty,empty,empty,132,68007,empty,Tim.grosser1960@gmail.com
+Primary,TIM ROWLAND - 2678,TIM ROWLAND,timrowlandmail@yahoo.com,8357 COLLINS RD,,NASHVILLE,Tennessee,United States,37221,615-662-4900,,,"2678
+RRC-M1CMS
+ACH-3",Active,,empty,empty,empty,empty,empty,empty,72,16067,8/31/2021,timrowlandmail@yahoo.com
+Primary,TIMOTHY MOSES - 4316,TIMOTHY MOSES,tim@moses.com,3708 PRINCETON AVE,,NASHVILLE,Tennessee,United States,37205,615-300-0138,,,"4316
+RRC-F4CMS",Active,,cus_NEK0zBeyNLYYAy,src_1MTrMiKPS7KEOFbqXEKx6J7w,0520,2027,6,MasterCard,72,10771,10/31/2023,tim@moses.com
+Primary,Timothy Towers,Timothy Towers,timtowers@yahoo.com,8240 poplar creek road,,Nashville,Tennessee,United States,37221,6152072629,,,"3296
+RRC-M1CMS
+RRC-M3CMS",Active,,cus_NEK10jjXvOispN,src_1MTrN1KPS7KEOFbq4CNCyf6h,9978,2027,2,MasterCard,132,1147,3/3/2015,timtowers@yahoo.com
+Primary,TINA CORKUM - 3429,TINA CORKUM,tinacorkum@bellsouth.net,5021 TRACEWAY DR,,NASHVILLE,Tennessee,United States,37221,6153477548,,,"3429
+RRC-M1CMS
+RRC-M3CMS",Active,,empty,empty,empty,empty,empty,empty,132,9049,7/1/2015,tinacorkum@bellsouth.net
+Primary,Todd Grayson - ABR-053,Todd Grayson,graysont@comcast.net,1770 Hickory Trace Dr,,GALLATIN,Tennessee,United States,37066,615-264-2577,,,"ABR-053
+RRC-Hville 2&4 WED",Active,,empty,empty,empty,empty,empty,empty,132,14152,12/1/2015,bethgrayson20@gmail.com‚ graysont@comcast.net
+Secondary,Todd Grayson - ABR-053,Beth Grayson,bethgrayson20@gmail.com,1770 Hickory Trace Dr,,GALLATIN,Tennessee,United States,37066,615-310-4740,,,"ABR-053
+RRC-Hville 2&4 WED",Active,,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Todd Minnier - 9222,Todd Minnier,toddminnier@hotmail.com,813 Deer Foot Ct.,,Nashville,Tennessee,United States,37221,615-924-7568,,,"9222
+RRC-M1CMS",Active,,cus_NEK0NGz9akXiEX,src_1MTrMmKPS7KEOFbqOiZgk5nk,9863,2029,1,Visa,72,54074,3/2/2020,toddminnier@hotmail.com
+Primary,Tom  Snider - 9435,Tom Snider,tsnider36@gmail.com,1536 Eller Drive,,Nashville,Tennessee,United States,37221,(615) 519-3601,,,"9435
+RRC-M1CMS
+RRC-M3CMS",Active,,cus_NEK0vz4JAk8Br1,src_1MTrMtKPS7KEOFbqiP0YHXeU,9270,2027,12,MasterCard,132,64205,1/31/2022,tsnider36@gmail.com
+Primary,Tonya Baker - 9567,Tonya Baker,tanibaker48@gmail.com,1588 Boardwalk Place,,Gallatin,Tennessee,United States,37066,615-519-3367,,,,Active,,cus_NEK19CNbrJGO3M,src_1MTrMzKPS7KEOFbqH25KR9kD,6069,2026,7,Visa,empty,empty,empty,empty
+Primary,Tracey George - 2099,Tracey George,positivetheory@yahoo.com,3612 Richland Ave,,NASHVILLE,Tennessee,United States,37205,615-322-6310,9893321875,,"2099
+moved from 2003 Beechwood Ave APR19
+RRC-F2CMS
+RRC-F4CMS",Active,,cus_NEK04XwS6KAMmD,src_1MTrMsKPS7KEOFbqDWuqP3f7,1404,2023,6,MasterCard,528,10734,1/31/2017,positivetheory@yahoo.com
+Primary,Traci Amodio - 8765,Traci Amodio,dram33@aol.com,139 Rebecca Drive,,Hendersonville,Tennessee,United States,37075,6154034797,,,"8765
+RRC-Hville 1&3 Wed",Active,,cus_NEK1ltAP273hD7,src_1MTrN0KPS7KEOFbqb6kgkzGE,0292,2026,4,Visa,72,24210,1/31/2017,dram33@aol.com
+Primary,Tracy Fishell - 9336,Tracy Fishell,tracygershon@gmail.com,5657 Hickory Springs Road,,Brentwood,Tennessee,United States,37027,(615) 400-0022,,,"9336
+RRC-F2CMS",Active,,cus_NEK0Lp68eBNtbD,src_1MTrMuKPS7KEOFbqnKmSNjbO,0979,2025,6,Visa,72,61563,5/31/2021,tracygershon@gmail.com
+Primary,TRAVIS SMITH - 9163,TRAVIS SMITH,TRAVSMIT99@gmail.com,1030 Smokerise Lane,,Hendersonville,Tennessee,United States,37075,6153972730,,,"9163
+RRC-Hville 1&3 Wed",Active,,cus_NEK03fM90Iac0s,src_1MTrMiKPS7KEOFbqdMbRdQzK,1002,2024,4,American Express,132,51020,10/31/2019,TRAVSMIT99@gmail.com
+Primary,Trey Lipman - 9471,Trey Lipman,treylipman@gmail.com,3534 Central Ave,,Nashville,Tennessee,United States,37205,(615) 268-0112,,,2&4FRI,Active,,cus_NEK1yShIpBaHr2,src_1MTrN3KPS7KEOFbqXbeKxjkb,3194,2026,6,Visa,174,64930,5/1/2022,treylipman@gmail.com
+Primary,Trisha Ormond - 9294,Trisha Ormond,pmodeegan@gmail.com,2507 Ashwood Avenue,,Nashville,Tennessee,United States,37212,6159732019,,,"9294
+RRC-F2CMSX",Active,,cus_NEK1D1SgUQZZ2v,src_1MTrN0KPS7KEOFbqSxA5ZThH,3959,2027,4,Visa,72,58829,5/1/2022,pmodeegan@gmail.com
+Primary,Valerie Hansen - 9566,Valerie Hansen,vhansen615@gmail.com,260 Myhr Green,,Nashville,Tennessee,United States,37221,(615) 554-7066,,,,Active,,cus_NEK1OAmIGnse00,src_1MTrMzKPS7KEOFbqreKjMCUd,1380,2027,4,Visa,72,67888,5/10/2023,vhansen615@gmail.com
+Primary,Vanessa Newton - 8619,Vanessa Newton,vnewto1@gmail.com,705 Devon Way Ct,,NASHVILLE,Tennessee,United States,37221,312-259-6588,,,"8619
+RRC-M2CMS
+RRC-M4CMS
+gave free month in 1st qtr 16",Active,,cus_NEK0Zl46bkibYP,src_1MTrMoKPS7KEOFbqxjoW2E8c,3008,2025,3,American Express,132,11996,3/31/2016,vnewto1@gmail.com
+Secondary,Vanessa Newton - 8619,Lee Newton,newtonlm@gmail.com,705 Devon Way Ct,,NASHVILLE,Tennessee,United States,37221,3122596588,,,"8619
+RRC-M2CMS
+RRC-M4CMS
+gave free month in 1st qtr 16",Active,,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Vern Benke - 9297,Vern Benke,vern.benke@gmail.com,756 Myhr Drive,,Nashville,Tennessee,United States,37221,6155423542,,,"9297
+RRC-M3CMS",Active,,cus_NEK0px5bwPiH36,src_1MTrMvKPS7KEOFbqMX5zltJm,4159,2025,11,MasterCard,72,59125,12/1/2020,vern.benke@gmail.com
+Primary,Vickie Elle Bunn - 9374,Vickie Elle Bunn,vickiebunn1111@gmail.com,1106 Shoreside Drive,,Hendersonville,Tennessee,United States,37075,(213) 219-5595,,,"9374
+RRC-Hville 2nd Wed",Active,,cus_NEK0fj8P4Zm0Wv,src_1MTrMtKPS7KEOFbqIa7MrJ4Z,0158,2026,1,Visa,132,62927,7/31/2021,vickiebunn1111@gmail.com
+Primary,Vickie Saito - 2840,Vickie Saito,vickiesaito9@gmail.com,213 HARPETH WOOD DR,,NASHVILLE,Tennessee,United States,37221,615-352-0126,615.300.5862,,"2840
+RRC-M4CMS",Active,,cus_NEK0EZBs9xj9E1,src_1MTrMwKPS7KEOFbqbhCkYJ1r,0344,2026,10,Visa,72,14290,3/3/2019,vickiesaito9@gmail.com
+Primary,Virginia Gollnitz - 8588,Virginia Gollnitz,virginia_gollnitz@comcast.net,6775 Holt Rd,,NASHVILLE,Tennessee,United States,37211,615-333-9527,,,"8588
+RRC-F2CMS
+RRC-F4CMS
+Temporarily suspended customer not in home update recurring profile when back active",Active,,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,Wally Saukerson - ABR-231,Wally Saukerson,wally@houseofwally.com,159 Sunset Drive,,Hendersonville,Tennessee,United States,37075,,,,"switched to backdoor in 2023  while recuperating for no charge
+ABR-231
+RRC-Hville 1&3 Wed",Active,,cus_NEK1a648060lwH,src_1MTrN2KPS7KEOFbqXRVpmeQq,0136,2026,10,Visa,288,14682,12/1/2016,wally@houseofwally.com
+Primary,WENDY BAKER - 2184,WENDY BAKER,baker.wendy@comcast.net,1706 Rosewood Ave,,NASHVILLE,Tennessee,United States,37212,615-293-1548,615-293-1548,,"2184
+RRC-F2CMS
+RRC-F4CMS",Stopped,,cus_NEK1R1l6aDgs0v,src_1MTrN0KPS7KEOFbqAO4aXpda,1023,2027,3,American Express,132,11914,8/31/2015,baker.wendy@comcast.net
+Primary,Wendy Gallerani - ABR-489,Wendy Gallerani,wendygallerani@bellsouth.net,133 Hatcher Ln,,HENDERSONVILLE,Tennessee,United States,37075,615-264-8114,615-500-0063,,"ABR-489
+RRC-Hville 1&3 Fri
+Switched to 2x/mo 6/1/16
+ACH-3",Active,,empty,empty,empty,empty,empty,empty,120,15852,8/31/2021,wendygallerani@bellsouth.net
+Primary,Wendy Temko - 9386,Wendy Temko,wendy@temko.com,108 Pembroke Ct,,Hendersonville,Tennessee,United States,37075,(847) 305-0361,,,"9386
+RRC-HVILLE 3RD FRI",Active,,cus_NEK056DNktlOfP,src_1MTrMuKPS7KEOFbqPdMsR3Qr,6040,2024,9,MasterCard,72,63169,8/31/2021,wendy@temko.com
+Primary,Wendy Wright - 2730,Wendy Wright,wendywright1965@gmail.com,7308 CAVALIER RD,,NASHVILLE,Tennessee,United States,37221,615-482-4224,,,"2730
+RRC-M2CMS
+ACH-2",Active,,empty,empty,empty,empty,empty,empty,72,14313,12/1/2015,wendywright1965@gmail.com
+Primary,Wil Frasca - 9431,Wil Frasca,wilfrasca@gmail.com,5875 East Ashland Drive,,Nashville,Tennessee,United States,37215,(619) 881-7287,,,"9431
+RRC-F2CMS
+RRC-F4CMS",Active,,cus_NEK0O8QXi8NVo0,src_1MTrMyKPS7KEOFbqATq1oDr8,3787,2026,3,Visa,132,64009,12/31/2021,wilfrasca@gmail.com
+Primary,William Bass - ABR-373 (same location renamed from 1155 Buchanan Pl),William Bass,maleadfoot@aol.com,1205 Stirlingshire Drive,,Hendersonville,Tennessee,United States,37075,615-822-1163,,,"switched to 1x/mo JAN 23
+same location renamed from 1155 Buchanan Place
+ABR-373
+RRC-Hville 1&3 Wed",Active,,cus_NEK0Iq3tg0Cc3q,src_1MTrMhKPS7KEOFbqrBTrxS7F,0740,2019,6,Visa,288,2713,1/31/2024,parmanbass@aol.com‚ maleadfoot@aol.com
+Secondary,William Bass - ABR-373 (same location renamed from 1155 Buchanan Pl),William Bass,parmanbass@aol.com,1205 Stirlingshire Drive,,Hendersonville,Tennessee,United States,37075,615-429-3979,,,"switched to 1x/mo JAN 23
+same location renamed from 1155 Buchanan Place
+ABR-373
+RRC-Hville 1&3 Wed",Active,,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+Primary,William Dean - ABR-168,William Dean,colleenmc1339@hotmail.com,164 Walton Trace South,,Hendersonville,Tennessee,United States,37075,615-879-3099,,,"ABR-168
+RRC-Hville 1&3 Wed
+ACH-2",Active,,empty,empty,empty,empty,empty,empty,120,15827,3/2/2016,colleenmc1339@hotmail.com
+Primary,William Hall - ABR-514,William Hall,eric.blackhall@gmail.com,100 Rock Castle Court,,Hendersonville,Tennessee,United States,37075,(615) 826-1662,,,"ABR-514
+RRC-Hville 1&3 Fri
+SUSPENDED 1-16-2020 -NO PAY
+REACTIVATED 2-12-2020 - PAID",Active,,cus_NEK034YZKokwHG,src_1MTrMtKPS7KEOFbqLFM3Rwl6,9932,2026,4,Visa,132,9104,5/1/2020,eric.blackhall@gmail.com
+Primary,William Schoch - 9537,William Schoch,will.schoch@gmail.com,1224 Bedfordshire Court,,Nashville,Tennessee,United States,37221,(615) 944-5377,,,,Active,,cus_NEK1HbeKZciIuD,src_1MTrN1KPS7KEOFbqqMhE5EUp,1236,2028,11,Visa,72,66962,1/9/2023,will.schoch@gmail.com
+Primary,Wilma Modling - 9328,Wilma Modling,wilmamodling@comcast.net,8207 Sawyer Brown Rd #D-3,Suite 100,NASHVILLE,Tennessee,United States,37221,(615) 828-1792,,,"9328
+RRC-M2CMS",Active,,cus_NEK09iMudAhw9B,src_1MTrMqKPS7KEOFbqfj7oIwKo,3006,2024,7,American Express,102,60747,3/31/2021,wilmamodling@comcast.net
+Primary,Yocia Flowers - 9442,Yocia Flowers,yocia1@gmail.com,6756 Cold Stream Drive,,Nashville,Tennessee,United States,37221,(615) 668-5585,,,,Active,,cus_NEK08aD9j7Ne1u,src_1MTrMsKPS7KEOFbq892Et3Bq,6343,2023,6,Visa,72,64414,3/31/2022,yocia1@gmail.com
+Primary,Yvonne Bryan - 9409,Yvonne Bryan,yvonne.bryan@hotmail.com,7533 Charlotte Pike,,Nashville,Tennessee,United States,37209,(615) 352-2175,615-305-3900,,"9409
+RRC-M2CMS",Active,,cus_NEK0qnMWEDD8c9,src_1MTrMwKPS7KEOFbq4ZBBtaWO,5486,2026,5,Visa,72,63816,12/1/2021,yvonne.bryan@hotmail.com
+Primary,,MARY BERNARD,maryb1517@gmail.com,,,,,United States,,615-319-5185,615-319-5185,,"2883
+RRC-M3CMS",Active,,cus_NEK0DI2RlcLkEG,src_1MTrMsKPS7KEOFbq4hMpNZyG,5200,2023,11,Visa,72,3140,5/1/2015,maryb1517@gmail.com
+Primary,,wendi dalby,wendidalby@gmail.com,,,,,United States,,(615) 351-1050,,,"9381
+RRC-F2CMS
+RRC-F4CMS
+resumed APR21",Active,,cus_NEK03FYgTOXRjg,src_1MTrMtKPS7KEOFbq9Piliebt,6617,2023,4,Visa,132,62519,8/31/2021,wendidalby@gmail.com
+Primary,,Frieda Whitt,friedawhitt@comcast.net,1030 Margaret Drive,,Hendersonville,Tennessee,United States,37075,(615) 712-0087,,,,Active,,empty,empty,empty,empty,empty,empty,174,68325,empty,friedawhitt@comcast.net
+Primary,,Bradley Trotter,btrotter12@gmail.com,7536 Oakhaven Trace,,Nashville,Tennessee,United States,,(847) 309-7292,,,,Active,,empty,empty,empty,empty,empty,empty,72,68331,7/9/2023,btrotter12@gmail.com
+Primary,,Kaelin Evans,kaelinevans@live.com,8521 Raymond Roberts Drive,,Nashville,Tennessee,United States,37221,(615) 397-5987,,,,Active,,empty,empty,empty,empty,empty,empty,204,68338,empty,kaelinevans@live.com

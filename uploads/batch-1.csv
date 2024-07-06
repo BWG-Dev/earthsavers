@@ -1,0 +1,11 @@
+﻿Contact Type,Organization,Client Name,Email,Street,Street2,City,Province/State,Country,Postal/Zip Code,Business Phone,Home Phone/Phone1,Mobile Phone/Phone2,Relationship Notes,Client Location,Invoice Profile Frequency,stripe_customer_id,stripe_source_id,card_last_4,"expiry_year	",expiry_month,card_type,subscription_total,invlice_id,next_payment_date
+Primary,Charles Albury - 3220,Charles Albury,calbury@msn.com,7533 OAKHAVEN TRC,,NASHVILLE,Tennessee,United States,37209,,615-356-4648,,"3220
+RRC-M2CMS",,3m,cus_NEK0aD25zy5Q5g,src_1MTrMyKPS7KEOFbqpx78TJXI,7745,2024,6,Visa,72,14003,5/1/2023
+Primary,WENDY BAKER - 2184,WENDY BAKER,baker.wendy@comcast.net,1706 Rosewood Ave,,NASHVILLE,Tennessee,United States,37212,,,,"2184
+RRC-F2CMS
+RRC-F4CMS",,3m,cus_NEK1R1l6aDgs0v,src_1MTrN0KPS7KEOFbqAO4aXpda,1023,2027,3,American Express,132,11914,5/1/2023
+Primary,JILL BRADDOCK-WATSON - 2282,JILL BRADDOCK-WATSON,jasjilnicgav@mac.com,8056 SAWYER BROWN RD,,NASHVILLE,Tennessee,United States,37221,,615-662-8994,,"2282
+RRC-M2CMS",,3m,cus_NEK0tjj2qZSPZF,src_1MTrMxKPS7KEOFbqoAq3udyk,8020,2027,8,MasterCard,72,11919,5/1/2023
+Primary,Ginny Webb - 9218,Ginny Webb,ginnyhwebb@gmail.com,6905 River Ridge Dr.,,Nashville,Tennessee,United States,37221,,423-605-0146,,"9218
+RRC-M1CMS
+RRC-M3CMS",,3m,cus_NEK03ESi9d3tWB,src_1MTrMtKPS7KEOFbqFmTfIBCw,3621,2021,11,Discover,132,53764,5/1/2023

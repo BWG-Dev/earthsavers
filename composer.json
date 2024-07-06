@@ -1,0 +1,17 @@
+{
+    "name": "dev/bg_es_subscriptions",
+    "description": "Create a subscription flow to support the EarthSaver business model",
+    "authors": [
+        {
+            "name": "yarielg",
+            "email": "yariel.gordillo@gmail.com"
+        }
+    ],
+    "require": {
+        "mailchimp/marketing": "^3.0"
+    },
+    "autoload": {
+        "psr-4": { "Es\\Inc\\": "./inc"
+        }
+    }
+}

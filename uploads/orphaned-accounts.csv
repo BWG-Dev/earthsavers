@@ -1,0 +1,392 @@
+﻿Contact Type,Organization,Client Name,Email,Street,Street2,City,Province/State,Country,Postal/Zip Code,Business Phone,Home Phone/Phone1,Mobile Phone/Phone2,Relationship Notes,Client Location,Invoice Profile Frequency,stripe_customer_id,stripe_source_id,card_last_4,"expiry_year	",expiry_month,card_type,subscription_total,invoice_id,next_payment_date,active
+Secondary,161 Rosa L Parks (Frost Bldg),Heather Olenkiewicz,Heather.Olenkiewicz@cbre.com,12770 El Camino Real,Ste 200,San Diego,CA,USA,92130,,615 493 9254,404 401 0526,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,5th & Main Condominium Assoc,Elizabeth Will,ewill@condominiumconcepts.com,2115 Yeaman Place,Suite 150,Nashville,TN,USA,37206,,404-917-0600 ext 235,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,AccuWorks,Emily Slaton,emily@accuworks.com,612 Airpark Center Drive,,Nashville,TN,USA,37217,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Advance Financial (Harpeth Financial),Accounts Payable ,billing@af247.com,100 Oceanside Drive,,Nashville,TN,USA,37204,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Advance Financial (Harpeth Financial),Danetta Mitchell,danetta.mitchell@af247.com,100 Oceanside Drive,,Nashville,TN,USA,37204,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,AEG Live,Accounts Payable ,AEG_Presents_AP_MWS@scanningamerica.com,PO Box 3507,ATTN:  Accounts Payable,Little Rock,AK,USA,72203-3507,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,AEG Live,Mike DuCharme,mducharme@aegpresents.com,PO Box 3507,ATTN:  Accounts Payable,Little Rock,AK,USA,72203-3507,,615-320-7286,917.251.5628,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,ALFRED WILLIAMS & COMPANY,Lisa Garber,LGarber@alfredwilliams.com,2960 Sidco Drive,,Nashville,TN,USA,37204,,615-679-3965,,"Main contact: Karen Mencarelli
+KMencarelli@alfredwilliams.com",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,ALFRED WILLIAMS & COMPANY,Accounts Payable,ap@alfredwilliams.com,2960 Sidco Drive,,Nashville,TN,USA,37204,,,,"Main contact: Karen Mencarelli
+KMencarelli@alfredwilliams.com",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,AMERICAN CENTER,Harrite Malone,hmalone@cri-us.com,3100 WEST END AVENUE,,Nashville,TN,USA,37203,,(615) 292-9514,,"Page Heasley at pheasley@cri-us.com or call 615- 292-9514.
+
+old contact:  Ms Clemmons lclemons@cri-us.com",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,"AMERICAN CONSTRUCTORS, INC",Margie Eblen,margiee@americanconstructors.us,"5203 Maryland Way, Suite 210",,Brentwood,TN,USA,37027,,(615) 329-0123,,old: 2900  Vanderbilt Pl 37212,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,ArcelorMittal North America,Mindy Patrick,AccountsPayableAMNA@arcelormittal.com,"1000 Corporate Centre Drive, Suite 200",,Franklin,TN,USA,37067,,(219) 487-0055,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,ARMY RESERVE CENTER,Nina Fedie,nfedie@wm.com,Waste Management â€“ Accounts,P.O. Box # 6700,Portland,OR,USA,97228-6700,,615-315-5245,615-354-6000,"Contact person Bridgette L. Hickey 615-354-6001 ; Cell 912-604-5483
+
+bridgette.c.long.civ @ mail.mil    A/P contact: Nina Fedie",,#N/A,cus_NEK1ukVTCGGrf0,src_1MTrN7KPS7KEOFbqZReWxtpG,1813,2020,6,Visa,#N/A,#N/A,#N/A,#N/A
+Secondary,ARMY RESERVE CENTER,Elizabeth Clough,eclough@wm.com,Waste Management â€“ Accounts,P.O. Box # 6700,Portland,OR,USA,97228-6700,,205-808-5108,205-281-4973,"Contact person Bridgette L. Hickey 615-354-6001 ; Cell 912-604-5483
+
+bridgette.c.long.civ @ mail.mil    A/P contact: Nina Fedie",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Avant Underwriters (HUB INTERNATIONACORP),Robin Mitchell,rmitchell@AvantIns.com,"155 Franklin Road, Suite 200",,Brentwood,TN,USA,37027,,615-983-8988,,"formerly: TIS NASHVILLE at 9020 OVERLOOK BLVD, SUITE 202",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Avant Underwriters (HUB INTERNATIONACORP),Payable Inquiries ,Oracle.InquiriesAP@hubinternational.com,"155 Franklin Road, Suite 200",,Brentwood,TN,USA,37027,,,,"formerly: TIS NASHVILLE at 9020 OVERLOOK BLVD, SUITE 202",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Baker Roofing Company,Donna Anderson,brcapinvoices@bakerroofing.com,105 Tennessee Way,,Hendersonville,TN,USA,37075,,919-828-2975,,danderson@bakerroofing.com,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Bank Director,Accounts Payable ,pburks@bankdirector.com,201 SUMMIT VIEW DR,Suite 250,Brentwood,TN,USA,37027,,,,old: BRIAN.RELLEVA@localeats.COM,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Bank Director,Deborah Johnson,djohnson@bankdirector.com,201 SUMMIT VIEW DR,Suite 250,Brentwood,TN,USA,37027,,615.777.8451,,old: BRIAN.RELLEVA@localeats.COM,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Beech High School Environmental Club,Makenzie Neal Rankin,Makenzie.Rankin@sumnerschools.org,3126 Long Hollow Pike,,Hendersonville,TN,USA,37075,,,old: Makenzie.Neal@sumner,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Beech High School Environmental Club,Teresa Hagey,teresa.hagey@sumnerschools.org,3126 Long Hollow Pike,,Hendersonville,TN,USA,37075,,615-824-6200 x 4,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Belle Meade Mansion Winery (RoadRunner Recycling),Michael Hedges,michael@bellemeadewinery.com,1732 1st Ave #29637,,New York,NY,USA,10128,,(304) 685-8706,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Belle Meade Mansion Winery (RoadRunner Recycling),Jamie Saunders,jsaunders@roadrunnerwm.com,1732 1st Ave #29637,,New York,NY,USA,10128,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,BluePearl Veterinary Partners (Mars Vet),Joel Stacy,joel.stacy@bluepearlvet.com,c/o Siemens Industry,"220 Stoneridge Drive, Suite 200",Columbia,SC,USA,29210,,360-784-5416,,,,3m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,686,3523,12/1/2015,Active
+Secondary,BluePearl Veterinary Partners (Mars Vet),Accounts Payable ,utilities@bluepearlvet.com,c/o Siemens Industry,"220 Stoneridge Drive, Suite 200",Columbia,SC,USA,29210,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,BluePearl Veterinary Partners (Mars Vet),Kim Winters,kim.winters@bluepearlvet.com,c/o Siemens Industry,"220 Stoneridge Drive, Suite 200",Columbia,SC,USA,29210,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,BluePearl Veterinary Partners (Mars Vet),Accounts Payable,bills.us@siemens.com,c/o Siemens Industry,"220 Stoneridge Drive, Suite 200",Columbia,SC,USA,29210,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,BluePearl Veterinary Partners (Mars Vet),Accounts Payable,btsemreports.industry@siemens.com,c/o Siemens Industry,"220 Stoneridge Drive, Suite 200",Columbia,SC,USA,29210,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,BORMAN ENTERTAINMENT,Liz Nixon,liz.nixon@bormantn.com,"2920 Berry Hill Drive, Suite 220",,Nashville,TN,USA,37204,GV004,,,"resumed from GVR JUN21
+stopped APR20",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,BORMAN ENTERTAINMENT,Accounts Payable ,cindy@kreesconsulting.com,"2920 Berry Hill Drive, Suite 220",,Nashville,TN,USA,37204,GV004,404-788-9994,,"resumed from GVR JUN21
+stopped APR20",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Brown and Caldwell,Will ,wraines@brwncald.com,ATTN:  RHONDA RANKIN,1527 COLE BLVD #300,Lakewood,CO,USA,80401,GV005,,,BLUE-Monday-Nashville,,3m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,372,46627,11/1/2021,Active
+Secondary,Brown and Caldwell,,lwilliams2@brwncald.com,ATTN:  RHONDA RANKIN,1527 COLE BLVD #300,Lakewood,CO,USA,80401,GV005,,,BLUE-Monday-Nashville,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Brown and Caldwell,Dale Pruitt,Dpruitt@BrwnCald.com,ATTN:  RHONDA RANKIN,1527 COLE BLVD #300,Lakewood,CO,USA,80401,GV005,615.238.2077,615.585.2573,BLUE-Monday-Nashville,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Buerger Moseley & Carson,Jane Rigsby,jrigsby@buergerlaw.com,4068 Rural Plains Circle #100,,Franklin,TN,USA,37064,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Buffalo Exchange Ltd,Laura Mitchell-Brewer,lmitchellbrewer@bufex.com,P.O.Box 40488,,Tucson,AZ,USA,85717,GV006,(214) 515-9167,,Weekly-Monday-Nashville,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Buffalo Exchange Ltd,Taylor Burney,Taylor-tburney@bufex.com,P.O.Box 40488,,Tucson,AZ,USA,85717,GV006,,,Weekly-Monday-Nashville,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Buffalo Exchange Ltd,Kristin Martin,kmartin@bufex.com,P.O.Box 40488,,Tucson,AZ,USA,85717,GV006,,,Weekly-Monday-Nashville,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Buffalo Exchange Ltd, ,accounting@bufex.com,P.O.Box 40488,,Tucson,AZ,USA,85717,GV006,,,Weekly-Monday-Nashville,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,"Built Technologies, Inc",Stephen Malone,stephen.malone@getbuilt.com,635 Grassmere Park,,Nashville,TN,USA,37211,,(615) 237-1253,(615) 505-3888,,,#N/A,cus_NEK1ve6AWz8fiY,src_1MTrN4KPS7KEOFbqKU1ylFwH,8507,2023,4,MasterCard,#N/A,#N/A,#N/A,#N/A
+Secondary,"Built Technologies, Inc",,invoices@getbuilt.com,635 Grassmere Park,,Nashville,TN,USA,37211,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,"Built Technologies, Inc",Shannon Perez,shannon.perez@getbuilt.com,635 Grassmere Park,,Nashville,TN,USA,37211,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,"Built Technologies, Inc",Vickie Dalton,vickie.dalton@getbuilt.com,635 Grassmere Park,,Nashville,TN,USA,37211,,408-218-4060,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,"c/o Cushman & Wakefield US, Inc.",Ruby Petargue,ruby.petargue@cushwake.com,SMIV 315 Deaderick Street LLC,"315 Deaderick Street, Suite 120",Nashville,TN,USA,37238,,,,Shorenstein sold to KBS Realty Advisors MAR 2022,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,CapTrust (CAPFINANCIAL), ,apinvoices@captrust.com,5314 Maryland Way,Suite 300,Brentwood,TN,USA,37027,,615-377-1177,,formerly TrustCore,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,CapTrust (CAPFINANCIAL), ,apinquiries@captrust.com,5314 Maryland Way,Suite 300,Brentwood,TN,USA,37027,,615-377-1177,,formerly TrustCore,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,CapTrust (CAPFINANCIAL),Scott Roland,Scott.Roland@captrust.com,5314 Maryland Way,Suite 300,Brentwood,TN,USA,37027,,615-377-1177,(615) 277-9471,formerly TrustCore,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,CapTrust (CAPFINANCIAL),Kyle Davis,kyle.davis@captrust.com,5314 Maryland Way,Suite 300,Brentwood,TN,USA,37027,,615-377-1177,919-278-9945,formerly TrustCore,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Cardio Partners (DXE MEDICAL),Kierrah Chamberlin,kierrah.chamberlin@sarnova.com,1001 Flagpole Court,,Brentwood,TN,USA,37027,9397,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Cardio Partners (DXE MEDICAL),Accounts Payable mailbox ,CPRAP@CardioPartners.com,1001 Flagpole Court,,Brentwood,TN,USA,37027,9397,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Cardio Partners (DXE MEDICAL),Ryan Flaugher,ryan.flaugher@sarnova.com,1001 Flagpole Court,,Brentwood,TN,USA,37027,9397,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Care Supply Company, McKinzie,kmckinzie@caresupplyco.com,888 Elm Hill Pike,,Nashville,TN,USA,37210,,615-690-2273,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Centerstone of America,Rebecka McElheney,rebecka.mcelheney@centerstone.org,44 Vantage Way; Suite 280 & 400,,Nashville,TN,USA,37228,,615-463-6615,,"old: kelli.kington@centerstone.org
+before: crystal.hurst@centerstone.org",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Centerstone of America,Wendy Stein,Wendy.Stein@centerstone.org,44 Vantage Way; Suite 280 & 400,,Nashville,TN,USA,37228,,(615) 463-6502,,"old: kelli.kington@centerstone.org
+before: crystal.hurst@centerstone.org",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Change Healthcare TWO (UHG- United Health Care Group),Chris Estes,chris_estes@uhg.com,Waste Harmonics,"7620 Omnitech Place, Suite 1",Victor,NY,USA,14564-9413,,615.496.2895,615-932-3624,"old email PDF Invoices to:  GWSPOInvoiceProcessing@cbre.com
+
+
+old name: EMDEON BUSINESS SERVICES
+KAREN BATES 615-886-9133 OR 203-589-3744.",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Change Healthcare TWO (UHG- United Health Care Group),Accounts Payable,ap@wasteharmonics.com,Waste Harmonics,"7620 Omnitech Place, Suite 1",Victor,NY,USA,14564-9413,,704-632-9934 Option 2,,"old email PDF Invoices to:  GWSPOInvoiceProcessing@cbre.com
+
+
+old name: EMDEON BUSINESS SERVICES
+KAREN BATES 615-886-9133 OR 203-589-3744.",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Change Healthcare TWO (UHG- United Health Care Group),Culleen Bradley,culleen.bradley@changehealth.com,Waste Harmonics,"7620 Omnitech Place, Suite 1",Victor,NY,USA,14564-9413,,,615.932.3521,"old email PDF Invoices to:  GWSPOInvoiceProcessing@cbre.com
+
+
+old name: EMDEON BUSINESS SERVICES
+KAREN BATES 615-886-9133 OR 203-589-3744.",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Change Healthcare TWO (UHG- United Health Care Group),Kayla DePaola,kdepaola@newmarketwaste.com,Waste Harmonics,"7620 Omnitech Place, Suite 1",Victor,NY,USA,14564-9413,,(704) 948-4773,,"old email PDF Invoices to:  GWSPOInvoiceProcessing@cbre.com
+
+
+old name: EMDEON BUSINESS SERVICES
+KAREN BATES 615-886-9133 OR 203-589-3744.",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,CITI GLOBAL MARKETS,Accounts Payable ,nammarketsinvoices@citi.com,5500 MARYLAND WAY,SUITE 350,Nashville,TN,USA,37027,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Community Healthcare Trust Incorporated,Accounts Payable ,accountspayable@chct.reit,"3326 Aspen Grove Drive, Suite 150",,Franklin,TN,USA,37067,,615-771-3052 ext. 119,,,,3m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,815,39285,3/1/2020,Active
+Secondary,Community Healthcare Trust Incorporated,Keri Boe,kboe@chct.reit,"3326 Aspen Grove Drive, Suite 150",,Franklin,TN,USA,37067,,615-716-2086,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Compass Rose Events,Melanie Green,mgreen@compassroseevents.com,1500 Corporate Place,,LaVergne,TN,USA,37086,,207-633-1101 ext 9005,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Consolio, ,accountspayable@consilio.com,"216 Centerview Drive, Suite 250",,Brentwood,TN,USA,37027,,615.467.2388,,"formerly:  Legility, LLC",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Consolio,Christi Peppers,christi.peppers@legility.com,"216 Centerview Drive, Suite 250",,Brentwood,TN,USA,37027,,615 635 0111,,"formerly:  Legility, LLC",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Consolio,Megan Geddis,megan.geddis@consilio.com,"216 Centerview Drive, Suite 250",,Brentwood,TN,USA,37027,,,,"formerly:  Legility, LLC",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,COUNTRY MUSIC ASSOCIATION,Blake Breithaupt,bbreithaupt@cmaworld.com,35 Music Square East,Suite 201,Nashville,TN,USA,37203,,,,1 MUSIC CIRCLE SOUTH - old address,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,COUNTRY MUSIC ASSOCIATION,Sarah Agans,sagans@cmaworld.com,35 Music Square East,Suite 201,Nashville,TN,USA,37203,,,,1 MUSIC CIRCLE SOUTH - old address,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Crema - BRENTWOOD 9616,Accounts Payable,accounting@crema-coffee.com,"330 Franklin Road, Suite 904 D",,Brentwood,TN,USA,37027,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Crema - BRENTWOOD 9616,Jacob Haymans,jacob@crema-coffee.com,"330 Franklin Road, Suite 904 D",,Brentwood,TN,USA,37027,,912.617.2047,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Crowe LLP,Diane Conard,Diane.conard@crowe.com,"720 Cool Springs Blvd., Suite 600",,Franklin,TN,USA,37067,,615-209-1639,615-360-5602,"resumed FEB23
+stopped 2022 due to covid",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,DCI Laboratory (Dialysis Clinic Inc),Laura Williamson,laura.williamson@dciinc.org,2917 Foster Creighton Drive,,Nashville,TN,USA,37204,,615-775-9148,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,DCI Laboratory (Dialysis Clinic Inc),AP ,Accountspayable@dciinc.org,2917 Foster Creighton Drive,,Nashville,TN,USA,37204,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Dunham Springs POA  c/o: Metropolitan Properties,Will Fuson,will@mpmnashville.com,4521 Trousdale Drive,,Nashville,TN,USA,37204,,615-915-3204,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,e|spaces - Burton Hills,Chad Troup,chad@chadtroupcpa.com,"10 Burton Hills Blvd, Suite 400",,Nashville,TN,USA,37215,,,,"old location:4322 Harding Pike, Suite 417",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,EnviroScience Inc,Linda Talbert,ltalbert@enviroscienceinc.com,"1722 General George Patton Drive, Suite 110B",,Brentwood,TN,USA,37027,,800.940.4025,423.335.1166,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,"ESS, Inc",Jessica Evans,jevans@essnashville.com,203 McMillan Street,,Nashville,TN,USA,37203,,(615) 500-2087,,"Sarah Fitts :  sfitts@essnashville.com
+AP:
+  Brian Miller
+:  bmiller@essnashville.com",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,FAMILY &  CHILDREN SERVICES,Ashley Garth,agarth@fcsnashville.org,2400 Clifton Avenue,,Nashville,TN,USA,37209,,(615) 340-9715,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Feintool Tennessee,Brooke Kearney,brooke.kearney@feintool.com,2930 Old Franklin Road,,Antioch,TN,USA,37013,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Feintool Tennessee,Tara Hollingsworth,Tara.Hollingsworth@feintool.com,2930 Old Franklin Road,,Antioch,TN,USA,37013,,615 471 9784,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Feintool Tennessee,Mechelle Roberts,mechelle.roberts@feintool.com,2930 Old Franklin Road,,Antioch,TN,USA,37013,,615-471-9740,615 641 7995,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Fifth+Broadway (Brookfield Properties),Collin Guidry,collin.guidry@brookfieldproperties.com,"5036 Broadway Place, Suite 216",,Nashville,TN,USA,37203,,615.823.2630,,"paid by Oliver McMillan Spectrum Emery, LLC",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Fifth+Broadway (Brookfield Properties),Jacee Bacon,jacee.bacon@brookfieldproperties.com,"5036 Broadway Place, Suite 216",,Nashville,TN,USA,37203,,,,"paid by Oliver McMillan Spectrum Emery, LLC",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Fifth+Broadway (Brookfield Properties),Casey Sullivan,csullivan@northwoodretail.com,"5036 Broadway Place, Suite 216",,Nashville,TN,USA,37203,,615.823.2421,,"paid by Oliver McMillan Spectrum Emery, LLC",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,FREEMAN WEBB,Betsy Chandler,betsy.chandler@fwcrcre.com,3810 Bedford Ave,,Nashville,TN,USA,37215,,,,"vendorcafe.com
+UN:  bbandy@earthsavers.org or v0001439
+PW: VC!esBB2021 or es!BB2002",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,FREEMAN WEBB,Christy Chapman,christy.chapman@fwcrcre.com,3810 Bedford Ave,,Nashville,TN,USA,37215,,615.255.1231 ext. 111,,"vendorcafe.com
+UN:  bbandy@earthsavers.org or v0001439
+PW: VC!esBB2021 or es!BB2002",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Frist Art Museum,Jean Martin,JMartin@fristartmuseum.org,919 Broadway,,Nashville,TN,USA,37203,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Gaylord - Grand Ole Opry,Mac Smith,Mac.Smith@opry.com,2804 OPRYLAND DR.,,Nashville,TN,USA,37214,,615.231.1536,615.305.8366,"old: Nikki Maynard  nmaynard@opry.com
+robin@wsmonline.com",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Gaylord - WSM Radio,,kmartin@rymanhp.com,2644  McGavock Pike,,Nashville,TN,USA,37214,,,,"stopped service for lack of need and past due invoices
+Sandy Liles
+:  sliles@gaylordentertainment.com",,3m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,1573,4200,3/1/2016,Active
+Secondary,George P. Johnson Experience Marketing,Trish Studer,Patricia.Studer@gpj.com,423 Liberator Lane,,Smyrna,TN,USA,37167,,615-768-3200,,"MON EOW
+
+ACH Online Payment:
+CEO Company ID:  CEOVSEWP
+User ID:  ESbiz19
+Password: ES!GPJ23
+
+Trading Partner ID:  878092",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,George P. Johnson Experience Marketing, ,gpjinvoice@gpj.com,423 Liberator Lane,,Smyrna,TN,USA,37167,,,,"MON EOW
+
+ACH Online Payment:
+CEO Company ID:  CEOVSEWP
+User ID:  ESbiz19
+Password: ES!GPJ23
+
+Trading Partner ID:  878092",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,George P. Johnson Experience Marketing,Serena Lack,Serena.Lack@gpj.com,423 Liberator Lane,,Smyrna,TN,USA,37167,,(615) 768-3109,(615) 542-0565,"MON EOW
+
+ACH Online Payment:
+CEO Company ID:  CEOVSEWP
+User ID:  ESbiz19
+Password: ES!GPJ23
+
+Trading Partner ID:  878092",,#N/A,cus_NEK1pgHGnlYMtX,src_1MTrN1KPS7KEOFbqGCSFH2AH,5476,2021,7,Visa,#N/A,#N/A,#N/A,#N/A
+Secondary,George P. Johnson Experience Marketing,accounts payable ,Accountspayable@gpj.com,423 Liberator Lane,,Smyrna,TN,USA,37167,,,,"MON EOW
+
+ACH Online Payment:
+CEO Company ID:  CEOVSEWP
+User ID:  ESbiz19
+Password: ES!GPJ23
+
+Trading Partner ID:  878092",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,GHP Environmental + Architecture & The Art Company,Jorge Arrieta - The Art Company,jorge@jorgearrieta.com,215 Fifth Avenue South,,Nashville,TN,USA,37219,,615-720-3031,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,GHP Environmental + Architecture & The Art Company, ,accountspayable@ghp1.com,215 Fifth Avenue South,,Nashville,TN,USA,37219,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Goodall Homes,Debbie Bladeoaks,debbie.bladeoaks@goodallhomes.com,"393 Maple Street, Suite 100",,Gallatin,TN,USA,37066,GV011,,,Adrian Davis 615-466-3116,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Goodall Homes,Mary Webb --Berry Hill Location,mary.webb@goodallhomes.com,"393 Maple Street, Suite 100",,Gallatin,TN,USA,37066,GV011,615-466-3142,615-294-0740,Adrian Davis 615-466-3116,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Goodall Homes,Mary Nolan,mnolan@goodallhomes.com,"393 Maple Street, Suite 100",,Gallatin,TN,USA,37066,GV011,615-466-3100,,Adrian Davis 615-466-3116,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Governor's Mansion,Bill Knight,william.knight@tn.gov,882 South Curtiswood Lane,,Nashville,TN,USA,37204,,629-215-2923,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Governor's Mansion,Hannah Salita,hannah.salita@tn.gov,882 South Curtiswood Lane,,Nashville,TN,USA,37204,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Greater Nashville Regional Council,Jovia King,jking@gnrc.org,"220 Athens Way, Suite 200",,Nashville,TN,USA,37228,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,HD Architects,Katherine Brown,katherine.brown@hdarchitects.com,205 17th Ave. N,,Nashville,TN,USA,37203,,,,"old:  Hereford Dooley Architects, LLC
+Marcia Hampton:  hamptonm@lddi-nash.com",,3m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,372,5263,3/1/2016,Active
+Secondary,HEI Schools Franklin,Nick Lupu,nicklupu7@gmail.com,621 Bradley Court,,Franklin,TN,USA,37067,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,HEI Schools Franklin,Raquel Bertaina,admin@heifranklin.com,621 Bradley Court,,Franklin,TN,USA,37067,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Henkel,Julie Chase,julie.chase@henkel.com,"6100 Tower Circle, Unit 380",,Franklin,TN,USA,37067,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,HireQuest Direct,Molly Walton,mwalton@hqdirect.com,535 Spence Lane,,Nashville,TN,USA,37210,,(615) 254-7444 ext. 180,(615) 593-2735,formerly: TROJAN LABOR,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Holcim (formerly Firestone Building Products),Accounts Payable ,askAP-hbe@holcim.com,"26 Century Blvd, Suite 205",,Nashville,TN,USA,37214,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Holcim (formerly Firestone Building Products),Sherrie MacWilliams,sherrie.macwilliams@holcim.com,"26 Century Blvd, Suite 205",,Nashville,TN,USA,37214,,714-608-1993,,,,3m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,1573,48551,6/1/2022,Active
+Secondary,"Inova Payroll, Inc",Audrey Rickle,arickle@inovapayroll.com,636 Grassmere Park #110,,Nashville,TN,USA,37211,,615.921.0632,615-921-0600,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Ironware,Lucy Langreck,lucy@ironwareinternational.com,2421 Cruzen Street,,Nashville,TN,USA,37211,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,JLL,Atlanta Facilities,Facilities-Atlanta@am.jll.com,"1801 West End Avenue, Suite 1100",,Nashville,TN,USA,37203,,,,,,3m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,658,5332,12/1/2018,Active
+Secondary,JLL,Shannon Quigley,ShannonL.Quigley@am.jll.com,"1801 West End Avenue, Suite 1100",,Nashville,TN,USA,37203,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,JLL,Gene Allen,gene.allen@am.jll.com,"1801 West End Avenue, Suite 1100",,Nashville,TN,USA,37203,,404.995.6383,678.392.0681,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,JOHN MCDOUGALL CO,Kelly Studer,kstuder@jwmcd.com,3731 Amy Lynn Dr,,Nashville,TN,USA,37218,,,,"Don Gahagan: dgahagan@jwmcd.com; info @ jwmcd.com
+thowell @ jwmcd.com",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,JOHN MCDOUGALL CO,Don Gahagan,dgahagan@jwmcd.com,3731 Amy Lynn Dr,,Nashville,TN,USA,37218,,,,"Don Gahagan: dgahagan@jwmcd.com; info @ jwmcd.com
+thowell @ jwmcd.com",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,JOHN MCDOUGALL CO,Accounts Payable,accountspayable@jwmcd.com,3731 Amy Lynn Dr,,Nashville,TN,USA,37218,,,,"Don Gahagan: dgahagan@jwmcd.com; info @ jwmcd.com
+thowell @ jwmcd.com",,3m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,257,5201,3/1/2016,Active
+Secondary,JOHN MCDOUGALL CO,Michelle Craven,mcraven@jwmcd.com,3731 Amy Lynn Dr,,Nashville,TN,USA,37218,,615-301-0772,,"Don Gahagan: dgahagan@jwmcd.com; info @ jwmcd.com
+thowell @ jwmcd.com",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,JONES CO. OF TENNESSEE,Joy Kilpatrick,jkilpatrick@livejones.com,1221 LIBERTY PK,,Franklin,TN,USA,37067,,615-595-5466,,receptionist@livejones.com,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,"KAY GRIFFIN ENKEMA & COLBERT, PLLC", ,frontdesk@kaygriffin.com,222  2ND AVE N,Suite 340,Nashville,TN,USA,37201,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,KCI TECHNOLOGIES INC.,Princess Raines,princess.raine@kci.com,"500 11th Avenue North, Suite 290",,Nashville,TN,USA,37203,,629.204.5054,615.370.8410,,,3m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,415,36268,9/1/2019,Active
+Secondary,KCI TECHNOLOGIES INC.,,AP@kci.com,"500 11th Avenue North, Suite 290",,Nashville,TN,USA,37203,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,"KRAFT CPAS, PLLC (Freeman Webb - Triple Five)",Shawn Jones,sjones@kraftcpas.com,555 Great Circle Rd,,Nashville,TN,USA,37228,,615-708-9518,615-782-4234,"vendorcafe.com
+UN:  bbandy@earthsavers.org
+PW: VC!esBB2021",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Kroger-895,Nashville Operations Group ,NashvilleOPS@kroger.com,2620 Elm Hill Pike,,Nashville,TN,USA,37214,,,,"supplier.kroger.com:â€ƒâ€ƒ* User Name: BBANDY@E ARTHSAVERS.ORG 
+â€ƒâ€ƒ* Password: He1*B652C",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Kroger-895,Justin Webb,justin.webb@kroger.com,2620 Elm Hill Pike,,Nashville,TN,USA,37214,,615-871-2518,615-310-2397,"supplier.kroger.com:â€ƒâ€ƒ* User Name: BBANDY@E ARTHSAVERS.ORG 
+â€ƒâ€ƒ* Password: He1*B652C",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,"LeVAN, SPRADER, PATTON & PLYMIRE",Chris Jones,cjones@lsplaw.net,"109 Westpark Drive, Suite 220",,Brentwood,TN,USA,37027,,,,"old: 201 Fourth Avenue North, Suite 1500 37219",,#N/A,cus_NEK0dz7CJT1a2L,src_1MTrMjKPS7KEOFbqPZ6CmSZD,2037,2027,3,MasterCard,#N/A,#N/A,#N/A,#N/A
+Secondary,LKQ Corporation,Todd Collier,mtcollier@LKQCORP.com,5846 Crossings Blvd,,Antioch,TN,USA,37013,,,,moved DEC18 from: 655 Grassmere Park Dr,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,LKQ Corporation,Wanda Sweeney,wjsweeney@lkqcorp.com,5846 Crossings Blvd,,Antioch,TN,USA,37013,,615-781-5245,,moved DEC18 from: 655 Grassmere Park Dr,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Marbaloo,AP ,accounting@marbaloo.com,"401 Church St, Suite 300",,Nashville,TN,USA,37219,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Marubeni Itochu Steel America,Sareeah Givens,givens-s@us.benichu.com,15 Century Blvd,Suite 500,Nashville,TN,USA,37214,,615-514-8448,,"Julie Hows:  hows-j@us.benichu.com
+borrorb@misa.com
+old:  Brook Meador: Meador-b@us.benichu.com",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Marubeni Itochu Steel America,Accounts Payable ,Howell-a@us.benichu.com,15 Century Blvd,Suite 500,Nashville,TN,USA,37214,,,,"Julie Hows:  hows-j@us.benichu.com
+borrorb@misa.com
+old:  Brook Meador: Meador-b@us.benichu.com",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,MCNEELY PIGOTT & FOX, Accounts Payable,AdminPO@mpf.com,611 COMMERCE ST,SUITE 3000,Nashville,TN,USA,37203,,615.259.4000,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,MILLENIUM MAXWELL HOUSE HOTEL,Wanda Gunter,wanda.gunter@millenniumhotels.com,2025 Rosa L Parks Blvd,,Nashville,TN,USA,37228,,615.259.4343 ext 1291,,"nashville@millenniumhotels.com
+old:  pat.miller@mill-usa.com
+
+Pat 615-313-1359 or 615-313-4359",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,NASBA,Meritta Grant,ap@nasba.org,150 4TH AVE N,SUITE 1050,Nashville,TN,USA,37219,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,NASBA,Virginia Moore,vmoore@nasba.org,150 4TH AVE N,SUITE 1050,Nashville,TN,USA,37219,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Nashville Area Chamber of Commerce, ,ap@nashvillechamber.com,"500 11thAvenue North, Suite 200",,Nashville,TN,USA,37203,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Nashville Sounds,Jeremy Wells,JeremyW@nashvillesounds.com,19 Junior Gilliam Way,,Nashville,TN,USA,37219,GV024,985-630-2165,,on call; 4 YARD-BAGS,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Nashville Sounds,Doug Scopel,DougS@nashvillesounds.com,19 Junior Gilliam Way,,Nashville,TN,USA,37219,GV024,615-515-1139,615-429-9670,on call; 4 YARD-BAGS,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Nashville Veterinary Specialists,Jenny Lopez,jlopez@nashvillevetspecialists.com,2971 Sidco Drive,,Nashville,TN,USA,37204,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,"North, Pursell, & Ramos, P.L.C.",Beverly Keane,bkeane@nprattorneys.com,Bank of America Plaza,"414 Union Street, Suite 1850",Nashville,TN,USA,37219,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,NTT DATA Nashville,Briant Grant,Briant.Grant@nttdata.com,500 11th Avenue North,,Nashville,TN,USA,37203,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,NTT DATA Nashville,Ms. Peyton Williams,peyton.williams@nttdata.com,500 11th Avenue North,,Nashville,TN,USA,37203,,337.224.4203,,,,#N/A,cus_NEK1camQ33z5PH,src_1MTrNIKPS7KEOFbqWf71MWrU,1002,2026,3,American Express,#N/A,#N/A,#N/A,#N/A
+Secondary,OBP Agency,Accounts Payable ,accountspayable@paramoredigital.com,500 Church Street,Suite 500,Nashville,TN,USA,37219,,,,"formerly: osborn barr
+PARAMORE, the digital agency",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,OBP Agency,Kim Rafferty,kim.rafferty@osbornbarr.us,500 Church Street,Suite 500,Nashville,TN,USA,37219,,,,"formerly: osborn barr
+PARAMORE, the digital agency",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,OBP Agency,Fred Thacker,fred.thacker@obpagency.com,500 Church Street,Suite 500,Nashville,TN,USA,37219,,(314) 378-7256,,"formerly: osborn barr
+PARAMORE, the digital agency",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Office Resources Inc,Trevor Grady,tgrady@oriusa.com,4020 Armory Oaks Drive,,Nashville,TN,USA,37204,,(502) 536-0381,,truck entry: 2985 Sidco Drive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Office Resources Inc,Chris Ivey,civey@oriusa.com,4020 Armory Oaks Drive,,Nashville,TN,USA,37204,,,,truck entry: 2985 Sidco Drive,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Olympus Midtown (bm333),Antwoine Gilbert,antwione.gilbert@olympusproperty.com,PO BOX 4697,,Logan,UT,USA,84323,GV026,615-810-8819,,"Service Location: 1700 State Street, 37203",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Olympus Midtown (bm333), ,midtown@bellpartnersinc.com,PO BOX 4697,,Logan,UT,USA,84323,GV026,,,"Service Location: 1700 State Street, 37203",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Olympus Midtown (bm333),Kimberly Haworth,kimberly.haworth@olympusproperty.com,PO BOX 4697,,Logan,UT,USA,84323,GV026,,,"Service Location: 1700 State Street, 37203",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Olympus Midtown (bm333),John Carlo Floren,jfloren@conservice.com,PO BOX 4697,,Logan,UT,USA,84323,GV026,(435)296-5929,,"Service Location: 1700 State Street, 37203",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Olympus Midtown (bm333),,synergyebill500@conservice.com,PO BOX 4697,,Logan,UT,USA,84323,GV026,,,"Service Location: 1700 State Street, 37203",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Olympus Midtown (bm333),Amit Mehta,amehta1@wm.com,PO BOX 4697,,Logan,UT,USA,84323,GV026,,,"Service Location: 1700 State Street, 37203",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Olympus Midtown (bm333),Accounts Payable ,WMSBSCurrMonthInv@wm.com,PO BOX 4697,,Logan,UT,USA,84323,GV026,,,"Service Location: 1700 State Street, 37203",,3m,cus_NEK10X4ypxOioY,src_1MTrN8KPS7KEOFbqLCVLgtkj,5443,2025,6,MasterCard,3432,3321,11/1/2021,Active
+Secondary,Parman Tractor and Equipment,Accounts Payable ,mbaker@parmancorp.com,3570 Dickerson Pike,,Nashville,TN,USA,37207,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,PATHWAY LENDING (Southeast Community Capital Corp), ,accountspayable@pathwaylending.org,201 VENTURE CIRCLE,,Nashville,TN,USA,37228,,,615-425-7171,Lori.rochelle@pathlending.org,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,PEPSICO Downtown Office,Carrie Sprintz,carrie.sprintz@pepsico.com,401 COMMERCE ST.,SUITE 3200,Nashville,TN,USA,37219,,214-616-1029,,old: mike.wooden@pepsico.com,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Pfeffer Torode Architecture,Rachel Stevens,accounting@pfeffertorode.com,921 B Woodland Street,"9 South 9th Street, Suite 3-4",Nashville,TN,USA,37206,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Pfeffer Torode Architecture,Ms. Fuller Hanan,Fuller@pfeffertorode.com,921 B Woodland Street,"9 South 9th Street, Suite 3-4",Nashville,TN,USA,37206,,615  667  0808  x1717,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Pinnacle Dermatology (QualDerm),Accounts Payable ,accountspayable@qualderm.com,24 White Bridge Road,,Nashville,TN,USA,37205,,,,old: SkinMD,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Pinnacle Dermatology (QualDerm),Suzanne Nation,Suzanne.Nation@qualderm.com,24 White Bridge Road,,Nashville,TN,USA,37205,,,,old: SkinMD,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Pinnacle Dermatology (QualDerm),Ashley Johnson,Ashley.Johnson@qualderm.com,24 White Bridge Road,,Nashville,TN,USA,37205,,,,old: SkinMD,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Premise Health-1,Melody Garland,Ap.Corp@premisehealth.com,5500 MARYLAND WAY,,Nashville,TN,USA,37027,,615-577-5854,,"ap.help@premisehealth.com
+Take Care Payables",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Premise Health-1,Matt Liddle - Facilities Coordinator,Matt.Liddle@PremiseHealth.com,5500 MARYLAND WAY,,Nashville,TN,USA,37027,,(615) 577-4928,(916) 521-5450,"ap.help@premisehealth.com
+Take Care Payables",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Premise Health-1,Melody Garland,melody.garland@premisehealth.com,5500 MARYLAND WAY,,Nashville,TN,USA,37027,,,,"ap.help@premisehealth.com
+Take Care Payables",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,"PRICE CPAS, PLLC",Kristy Howard,accounting@fridrichrealtors.com,3825 BEDFORD AVE,STE 101,Nashville,TN,USA,37215,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,"PRICE CPAS, PLLC",Emily Burden,emily@pricecpas.com,3825 BEDFORD AVE,STE 101,Nashville,TN,USA,37215,,615-385-0686,(615) 577-9688,,,3m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,415,4782,3/1/2016,Active
+Secondary,Prisma Nashville LLC, ,apnashville@poweredbyprisma.com,2947 Brick Church Pike,,Nashville,TN,USA,37207,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Prisma Nashville LLC,Angela Hart,ahart@poweredbyprisma.com,2947 Brick Church Pike,,Nashville,TN,USA,37207,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,RAMBOLL,Nina Barber,ncbarber@ramboll.com,201 SUMMIT VIEW DR,STE 300,Nashville,TN,USA,,,703-516-2306,,Formerly Environ,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,RAMBOLL,PDF to Accounts Payable ,US169_vendor@ramboll.com,201 SUMMIT VIEW DR,STE 300,Nashville,TN,USA,,,,,Formerly Environ,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,RCCH Healthcare Partners,Joanna Fowler,joanna.fowler@rcchhealth.com,103 Continental Place,,Brentwood,TN,USA,3027,,(615) 846-1910,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Red Cedar Glen (paid by bill.com),Michelle Hale,mhale@redcdearglen.org,202 Walton Ferry Road,,Hendersonville,TN,USA,37075,GV029,615-822-7520,,"Weekly-Thurs Hville;  2 96 Gallon
+
+Submit PDF invoices to:
+https://login.us.bill.com
+
+PW:  bbandy@eathsavers.org
+UN: BILL!esBB2002",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Renasant Bank,Bob Mueller,BMueller@renasant.com,9135 Carothers Parkway,,Franklin,TN,USA,37067,,,,,,3m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,350,8109,6/1/2016,Active
+Secondary,Renasant Bank, ,ap@renasant.com,9135 Carothers Parkway,,Franklin,TN,USA,37067,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,"Restaurant Growth Services, LLC (ABRH)",Accounts Payable ,APinvoices@abrholdings.com,3038 SIDCO DR,,Nashville,TN,USA,37204,,,,former name:  American Blue Ribbon Holdings,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,RFD TV,Katie Farritor,katie@rfdtv.com,49 Music Square West,,Nashville,TN,USA,37203,GV031,615.296-9354,,"Abe Goolsby abe@rfdtv.com
+Call Jamie 615-545-6022 to enter",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Rodem Process,Pam Wolinski,pwolinski@rodem.com,Attn:457 7100-03-01,136 Commerce Drive,Hendersonville,TN,USA,37075,GV033,615-824-8812,,Blue-Thur-Hville;  96 gal,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Rodem Process,David Winter Winter,DWinter@rodem.com,Attn:457 7100-03-01,136 Commerce Drive,Hendersonville,TN,USA,37075,GV033,(800) 362-7339 Opt.2,(615) 767-3044,Blue-Thur-Hville;  96 gal,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Rolf and Daughters-Waste Connections,Ashlie Robinson,ashlie.robinson@wasteconnections.com,922 Lebanon Pike,,Nashville,TN,USA,37210,GV034,,,Nathalie.Ferrell@wasteconnections.com; Weekly-Mon;  4-96-waste connections,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Rolf and Daughters-Waste Connections,Brittney Carr,brittney.carr@wasteconnections.com,922 Lebanon Pike,,Nashville,TN,USA,37210,GV034,,,Nathalie.Ferrell@wasteconnections.com; Weekly-Mon;  4-96-waste connections,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Rolf and Daughters-Waste Connections,Lisa Batey,lisa.batey@wasteconnections.com,922 Lebanon Pike,,Nashville,TN,USA,37210,GV034,931-552-3010,,Nathalie.Ferrell@wasteconnections.com; Weekly-Mon;  4-96-waste connections,,#N/A,cus_NEK1Hh2aGKfHhz,src_1MTrN6KPS7KEOFbq6NReg1tU,9249,2024,6,Visa,#N/A,#N/A,#N/A,#N/A
+Secondary,Rolf and Daughters-Waste Connections,Nathalie Ferrell,Nathalie.Ferrell@wasteconnections.com,922 Lebanon Pike,,Nashville,TN,USA,37210,GV034,,,Nathalie.Ferrell@wasteconnections.com; Weekly-Mon;  4-96-waste connections,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Rolf and Daughters-Waste Connections,John Embler,john.embler@wasteconnections.com,922 Lebanon Pike,,Nashville,TN,USA,37210,GV034,,,Nathalie.Ferrell@wasteconnections.com; Weekly-Mon;  4-96-waste connections,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,S&ME Inc.,Kathy Banker,kbanker@smeinc.com,658 Grassmere Park Drive,Suite 100,Nashville,TN,USA,37211,,(615) 385-4144,(615) 473-7387,"old location #1:  1935 21ST AVE S
+Location #2 ended service OCT18
+old name: LITTLEJOHN  ENGINEERING ASSOC
+VAUGSPURGER@LEAINC.COM",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,S&ME Inc.,Stan Thornton,SThornton@smeinc.com,658 Grassmere Park Drive,Suite 100,Nashville,TN,USA,37211,,,,"old location #1:  1935 21ST AVE S
+Location #2 ended service OCT18
+old name: LITTLEJOHN  ENGINEERING ASSOC
+VAUGSPURGER@LEAINC.COM",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,SB# 10172--COOL SPRINGS, ,WEMBills.impact@engie.com,9175 CAROTHERS PKWY,,Franklin,TN,USA,37067,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,SB# 10172--COOL SPRINGS,,carisse.supan@engie.com,9175 CAROTHERS PKWY,,Franklin,TN,USA,37067,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,SB# 10646--GALLATIN, ,WEMBills.impact@engie.com,875 NASHVILLE PK,,Gallatin,TN,USA,37066,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,SB# 10646--GALLATIN,,carisse.supan@engie.com,875 NASHVILLE PK,,Gallatin,TN,USA,37066,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,SB# 11204-METRO CENTER, ,WEMBills.impact@engie.com,515 DOMINICAN DR,,Nashville,TN,USA,37228,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,SB# 11204-METRO CENTER,,carisse.supan@engie.com,515 DOMINICAN DR,,Nashville,TN,USA,37228,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,SB# 11294--HERMITAGE, ,WEMBills.impact@engie.com,5008 OLD HICKORY BLVD,,Hermitage,TN,USA,37076,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,SB# 11294--HERMITAGE,,carisse.supan@engie.com,5008 OLD HICKORY BLVD,,Hermitage,TN,USA,37076,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,SB# 8338-BRENTWOOD, ,WEMBills.impact@engie.com,269 FRANKLIN RD,,Brentwood,TN,USA,37027,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,SB# 8338-BRENTWOOD,,carisse.supan@engie.com,269 FRANKLIN RD,,Brentwood,TN,USA,37027,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,SB# 8349-COOL SPRINGS, ,WEMBills.impact@engie.com,555 COOL SPRINGS BLVD,,Franklin,TN,USA,37067,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,SB# 8349-COOL SPRINGS,,carisse.supan@engie.com,555 COOL SPRINGS BLVD,,Franklin,TN,USA,37067,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,SB# 8403-BELLE MEADE 2, ,WEMBills.impact@engie.com,4512 HARDING RD,,Nashville,TN,USA,37205,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,SB# 8403-BELLE MEADE 2,,vitoria.denny@external.engie.com,4512 HARDING RD,,Nashville,TN,USA,37205,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,SB# 8403-BELLE MEADE 2,,carisse.supan@engie.com,4512 HARDING RD,,Nashville,TN,USA,37205,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,SB# 8477-FRANKLIN HWY 96, ,WEMBills.impact@engie.com,204 S ROYAL OAKS BLVD,,Franklin,TN,USA,37064,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,SB# 9778-MARYLAND FARMS, ,WEMBills.impact@engie.com,198 WESTPARK DR,,Brentwood,TN,USA,37027,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,SB# 9778-MARYLAND FARMS,,carisse.supan@engie.com,198 WESTPARK DR,,Brentwood,TN,USA,37027,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,SB# 9779-ANTIOCH, ,WEMBills.impact@engie.com,2308 MURFREESBORO RD,,Nashville,TN,USA,37217,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,SB# 9779-ANTIOCH,,carisse.supan@engie.com,2308 MURFREESBORO RD,,Nashville,TN,USA,37217,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,SB# 9781-WEST END AVE, ,WEMBills.impact@engie.com,3003 WEST END AVE,,Nashville,TN,USA,37203,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,SB# 9781-WEST END AVE,,carisse.supan@engie.com,3003 WEST END AVE,,Nashville,TN,USA,37203,,,,Old contact (still there): Jennifer.Ball@engie.com; (509) 329-7919,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Slumerican Clothing and Apparel,Jacque Staebell - Accounts Payable,Jacque@moyerco.com,"1831 12th Avenue South, Suite 132",,Nashville,TN,USA,37203,,423.834.2333,,Weekly/$46,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Slumerican Clothing and Apparel, ,accounting@slumerican.com,"1831 12th Avenue South, Suite 132",,Nashville,TN,USA,37203,,,,Weekly/$46,,3m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,715,46449,9/1/2022,Active
+Secondary,Smile Direct Club,Mary Esclavon,Mary.Esclavon@smiledirectclub.com,"414 Union St, 8th Floor",,Nashville,TN,USA,37219,,615.601.3523 ext 7000,850.490.0610,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Smile Direct Club,Derek Duessing,Derek.Duessing@smiledirectclub.com,"414 Union St, 8th Floor",,Nashville,TN,USA,37219,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Smile Direct Club, ,payables@smiledirectclub.com,"414 Union St, 8th Floor",,Nashville,TN,USA,37219,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,SOUTHERN MIGRANT LEGAL SERVICES,Marco Perez,mperez@trla.org,301 S. Texas Avenue,,Mercedes,TX,USA,78750,,,,"stopped AUG 21; resumed May 22
+DinaGuardado@trla.org",,3m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,286,48601,6/1/2022,Active
+Secondary,SOUTHERN MIGRANT LEGAL SERVICES,Dina Guardado,Dinaguardado@trla.org,301 S. Texas Avenue,,Mercedes,TX,USA,78750,,615-538-0725,,"stopped AUG 21; resumed May 22
+DinaGuardado@trla.org",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,St. Bartholomew's Episcopal Church,Teresa Robinson,trobinson@stbs.net,4800 Belmont Park Terrace,,Nashville,TN,USA,37215,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,St. Bernard Academy,Jen Wimberley,jenhelmwimberley@gmail.com,2304 Bernard Avenue,,Nashville,TN,USA,37212,,615-390-1244,,,,#N/A,cus_NEK0cRovb2cTv4,src_1MTrMrKPS7KEOFbqrg5cheoy,6105,2025,11,Visa,#N/A,#N/A,#N/A,#N/A
+Secondary,Stream Realty Property Management (Health Care Navigator),Matt Horwitz,mhorwitz@hcnavigator.net,601 11th Avenue North Suite 900,,Nashville,TN,USA,37203,,615-208-7270,,formerly Apricity Resources (rholliday@apricityresources.com),,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Stream Realty Property Management (Health Care Navigator),Nicole Thomas,NiThomas@hcnavigator.net,601 11th Avenue North Suite 900,,Nashville,TN,USA,37203,,615.600.3526,615.428.7859,formerly Apricity Resources (rholliday@apricityresources.com),,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,SVMIC,Alissa Kalish,alissak@svmic.com,"5005 MARYLAND WAY, Suite 300",,Brentwood,TN,USA,37027,9398,615-846-8252,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,SWVP-NY P45 TOWER ONE LLC c/o CBRE,Accounts Payable PDF Invoices HERE,REASInvoiceRegular@cbre.com,BB#P4-2618NYTW1,PO Box 2147,Warren,MI,USA,48090-2147,Amazon Operations Center,,,"cbre.vendorcafe.com
+
+UN: bbandy@earthsavers.org
+PW: es!BB2002",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,TBN (Trinity Broadcasting Network),Becky Bustin,bbustin@tbn.tv,1 Music Village Blvd,,Hendersonville,TN,USA,37075,GV041,615-431-3509,,Blue-Thur-Hville;  3-96 gal-belong to them,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Tennessee Historical Commission, ,accounts.payable@TN.gov,2941 Lebanon Pike,,Nashville,TN,USA,37214,,615313-5511,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,TENNESSEE HOSPITAL ASSOCATION,Carol Darnell,cdarnell@tha.com,5201 Virginia Way,,Brentwood,TN,USA,37027,,6154017428,615.401.7401,"contact:
+ Carol Darnell :  615-401-7401",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Tennessee Orthopaedic Alliance, ,accountspayable@toa.com,608 Norris Ave,,Nashville,TN,USA,37204,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Tennessee Orthopaedic Alliance,Pearlie Williams,williamspm@toa.com,608 Norris Ave,,Nashville,TN,USA,37204,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Tennessee Orthopaedic Alliance,Pearlie Williams,AccountsPayable@TOA.COM,608 Norris Ave,,Nashville,TN,USA,37204,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,TENNESSEE STEEL HAULERS ONE,Kaitlyn Hergert,kaitlyn.hergert@tenh.com,607 BRICK CHURCK PIKE,,Nashville,TN,USA,37207,,615-271-2433,,old: debbie.warren@tenh.com,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,The Nashville Food Project,Christen Harper,christen@thenashvillefoodproject.org,,5904 California Ave,Nashville,TN,USA,37209,GV044,,,Weekly-Mon;  2-96g,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,The Southern Steak and Oyster Restaurant,TomKats Hospitality ,Andrea@tomkats.com,150 3rd Ave South,Suite 110,Nashville,TN,USA,37201,,,,TomKats Hospitality,,3m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,300,5179,3/1/2016,Active
+Secondary,The Southern Steak and Oyster Restaurant,Accounts Payable,accounting@thesouthernnashville.com,150 3rd Ave South,Suite 110,Nashville,TN,USA,37201,,,,TomKats Hospitality,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,The Southern Steak and Oyster Restaurant,Amy Seeley,aseeley@dinestrategy.com,150 3rd Ave South,Suite 110,Nashville,TN,USA,37201,,,,TomKats Hospitality,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Thomas & Hutton,Molly Collins,collins.m@thomasandhutton.com,"500 11th Ave. North, Suite 800",,Nashville,TN,USA,37203,,,,"old: 615 Main Street, Suite 124; moved JUN23",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Thomas & Hutton,KELLI EXLEY,exley.k@tandh.com,"500 11th Ave. North, Suite 800",,Nashville,TN,USA,37203,,912-721-4150,,"old: 615 Main Street, Suite 124; moved JUN23",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Thompson Burton PLLC,Kendall Lewis,kendall@thompsonburton.com,"1801 West End Avenue, Suite 1550",,Nashville,TN,USA,37203,,615-465-6000,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,TRC WorldWide Engineering,Becky Gutierrez,BGutierrez@trcww.com,217 Ward Cir,,Brentwood,TN,USA,37027,,615-661-1149,,,,#N/A,cus_NEK1JYGFTHCB3p,src_1MTrNLKPS7KEOFbqubB8WIpF,980,2023,5,Visa,#N/A,#N/A,#N/A,#N/A
+Secondary,TRC WorldWide Engineering,,Sujatha.Ramanna@trcww.com,217 Ward Cir,,Brentwood,TN,USA,37027,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Turner Co-Grassmere Park,Starr Joiner -Accounts Payable',stjoiner@tcco.com,C/O Grassmere Park Location,245 Finney Dr SW,Huntsville,TN,USA,35824,GV046,,,BLUE-Mon;  96g,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Turner Co-Grassmere Park,Katie Broas,kbroas@tcco.com,C/O Grassmere Park Location,245 Finney Dr SW,Huntsville,TN,USA,35824,GV046,,,BLUE-Mon;  96g,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,TWB Company LLC,Lisa Carlton,lisa.carlton@twbcompany.com,PO Box 1205,,Pico Rivers,CA,USA,90660,,734-289-6508,,"OLD:  Apadvantage.twbus@WSS.PNC.COM
+         twbinvoices@iqbackoffice.com",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,TWB Company LLC,Accounts Payable ,TWBUS@wipayables.com,PO Box 1205,,Pico Rivers,CA,USA,90660,,,,"OLD:  Apadvantage.twbus@WSS.PNC.COM
+         twbinvoices@iqbackoffice.com",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,TWB Company LLC,Payment Inquiries ,APTWB@worthingtonindustries.com,PO Box 1205,,Pico Rivers,CA,USA,90660,,,,"OLD:  Apadvantage.twbus@WSS.PNC.COM
+         twbinvoices@iqbackoffice.com",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,TWB Company LLC,James Cole,james.cole@twbcompany.com,PO Box 1205,,Pico Rivers,CA,USA,90660,,615.280.5456,910.364.3372,"OLD:  Apadvantage.twbus@WSS.PNC.COM
+         twbinvoices@iqbackoffice.com",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,VANDERBILT CRYSTAL TERRACE,David Banks,david.banks@vumc.org,3319 WEST END,,Nashville,TN,USA,37203,,615-936-8584,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,VANDERBILT HealthIT ONE,Kevin Ward,kevin.ward@Vanderbilt.edu,3401 WEST END AVENUE,,Nashville,TN,USA,37203,,,,"reduced service to only Suite 500 NOV22
+kevin.ward@Vanderbilt.edu;   Nanda Mineo: nanda.mineo@Vanderbilt.Edu
+615-322-1803",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,VANDERBILT HealthIT ONE,Nanda Mineo,Nanda.mineo@vanderbilt.edu,3401 WEST END AVENUE,,Nashville,TN,USA,37203,,615-322-1803,,"reduced service to only Suite 500 NOV22
+kevin.ward@Vanderbilt.edu;   Nanda Mineo: nanda.mineo@Vanderbilt.Edu
+615-322-1803",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,VANDERBILT HealthIT ONE,Accounts Payable ,HealthIT.Invoices@vumc.org,3401 WEST END AVENUE,,Nashville,TN,USA,37203,,,,"reduced service to only Suite 500 NOV22
+kevin.ward@Vanderbilt.edu;   Nanda Mineo: nanda.mineo@Vanderbilt.Edu
+615-322-1803",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,VANDERBILT HealthIT ONE,Kim Cummings -Sr Financial Manager,kimberly.cummings@vumc.org,3401 WEST END AVENUE,,Nashville,TN,USA,37203,,615-322-8602,,"reduced service to only Suite 500 NOV22
+kevin.ward@Vanderbilt.edu;   Nanda Mineo: nanda.mineo@Vanderbilt.Edu
+615-322-1803",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,VANDERBILT HealthIT ONE,Renee McCrary,renee.mccrary@vumc.org,3401 WEST END AVENUE,,Nashville,TN,USA,37203,,,,"reduced service to only Suite 500 NOV22
+kevin.ward@Vanderbilt.edu;   Nanda Mineo: nanda.mineo@Vanderbilt.Edu
+615-322-1803",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Vanderbilt Strategic Marketing,Steve Sanders,steven.a.sanders@vumc.org,"3401 West End Ave, Suite 470W",,Nashville,TN,USA,37203,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Vanderbilt Strategic Marketing,Emma MacCurdy,emma.b.maccurdy@vumc.org,"3401 West End Ave, Suite 470W",,Nashville,TN,USA,37203,,(615) 936-8041,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Vanderbilt Strategy & Innovation,Steven Weissenburger,s.weissenburger@vumc.org,"3401 West End Ave, Suite 290",,Nashville,TN,USA,37203,,615-875-8403,,old contact: karen.m.davis@vanderbilt.edu,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Vanderbilt-Research Application Development Systems,Janelle Thompson,Janelle.Thompson@vumc.org,3401 West End Avenue Suite 305,,Nashville,TN,USA,,,615-322-2231,,VUMC-Research Application Development Systems,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Velocis Station 40 Apartments  SPE LLC,Conservice AP Dept ,synergyebill2@conservice.com,c/o Conservice,PO Box 4697,Logan,UT,USA,84323,,,,payments come from: Synergy Holdings,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Velocis Station 40 Apartments  SPE LLC,Broc Pitcher,bpitcher@conservice.com,c/o Conservice,PO Box 4697,Logan,UT,USA,84323,,847-374-2731,,payments come from: Synergy Holdings,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Velocis Station 40 Apartments  SPE LLC,Cristian Ardiano,cristianardiano@conservice.com,c/o Conservice,PO Box 4697,Logan,UT,USA,84323,,,,payments come from: Synergy Holdings,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Velocis Station 40 Apartments  SPE LLC,Shurie Bailey,sbailey@conservice.com,c/o Conservice,PO Box 4697,Logan,UT,USA,84323,,435-716-7219,,payments come from: Synergy Holdings,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Velocis Station 40 Apartments  SPE LLC,Account Broker,synergybroker@conservice.com,c/o Conservice,PO Box 4697,Logan,UT,USA,84323,,,,payments come from: Synergy Holdings,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Velocity Risk Underwriters,Whitney Harris,wharris@velocityrisk.com.,10 Burton Hills Blvd. Suite 300,,Nashville,TN,USA,37215,,,,"old:  20 Burton Hills Blvd. Suite 350
+old: 3835 Cleghorn Avenue, Suite 200B, 37215",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,WSP USA,Beth Polca,beth.polca@wsp.com,216 Centerview Drive,Suite 300,Nashville,TN,USA,37027,,(615) 981-8396,,"stopped JUN23; resume AUG23 at new location
+formerly Parsons Brinckerhoff",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,"WYLIE STEEL FABRICATORS, INC.", ,accounting@wyliesteel.com,"508 Autumn Springs Court, Suite 1E",,Franklin,TN,USA,37067,,615-373-2875,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,ZYCRON INC. (BG Staffing),Rochelle Taylor,rtaylor@zycron.com,413 Welshwood,,Nashville,TN,USA,37211,,615.294.2519,,"Use this for invoices:  ap@bgsf.com (mar 1, 21 email)",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Acceptance Insurance-ONE,Kanetra Burton-Ashe,KBurton-Ashe@acceptance.com,3813 & 3841 Green Hills Village Drive,,Nashville,TN,USA,37215,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Beech High School Environmental Club,Makenzie Rankin Rankin,makenzie.rankin@sumnerschools.org,3126 Long Hollow Pike,,Hendersonville,TN,USA,37075,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,STANFORD PLACE HOA, ,ap@hndllc.com,216 Centerview Drive,Suite 100,Brentwood,TN,USA,37027,,,,"old management contact: 
+nashvilleacct@sentrymgt.com Reene Russell
+clarkn@realtracs.com 615-255-2703",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Secondary,Trevecca Community Church of the Nazarene,Debbie Koon,dkoon@trevecca.church,335 Murfreesboro Pike,,Nashville,TN,USA,37210,,615-244-5918 ext. 224,,,,3m,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,372,36654,12/1/2019,Active
+Secondary,Velocity Risk Underwriters,Leilany Loving,lloving@velocityrisk.com,10 Burton Hills Blvd. Suite 300,,Nashville,TN,USA,37215,,615.219.0379,,"old:  20 Burton Hills Blvd. Suite 350
+old: 3835 Cleghorn Avenue, Suite 200B, 37215",,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A

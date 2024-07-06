@@ -1,0 +1,571 @@
+
+<?php
+function es_write_log($message) {
+	if(is_array($message)) {
+		$message = json_encode($message);
+	}
+	$file = fopen(ES_PLUGIN_PATH . "/log/custom_log.log","a");
+	echo fwrite($file, "\n" . date('Y-m-d h:i:s') . " :: " . $message);
+	fclose($file);
+}
+
+if(isset($_POST['import_products'])){
+	global $wpdb;
+
+	$file_name = sanitize_file_name($_FILES['file_import_product']['name']);
+	$file_tmp = sanitize_text_field($_FILES['file_import_product']['tmp_name']);
+	move_uploaded_file($file_tmp, ES_PLUGIN_PATH . 'uploads/' . $file_name );
+
+	if (($handle = fopen(ES_PLUGIN_PATH . 'uploads/' . $file_name, "r")) !== FALSE) {
+		$cont=0;
+		$current_primary_account = 0;
+		while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
+			if($cont === 0){ $cont++; continue; }
+
+			if('' != trim($data[0]) && '' != trim($data[2]) && '' != trim($data[1])){
+
+				$invoice_id = trim($data[0]);
+				$email = trim($data[1]);
+				$name = trim($data[2]);
+				$cost = floatval(trim($data[3]));
+				$qty = floatval(trim($data[4]));
+				$order_ids = $wpdb->get_results( "SELECT * from wp_bxcl_postmeta where meta_key = 'es_invoice_id' AND meta_value = '$invoice_id' AND post_id > 27929 ORDER BY post_id"  );
+
+				if(count($order_ids) == 2){
+
+					if(wcs_get_subscription($order_ids[1]->post_id) && intval($order_ids[1]->post_id) ){
+						$sub = wcs_get_subscription($order_ids[1]->post_id);
+
+
+						$post = get_page_by_title_x( $name, OBJECT, 'product' );
+
+
+						if($post){
+							$items = $sub->get_items();
+							$items_count = count( $items);
+
+							//if($items_count == 1){
+
+							$product = wc_get_product($post->ID);
+							//$product->set_price( $cost );
+							$sub->add_product( $product, $qty, array('totals'    => array(
+								'subtotal'     => $qty*$cost,
+								'total'        => $qty*$cost,
+							) ));
+
+							$total_sub = 0;
+							foreach ($items as $item_id => $item) {
+								//Update Line Subtotal for each Item in the bundle
+								$product_id = (!empty($item['variation_id']) ? $item['variation_id'] : $item['product_id']);
+								if(in_array($product_id, array(7232,7233,7231, 24762))){
+									wc_update_order_item_meta($item_id, '_line_subtotal', 0);
+									wc_update_order_item_meta($item_id, '_line_total', 0);
+								}else{
+									//wc_delete_order_item($item_id);
+								}
+
+							}
+							$sub->calculate_taxes();
+							$sub->calculate_totals();
+
+							//}
+
+
+
+							//echo "Subscription on index " . $order_ids[1]->post_id . " added, product " . $post->ID . ' c-' . $cont . PHP_EOL .  '<br>';
+						}
+					}
+				}
+
+			}else{
+				echo "Product on index " . $cont . " was not imported, required info was not found<br>";
+			}
+
+			$cont++;
+		}
+		fclose($handle);
+	}else{
+		echo "There was an error in your file.";
+	}
+}
+
+if(isset($_POST['import_users'])){
+
+
+	$file_name = sanitize_file_name($_FILES['file_import']['name']);
+	$file_tmp = sanitize_text_field($_FILES['file_import']['tmp_name']);
+	move_uploaded_file($file_tmp, ES_PLUGIN_PATH . 'uploads/' . $file_name );
+	$is_personal = isset($_POST['is_personal']);
+
+	$last_processed = get_option('last_index_imported', 0);
+
+	$users_file =  array();
+
+	if (($handle = fopen(ES_PLUGIN_PATH . 'uploads/' . $file_name, "r")) !== FALSE) {
+		$cont=0;
+		$current_primary_account = 0;
+		while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
+
+			if($cont%40 == 0 && $cont > $last_processed){
+				update_option('last_index_imported', $cont);
+				es_write_log('Import interrupted, next row to import ' . $cont);
+				break;
+			}
+
+			if($cont === 0 || $cont < $last_processed){ $cont++; continue; }
+
+			if('' != trim($data[0]) && '' != trim($data[3])){
+
+				$type = $data[0];
+				$organization = $data[1];
+				$name = $data[2] == '' ? $organization : $data[2];
+				$email = $data[3];
+				$address = $data[4];
+				$address2 = $data[5];
+				$city = $data[6];
+				$state = $data[7];
+				//$country = $data[8];
+				$country = 'US';
+				$zip = $data[9];
+				$business_phone = $data[10];
+				$phone1 = $data[11];
+				$phone2 = $data[12];
+				$notes = $data[13];
+				$status = $data[14];
+				$interval = $data[15];
+				$stripe_customer_id = $data[16];
+				$stripe_source_id = $data[17];
+				$last4 = $data[18];
+				$expiry_year = $data[19];
+				$expiry_month = $data[20];
+				$card_type = $data[21];
+				$order_total = $data[22];
+				$invoice_id = $data[23];
+				$next_payment_day = $data[24];
+				$payer_cc = $data[25];
+
+
+				//Calculate the next payment day
+				if($type == "Primary" && (empty($next_payment_day) || $next_payment_day == 'empty')){
+					echo $email . " - Next Payment Day was not detected, index:" .$cont . "<br>";
+					es_write_log($email . " - Next Payment Day was not detected");
+					$cont++;
+					continue;
+				}
+
+				$next_payment_sub = es_get_next_payment_day( $next_payment_day );
+
+				if($interval == '3m' || $interval == 'empty' || empty($interval)){
+					$interval = 1;
+				}else if($interval == 'y'){
+					$interval = 3;
+				}else{
+					$interval = 2;
+				}
+
+				$user = get_user_by('login', $email);
+				$cancel_sub = false;
+				$cancel_note = '';
+				$account_id = -1;
+				$adding_new_sub = false;
+
+				if ( $user ) {
+
+					$account_id = $user->ID;
+					if ( $type === 'Primary' ){
+						$adding_new_sub = true;
+					}else{
+						$user_roles = $user->roles;
+						if ( in_array( 'business', $user_roles ) ) {
+							++$cont;
+							es_write_log($email . " Secondary account email match with a primary account. Not added");
+							continue;
+						} else {
+							$organizations = get_user_meta( $account_id, 'rel_organizations', true );
+							$organizations = $organizations ? unserialize( $organizations ) : [];
+							$organizations[] = $organization;
+							update_user_meta( $account_id, 'rel_organizations', serialize( $organizations ) );
+							++$cont;
+							es_write_log($email . " Secondary already exist with a different organization, Adding new organization (".$organization.") to the account");
+							continue;
+						}
+
+					}
+
+
+				}else{
+
+					$character_list = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+					$password = substr(str_shuffle($character_list),0,10);
+
+					$names = explode(' ', $name);
+
+					$account_id = wp_insert_user( array(
+						'user_pass'  => $password,
+						'user_email' => $email,
+						'first_name' => $names[0],
+						'last_name'  => isset( $names[1] ) && ! empty($names[1]) ? $names[1] : '',
+						'user_login' => $email,
+						'description' => $notes,
+					) );
+
+					if(is_wp_error($account_id)){
+						echo $email . " was not imported, ". serialize($account_id) ." <br>";
+						es_write_log($email . " was not imported, " . serialize($account_id));
+						$cont++;
+						continue;
+					}
+
+				}
+
+				$new_user = get_user_by( 'ID', $account_id );
+				$new_user->add_role( 'business-4' ); //To differentiate what users need a link to renew
+
+				//For testing purpose
+				/*if($type == "Primary" && $stripe_source_id != 'empty'){
+					$stripe_customer_id = 'cus_OygBP9zelZrx3F';
+					$stripe_source_id = 'pm_1OGPVZKPS7KEOFbqCf01YqAR';
+					$last4 = '4242';
+					$card_type = 'visa';
+					$expiry_month = '04';
+					$expiry_year = '24';
+
+				}*/
+
+				if($type == 'Primary' && ($stripe_source_id == 'empty' || empty($stripe_source_id) )){
+					$cancel_note = "User " . $email .  " on index " . $cont . ", Missing stripe data, subscription on hold";
+					echo $cancel_note . "<br>";
+					$cancel_sub = true;
+					$new_user->add_role( 'need_to_renew' );
+				}
+
+				//Payer cc logic
+				if(!empty($payer_cc) && strtolower($payer_cc) != strtolower($email)){
+					update_field('es_payers_cc', trim($payer_cc), 'user_' . $account_id );
+				}
+
+				//Only update the user meta if we are adding the user if not skip them since we are only adding subscription
+				if( ! $adding_new_sub ) {
+					update_user_meta( $account_id, "billing_first_name", $names[0] );
+					if(count($names) > 1){
+						update_user_meta( $account_id, "billing_last_name", $names[1] );
+					}
+
+					update_user_meta( $account_id, "_stripe_customer_id", $stripe_customer_id );
+					update_user_meta( $account_id, "version_up", '3' );
+					update_user_meta( $account_id, "wp_bxcl__stripe_customer_id", $stripe_customer_id );
+					update_user_meta( $account_id, "billing_company", $organization );
+					update_user_meta( $account_id, "billing_email", $email );
+					update_user_meta( $account_id, "billing_address_1", $address);
+					update_user_meta( $account_id, "billing_address_2", $address2 );
+					update_user_meta( $account_id, "billing_city", $city);
+					update_user_meta( $account_id, "billing_postcode", $zip );
+					update_user_meta( $account_id, "billing_country", $country);
+					update_user_meta( $account_id, "billing_state", $state );
+					update_user_meta( $account_id, "billing_phone", $business_phone );
+					update_user_meta( $account_id, "billing_phone2", $phone1 );
+					update_user_meta( $account_id, "billing_business_phone", $business_phone );
+					update_user_meta( $account_id, "es_password", $password );
+					update_user_meta( $account_id, "customer_rel", $notes );
+				}
+
+				$user_data = array(
+					'ID' => $account_id,
+					'last_name' => $new_user->last_name,
+					'first_name' => $new_user->first_name,
+					'billing_address_1' => $address,
+					'billing_address_2' =>$address2 ,
+					'billing_city' => $city,
+					'billing_postcode' => $zip,
+					'billing_country' => $country,
+					'billing_state' => $state,
+					'user_email' => $email,
+				);
+
+				if( $type == 'Secondary' ){
+
+					global $wpdb;
+
+					$result = $wpdb->get_results("SELECT * FROM " . $wpdb->prefix . "usermeta where meta_value='$organization' AND meta_key = 'es_primary_account'");
+
+					if ( isset( $result[0]->user_id ) ) {
+
+						$user_id = intval( $result[0]->user_id );
+
+						$accounts_serialized = get_user_meta($user_id, 'subaccount_ids', true);
+						$accounts = $accounts_serialized && count(unserialize($accounts_serialized)) > 0 ? unserialize($accounts_serialized) : [];
+
+						$new_user->add_role( 'sub-account' );
+						$accounts[] = $account_id;
+
+						//Create the relation main account / sub-accounts
+						update_user_meta($user_id,'subaccount_ids',serialize($accounts));
+						//Create the relation sub-account / main account
+						update_user_meta($account_id,'main_account_id',$current_primary_account);
+
+					}else{
+						echo "Secondary account orphaned:" .$cont. "<br>";
+						es_write_log($email . " - Secondary account orphaned");
+						$cont++;
+						continue;
+					}
+
+
+				}else{
+					/*if($is_personal){
+						$new_user->add_role( 'subscriber' );
+					}else{*/
+					$new_user->add_role( 'business' );
+					$new_user->remove_role( 'subscriber' );
+					//}
+					update_user_meta($account_id, 'es_primary_account', $organization);
+					$current_primary_account = $account_id;
+
+
+					//Add the stripe source meta
+					if(!$cancel_sub){
+						es_add_payment_token($account_id, $stripe_source_id, $last4, $expiry_month, $expiry_year, $card_type);
+					}
+					//Add subscription
+					es_create_subscription($user_data, '', $interval, $stripe_customer_id, $stripe_source_id, floatval($order_total), $invoice_id, $cancel_sub, $cancel_note, $next_payment_sub);
+				}
+
+			}else{
+				echo "User on index " . $cont . " was not imported, required info was not found<br>";
+				es_write_log("User on index " . $cont . " was not imported, required info was not found");
+			}
+			update_option('es_last_inserted', $cont);
+			//es_write_log('User ' . $email . ' processed ' . $cont);
+			/*if($cont%30 == 0){
+				sleep(30);
+			}*/
+			$cont++;
+		}
+		fclose($handle);
+	}else{
+		echo "There was an error in your file.";
+	}
+
+	echo "<br><strong> Import Finished!</strong>";
+
+}
+
+function es_create_subscription( $user, $note = '', $interval = 1, $stripe_customer_id, $stripe_source_id, $total, $invoice_id, $cancel_sub = false, $cancel_note = '', $next_payment_day  ){
+
+	// First make sure all required functions and classes exist
+	if( ! function_exists( 'wc_create_order' ) || ! function_exists( 'wcs_create_subscription' ) || ! class_exists( 'WC_Subscriptions_Product' ) ){
+		echo "Error, subscription cant be created 100<br>";
+		es_write_log('For user ' . $user['ID'] . ' there was an error related with the main functions to create the subscription do not exist');
+		return false;
+	}
+
+	$product = $interval != 1 ? wc_get_product(7232) : wc_get_product(7233);
+	if($interval == 3){
+		$product = wc_get_product(24762);
+	}
+
+	$order = wc_create_order( array( 'customer_id' => $user['ID'] ) );
+
+	if( is_wp_error( $order ) ){
+		echo "Error, subscription cant be created e101<br>";
+		es_write_log('For user ' . $user['ID'] . ' there was an error related $order variable being an error');
+		return false;
+	}
+
+
+	$fname     = $user['first_name'];
+	$lname     = $user['last_name'];
+	$email     = $user['user_email'];
+	$address_1 = $user['billing_address_1'];
+	$address_2 = $user['billing_address_2'];
+	$city      = $user['billing_city'];
+	$postcode  = $user['billing_postcode'];
+	$country   = $user['billing_country'];
+	$state     = $user['billing_state'];
+
+	$address         = array(
+		'first_name' => $fname,
+		'last_name'  => $lname,
+		'email'      => $email,
+		'address_1'  => $address_1,
+		'address_2'  => $address_2,
+		'city'       => $city,
+		'state'      => $state,
+		'postcode'   => $postcode,
+		'country'    => $country,
+	);
+
+	$order->update_meta_data( 'es_invoice_id', $invoice_id);
+
+	$order->set_address( $address, 'billing' );
+	$order->set_address( $address, 'shipping' );
+	$order->add_product( $product, 1 );
+
+	$sub = wcs_create_subscription(array(
+		'order_id' => $order->get_id(),
+		'status' => 'pending', // Status should be initially set to pending to match how normal checkout process goes
+		'billing_period' => WC_Subscriptions_Product::get_period( $product ),
+		'billing_interval' => WC_Subscriptions_Product::get_interval( $product )
+	));
+
+	$sub->set_address( $address, 'billing' );
+	$sub->set_address( $address, 'shipping' );
+
+	if( is_wp_error( $sub ) ){
+		echo "Error, subscription cant be created 102<br>";
+		es_write_log("Error, subscription cant be created 102");
+		return false;
+	}
+
+	//Set all the meta data that will be needed
+	$sub->update_meta_data( 'es_invoice_id', $invoice_id);
+	$sub->update_meta_data( 'es_import_status', $cancel_sub);
+	if(!$cancel_sub){
+		$order->update_meta_data( '_stripe_source_id', $stripe_source_id);
+		$order->update_meta_data( 'version', '3');
+		$order->update_meta_data( '_stripe_customer_id', $stripe_customer_id);
+		$order->update_meta_data( '_stripe_charge_captured', 'yes');
+		$order->set_payment_method_title('Credit Card (Stripe)' );
+		$order->set_payment_method( 'stripe' );
+		$sub->set_payment_method( 'stripe' );
+		$order->update_meta_data( '_stripe_currency', 'USD');
+
+		$sub->update_meta_data( '_stripe_source_id', $stripe_source_id);
+		$sub->update_meta_data( '_stripe_customer_id', $stripe_customer_id);
+		$sub->update_meta_data( '_stripe_charge_captured', 'yes');
+		$sub->set_payment_method_title('Credit Card (Stripe)' );
+		$sub->update_meta_data( '_stripe_currency', 'USD');
+	}
+
+	// Modeled after WC_Subscriptions_Cart::calculate_subscription_totals()
+	$start_date = gmdate( 'Y-m-d H:i:s' );
+	// Add product to subscription
+	$sub->add_product( $product, 1,
+		array(
+			'variation' => ( method_exists( $product, 'get_variation_attributes' ) ) ? $product->get_variation_attributes() : array(),
+			'totals'    => array(
+				'subtotal'     => $total,
+				'subtotal_tax' => 0,
+				'total'        => $total,
+				'tax'          => 0,
+				'tax_data'     => array(
+					'subtotal' => array(),
+					'total'    => array(),
+				),
+			),
+		) );
+
+	update_post_meta($sub->get_id(), '_requires_manual_renewal', false);
+
+	$next_payment = date_create($next_payment_day . ' 09:00:00');
+	//$start_payment = date_create($start_date . ' 01:00:00');
+	//$trial_end = date_create($next_payment_day . ' 19:50:00');
+
+	$dates = array(
+		//'trial_end'    => date_format($trial_end, 'Y-m-d H:i:s'),
+		'next_payment' => date_format($next_payment, 'Y-m-d H:i:s'),
+		'end'          => 0,
+	);
+
+	//var_dump($dates);
+	$sub->update_dates( $dates );
+	$sub->calculate_totals();
+
+	// Update order status with custom note
+	$note = ! empty( $note ) ? $note : __( 'Programmatically added order and subscription.' );
+
+	// Also update subscription status to active from pending (and add note)
+	if(!$cancel_sub){
+		$order->update_status( 'completed', $note, true );
+		$sub->update_status( 'active', $note, true );
+	}else{
+		$order->update_status( 'completed', $note, true );
+		$sub->update_status( 'active', $cancel_note, true );
+	}
+
+	$order->save();
+	$sub->save();
+
+	return $sub;
+}
+
+function es_add_payment_token($user_id, $stripe_source_id, $last4, $month, $year, $type){
+	global $wpdb;
+
+	$wpdb->query( $wpdb->prepare( "INSERT INTO $wpdb->prefix" .  "woocommerce_payment_tokens (gateway_id, token, user_id, type, is_default) VALUES ( %s, %s, %d, %s, %d)", 'stripe', $stripe_source_id, $user_id, 'CC', 1 ) );
+	$payment_token_id = (int) $wpdb->insert_id;
+	$wpdb->query( $wpdb->prepare( "INSERT INTO $wpdb->prefix" .  "woocommerce_payment_tokenmeta (payment_token_id, meta_key, meta_value) VALUES ( %d ,%s, %s)", $payment_token_id, 'last4', $last4 ) );
+	$wpdb->query( $wpdb->prepare( "INSERT INTO $wpdb->prefix" .  "woocommerce_payment_tokenmeta (payment_token_id, meta_key, meta_value) VALUES ( %d ,%s, %s)", $payment_token_id, 'expiry_month', $month ) );
+	$wpdb->query( $wpdb->prepare( "INSERT INTO $wpdb->prefix" .  "woocommerce_payment_tokenmeta (payment_token_id, meta_key, meta_value) VALUES ( %d ,%s, %s)", $payment_token_id, 'expiry_year', $year ) );
+	$wpdb->query( $wpdb->prepare( "INSERT INTO $wpdb->prefix" .  "woocommerce_payment_tokenmeta (payment_token_id, meta_key, meta_value) VALUES ( %d ,%s, %s)", $payment_token_id, 'card_type', $type ) );
+}
+
+// Get all customers subscriptions
+$hold_subscriptions = get_posts( array(
+	'numberposts' => -1,
+	'post_type'   => 'shop_subscription', // WC orders post type
+	'post_status' => array('wc-on-hold','wc-active') // Only orders with status "completed"
+) );
+
+foreach ($hold_subscriptions as $sub){
+	$subscription = wc_get_order($sub->ID);
+	$subscription->calculate_taxes();
+	$subscription->calculate_totals();
+
+
+	$subscription->save();
+}
+
+
+function get_page_by_title_x( $page_title, $output = OBJECT, $post_type = 'page' ) {
+	$query = new WP_Query(
+		array(
+			'post_type'              => $post_type,
+			'title'                  => $page_title,
+			'post_status'            => 'all',
+			'posts_per_page'         => 1,
+			'no_found_rows'          => true,
+			'ignore_sticky_posts'    => true,
+			'update_post_term_cache' => false,
+			'update_post_meta_cache' => false,
+			'orderby'                => 'date',
+			'order'                  => 'ASC',
+		)
+	);
+
+	if ( ! empty( $query->post ) ) {
+		$_post = $query->post;
+
+		if ( ARRAY_A === $output ) {
+			return $_post->to_array();
+		} elseif ( ARRAY_N === $output ) {
+			return array_values( $_post->to_array() );
+		}
+
+		return $_post;
+	}
+
+	return null;
+}
+function es_get_next_payment_day($next_payment_day){
+	$next_month = date('m', strtotime($next_payment_day));
+	$next_day = date('d', strtotime($next_payment_day));
+
+	$next_payment_sub = date('m/d/Y', strtotime($next_month . '/' . $next_day . '/2024'));
+	while(new DateTime($next_payment_sub . ' 23:50:50') < new DateTime('now')){
+
+		if($interval == '3m' || $interval == 'empty' || empty($interval)){
+			$next_payment_sub = date('m/d/Y', strtotime("+3 months", strtotime($next_payment_sub)));
+
+		}else if($interval == 'y'){
+			$next_payment_sub = date('m/d/Y', strtotime("+12 months", strtotime($next_payment_sub)));
+		}else{
+			$next_payment_sub = date('m/d/Y', strtotime("+1 months", strtotime($next_payment_sub)));
+		}
+
+	}
+
+	return $next_payment_sub;
+}
+
+?>
